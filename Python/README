@@ -1,0 +1,10 @@
+
+Teste2.png - Figura que mostra a média móvel de temperatura entre os anos com correlação de Pearson acima de 0,70.
+
+temperatura2020.csv - Dados de temperatura média diária observada de 2020 da cidade de Pelotas.
+
+temperatura_diaria.csv - Dados de temperatura média diária observada entre 1999 e 2020 na cidade de Pelotas.
+
+teste1.py - Teste para descobrir a correlação entre o ano de 2020 e cada ano entre 1999 e 2019.
+
+teste2.py - Teste para plotar a média móvel dos anos com correlação de Pearson acima de 0,70.
