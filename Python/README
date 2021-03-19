@@ -8,3 +8,4 @@ temperatura_diaria.csv - Dados de temperatura média diária observada entre 199
 teste1.py - Teste para descobrir a correlação entre o ano de 2020 e cada ano entre 1999 e 2019.
 
 teste2.py - Teste para plotar a média móvel dos anos com correlação de Pearson acima de 0,70.
+
