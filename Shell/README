@@ -1,0 +1,5 @@
+
+cadastro_estações.txt - Cadastro das estações meteorológicas synop do Rio Grande do Sul.
+
+download_synop.sh - Código em shellscript para fazer o download dos dados synop das estações meteorológicas no site Ogimet.
+
