@@ -1,0 +1,7 @@
+
+saida.txt - Arquivo de dados meteorológicos synop observados.
+
+synop.f - Código em fortran para organizar as variáveis meteorológicas e fazer conversão na velocidade do vento.
+
+dados.txt - Arquivo com os dados meteorológicos organizados.
+
