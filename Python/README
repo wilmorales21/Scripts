@@ -9,3 +9,14 @@ teste1.py - Teste para descobrir a correlação entre o ano de 2020 e cada ano e
 
 teste2.py - Teste para plotar a média móvel dos anos com correlação de Pearson acima de 0,70.
 
+oscilacao_antartica.csv - Dados do índice de oscilação Antártica.
+
+oscilacao_antartica.py - Teste para plotar o índice de Oscilação Antártica dos últimos 20 anos.
+
+Oscilação_Antártica.png - Figura que mostra o índice de Oscilação Antártica dos últimos 20 anos.
+
+enso.csv - Dados do índice de El Niño Oscilação Sul(ENSO) dos últimos 20 anos.
+
+enso.py - Teste para plotar o índice de ENSO dos últimos 20 anos.
+
+ENSO.png - Figura que mostra o índice de ENSO dos últimos 20 anos.
