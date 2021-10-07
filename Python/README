@@ -13,7 +13,7 @@ oscilacao_antartica.csv - Dados do índice de oscilação Antártica.
 
 oscilacao_antartica.py - Teste para plotar o índice de Oscilação Antártica dos últimos 20 anos.
 
-Oscilação_Antártica.png - Figura que mostra o índice de Oscilação Antártica dos últimos 20 anos.
+oscilação_antártica.png - Figura que mostra o índice de Oscilação Antártica dos últimos 20 anos.
 
 enso.csv - Dados do índice de El Niño Oscilação Sul(ENSO) dos últimos 20 anos.
 
