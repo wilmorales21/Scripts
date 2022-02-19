@@ -1,7 +1,7 @@
 
 Alegrete.csv - Arquivo de dados meteorológicos observados da estação automática do Instituto Nacional de Meteorologia(INMET).
 
-randomforest.py - Teste de Machine Learning usando o algoritmo Random Forest nos dados meteorológicos.
+randomforest.py - Teste de machine learning usando o algoritmo Random Forest nos dados meteorológicos.
 
 catboost.py - Teste de machine learning usando o algoritmo Catboost nos dados meteorológicos.
 
@@ -11,4 +11,4 @@ Machine_learning(Random_Forest).png - Figura gerada pelo machine learning usando
 
 Machine_learning(Catboost).png - Figura gerada pelo machine learning usando o algoritmo Catboost.
 
-Variaveis.csv - Arquivo de dados meteorológicos sem vírgulas gerado pelos outros códigos.
+Variaveis.csv - Arquivo de dados meteorológicos sem vírgulas gerado pelos códigos catboost.py e randomforest.py.
