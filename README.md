@@ -2,8 +2,8 @@ Nestes repositórios compartilho alguns códigos que foram escritos para fins me
 ### Linguagens de programação utilizadas
 <table>
  <tr>
-  <td bgcolor="YELLOW"> Fortran</td>
-  <td bgcolor="YELLOW"> Python</td>
-  <td bgcolor="YELLOW"> Shell</td>
+  <td bgcolor="YELLOW">Fortran</td>
+  <td bgcolor="YELLOW">Python</td>
+  <td bgcolor="YELLOW">Shell</td>
  </tr> 
 </table>
