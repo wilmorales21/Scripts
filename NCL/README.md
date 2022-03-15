@@ -1,4 +1,5 @@
 # Plotagem de figuras meteorológicas
+![automaticas_rs](https://user-images.githubusercontent.com/80546143/158456429-4fcdea4a-6f0a-423c-80b6-5c60a1643a45.png)
 
 
 
