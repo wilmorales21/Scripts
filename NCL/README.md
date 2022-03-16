@@ -1,4 +1,5 @@
 # Plotagem de figuras meteorológicas
+Para fins de ilustração, são apresentadas algumas figuras plotadas no Ncar Command Language(NCL) a partir de um conjunto de dados de estações automáticas do INMET no formato txt.
 ![automaticas_rs](https://user-images.githubusercontent.com/80546143/158456429-4fcdea4a-6f0a-423c-80b6-5c60a1643a45.png)
 Plotagem das estações automáticas do INMET sobre o RS.
 ![temperatura](https://user-images.githubusercontent.com/80546143/158456731-ddbbd802-7a52-43f1-ab28-d9341b69b2e8.png)
