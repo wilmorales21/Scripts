@@ -1,7 +1,7 @@
 ## Descrição
-O código synop.f serve para ajustar a pressão reduzida ao nível médio do mar, direção e a conversão da velocidade do vento a partir de dados meteorológicos das estações synop. O código fortran gera uma saída com os dados meteorológicos synop mais organizados.
+O código synop.f serve para ajustar a pressão reduzida ao nível médio do mar, direção e a conversão da velocidade do vento a partir de dados meteorológicos das estações synop.
 O código calculo_td.f serve para calcular a temperatura do ponto de orvalho a partir de informações de umidade específica e pressão.
-O código vento.f serve para calcular a direção do vento a partir de informações de vento zonal e meridional.
+O código vento.f serve para calcular a direção do vento a partir de informações de vento zonal e vento meridional.
 
 
 ## Conteúdo do repositório
