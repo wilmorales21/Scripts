@@ -1,14 +1,18 @@
 ## Descrição
 O código synop.f serve para ajustar a pressão reduzida ao nível médio do mar, direção e a conversão da velocidade do vento a partir de dados meteorológicos das estações synop.
 O código calculo_td.f serve para calcular a temperatura do ponto de orvalho a partir de informações de umidade específica e pressão.
-O código vento.f serve para calcular a direção do vento a partir de informações de vento zonal e vento meridional.
+O código vento.f serve para calcular a direção do vento a partir de informações de vento zonal e vento meridional. O código pressao_reduzida.f serve para calcular a pressão reduzida ao nível médio do mar.
 
 
 ## Conteúdo do repositório
 + calculo_td.f - Código para calcular a temperatura do ponto de orvalho a partir dos arquivos umidadeespecifica.txt e pressao.txt.
 + dados.txt - Arquivo com os dados meteorológicos organizados.
++ dados_estacoes.txt - Arquivo com dados meteorológicos com registro de pressão atmosférica sem a redução ao nível médio do mar.
 + direcao.txt - Arquivo com dados da direção do vento gerado pelo código vento.f.
++ estacoes.txt - Arquivo com dados de latitude, longitude e altitude de estações meteorológicas em algumas cidades do RS.
 + pressao.txt - Arquivo com dados de pressão atmosférica.
++ pressao_reduzida.f - Código para calcular a pressão reduzida ao nível médio do mar.
++ pressao_reduzida.txt - Arquivo com dados meteorológicos com a pressão reduzida ao nível médio do mar gerado pelo código pressao_reduzida.f.
 + saida.txt - Arquivo de dados meteorológicos synop observados.
 + synop.f - Código para organizar as variáveis meteorológicas, ajustar a pressão ao nível médio do mar e fazer conversão na velocidade do vento.
 + td.txt - Arquivo com dados de temperatura do ponto de orvalho gerado pelo código calculo_td.f.
