@@ -1,4 +1,4 @@
-## Descrição - Description
+## Descrição - Description - Descripción
 Nestes repositórios compartilho alguns códigos que foram escritos para fins meteorológicos e de ciência de dados. A ideia é auxiliar o programador a confeccionar o próprio código a partir de exemplos básicos. 
 
 In these repositories I share some codes that were written with meteorological and data science goals. The idea is to help the programmers to write his/her own codes from basic exemples.
