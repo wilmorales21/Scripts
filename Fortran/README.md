@@ -1,8 +1,9 @@
-## Descrição
-O código synop.f serve para ajustar a pressão reduzida ao nível médio do mar, direção e a conversão da velocidade do vento a partir de dados meteorológicos das estações synop.
-O código calculo_td.f serve para calcular a temperatura do ponto de orvalho a partir de informações de umidade específica e pressão.
-O código vento.f serve para calcular a direção do vento a partir de informações de vento zonal e vento meridional. O código pressao_reduzida.f serve para calcular a pressão reduzida ao nível médio do mar.
-
+## Descrição(PT-BR)
+O código synop.f serve para ajustar a pressão reduzida ao nível médio do mar, direção do vento e fazer a conversão da velocidade do vento a partir de dados meteorológicos das estações sinóticas. O código calculo_td.f serve para calcular a temperatura do ponto de orvalho a partir de informações de umidade específica e pressão. O código vento.f serve para calcular a direção do vento a partir de informações de vento zonal e vento meridional. O código pressao_reduzida.f serve para calcular a pressão reduzida ao nível médio do mar.
+## Description(ENG)
+The code synop.f serves to adapt the sea level pressure, wind direction and to do the conversion of the wind speed from meteorological datas of the synoptic stations. The code calculo_td.f serves to calculate the dew point temperature from datas of specific humidity and pressure. The code vento.f serves to calculate the wind direction from datas of zonal and meridional wind. The code pressao_reduzida.f serves to calculate pressure reduced to mean sea level.
+## Descripción(ESP)
+El codigo synop.f es para ajustar la pressión reducida al nivel medio del mar, dirección y hacer la conversión de la velocidad del viento a partir de datos meteorologicos de las estaciones sinópticas. El codigo calculo_td.f es para calcular la temperatura del punto de rocio a partir de datos del humedad específica y pressión. El codigo vento.f es para calcular la dirección del viento a partir de datos del viento zonal y viento meridional. El codigo pressao_reduzida.f es para calcular la pressión reducida al nivel medio del mar. 
 
 ## Conteúdo do repositório
 + calculo_td.f - Código para calcular a temperatura do ponto de orvalho a partir dos arquivos umidadeespecifica.txt e pressao.txt.
