@@ -41,15 +41,15 @@ El codigo synop.f es para ajustar la pressión reducida al nivel medio del mar, 
 
 ## Contenido del repositorio(ESP)
 + calculo_td.f - Código para calcular la temperatura del punto de rocio a partir de los archivos umidadeespecifica.txt y pressao.txt.
-+ dados.txt - Archivo con los datos meteorologicos organizados generado por el código synop.f.
-+ dados_estacoes.txt - Archivo con datos meteorologicos con registro de la pressión atmosferica sin la reducción al nivel médio del mar.
++ dados.txt - Archivo con los datos meteorológicos organizados generado por el código synop.f.
++ dados_estacoes.txt - Archivo con datos meteorológicos con registro de la pressión atmosférica sin la reducción al nivel médio del mar.
 + direcao.txt - Archivo con datos de la dirección del viento generado por lo código vento.f.
-+ estacoes.txt - Archivo con datos de latitud, longitud y altitud de las estaciones meteorologicas en algunas ciudades del estado de RS-Brasil
-+ pressao.txt - Archivo con datos de pressión atmosferica.
++ estacoes.txt - Archivo con datos de latitud, longitud y altitud de las estaciones meteorológicas en algunas ciudades del estado de RS-Brasil
++ pressao.txt - Archivo con datos de pressión atmosférica.
 + pressao_reduzida.f - Código para calcular la pressión reducida al nivel médio del mar a partir de los archivos dados_estacoes.txt y estacoes.txt.
-+ pressao_reduzida.txt - Archivo con datos meteorologicos con pressión reducida al nivel médio del mar generado por el código pressao_reduzida.f.
-+ saida.txt - Archivo de datos meteorologicos sinópticos observados.
-+ synop.f - Código para organizar las variables meteorologicas, ajustar la pressión al nivel médio del mar y hacer la conversión de la velocidad del viento a partir del archivo saida.txt.
++ pressao_reduzida.txt - Archivo con datos meteorológicos con pressión reducida al nivel médio del mar generado por el código pressao_reduzida.f.
++ saida.txt - Archivo de datos meteorológicos sinópticos observados.
++ synop.f - Código para organizar las variables meteorológicas, ajustar la pressión al nivel médio del mar y hacer la conversión de la velocidad del viento a partir del archivo saida.txt.
 + td.txt - Archivo con datos de temperatura del punto de rocio generado por el código calculo_td.f.
 + u.txt - Archivo con datos del viento zonal.
 + umidadeespecifica.txt - Archivo con datos de humedad especifica.
