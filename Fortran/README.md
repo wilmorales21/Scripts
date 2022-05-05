@@ -5,7 +5,7 @@ The code synop.f serves to adapt the sea level pressure, wind direction and to d
 ## Descripción(ESP)
 El codigo synop.f es para ajustar la pressión reducida al nivel medio del mar, dirección y hacer la conversión de la velocidad del viento a partir de datos meteorologicos de las estaciones sinópticas. El codigo calculo_td.f es para calcular la temperatura del punto de rocio a partir de datos del humedad específica y pressión. El codigo vento.f es para calcular la dirección del viento a partir de datos del viento zonal y viento meridional. El codigo pressao_reduzida.f es para calcular la pressión reducida al nivel medio del mar. 
 
-## Conteúdo do repositório
+## Conteúdo do repositório(PT-BR)
 + calculo_td.f - Código para calcular a temperatura do ponto de orvalho a partir dos arquivos umidadeespecifica.txt e pressao.txt.
 + dados.txt - Arquivo com os dados meteorológicos organizados.
 + dados_estacoes.txt - Arquivo com dados meteorológicos com registro de pressão atmosférica sem a redução ao nível médio do mar.
@@ -21,3 +21,6 @@ El codigo synop.f es para ajustar la pressión reducida al nivel medio del mar, 
 + umidadeespecifica.txt - Arquivo com dados de umidade específica.
 + v.txt - Arquivo com dados de velocidade meridional.
 + vento.f - Código para calcular a direção do vento a partir dos arquivos u.txt e v.txt. 
+
+## Repository content(ENG)
++ calculo_td.f - 
