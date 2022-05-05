@@ -17,9 +17,9 @@ El codigo synop.f es para ajustar la pressión reducida al nivel medio del mar, 
 + saida.txt - Arquivo de dados meteorológicos synop observados.
 + synop.f - Código para organizar as variáveis meteorológicas, ajustar a pressão ao nível médio do mar e fazer conversão na velocidade do vento a partir do arquivo saida.txt.
 + td.txt - Arquivo com dados de temperatura do ponto de orvalho gerado pelo código calculo_td.f.
-+ u.txt - Arquivo com dados de velocidade zonal.
++ u.txt - Arquivo com dados de vento zonal.
 + umidadeespecifica.txt - Arquivo com dados de umidade específica.
-+ v.txt - Arquivo com dados de velocidade meridional.
++ v.txt - Arquivo com dados de vento meridional.
 + vento.f - Código para calcular a direção do vento a partir dos arquivos u.txt e v.txt. 
 
 ## Repository content(ENG)
