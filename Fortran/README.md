@@ -40,4 +40,18 @@ El codigo synop.f es para ajustar la pressión reducida al nivel medio del mar, 
 + vento.f - Ths code calculates the direction wind from u.txt and v.txt files.
 
 ## Contenido del repositorio(ESP)
-+ calculo_td.f - 
++ calculo_td.f - Codigo para calcular la temperatura del punto de rocio a partir de los archivos umidadeespecifica.txt y pressao.txt.
++ dados.txt - Archivo con los datos meteorologicos organizados generado por el codigo synop.f.
++ dados_estacoes.txt - Archivo con datos meteorologicos con registro de la pressión atmosferica sin la reducción al nivel médio del mar.
++ direcao.txt - Archivo con datos de la dirección del viento generado por lo codigo vento.f.
++ estacoes.txt - Archivo con datos de latitud, longitud y altitud de las estaciones meteorologicas en algunas ciudades del estado de RS-Brasil
++ pressao.txt - Archivo con datos de pressión atmosferica.
++ pressao_reduzida.f - Codigo para calcular la pressión reducida al nivel médio del mar a partir de los archivos dados_estacoes.txt y estacoes.txt.
++ pressao_reduzida.txt - Archivo con datos meteorologicos con pressión reducida al nivel médio del mar generado por el codigo pressao_reduzida.f.
++ saida.txt - Archivo de datos meteorologicos sinópticos observados.
++ synop.f - Codigo para organizar las variables meteorologicas, ajustar la pressión al nivel médio del mar y hacer la conversión de la velocidad del viento a partir del archivo saida.txt.
++ td.txt - Archivo con datos de temperatura del punto de rocio generado por el codigo calculo_td.f.
++ u.txt - Archivo con datos del viento zonal.
++ umidadeespecifica.txt - Archivo con datos de humedad especifica.
++ v.txt - Archivo con datos de viento meridional.
++ vento.f - Codigo para calcular la dirección del viento a partir de los archivos u.txt y v.txt.
