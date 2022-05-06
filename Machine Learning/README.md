@@ -30,9 +30,9 @@ Machine learning usando o algoritmo Catboost.Machine learning using Catboost alg
 
 ## Contenido del repositorio(ESP)
 + Alegrete.csv - Archivo de datos meteorológicos observados de la estación automática del Instituto Nacional de Meteorologia(INMET).
-+ randomforest.py - Teste de aprendizaje de máquina utilizando el algoritmo Random Forest en los datos meteorológicos.
-+ catboost.py - Teste de aprendizaje de máquina utilizando el algoritmo Catboost en los datos meteorológicos.
-+ teste.py - Teste para descubrir cuales son las variables más similares en los datos meteorológicos utilizando el algoritmo ExtraTreesClassifier.
++ randomforest.py - Prueba de aprendizaje de máquina utilizando el algoritmo Random Forest en los datos meteorológicos.
++ catboost.py - Prueba de aprendizaje de máquina utilizando el algoritmo Catboost en los datos meteorológicos.
++ teste.py - Prueba para descubrir cuales son las variables más similares en los datos meteorológicos utilizando el algoritmo ExtraTreesClassifier.
 + Machine_learning(Random_Forest).png - Figura generada por lo aprendizaje de máquina utilizando el algoritmo Random Forest.
 + Machine_learning(Catboost).png - Figura generada por lo aprendizaje de máquina utilizando el algoritmo Catboost.
 + Variaveis.csv - Archivo de datos meteorológicos sin comas generado por los códigos catboost.py y randomforest.py.
