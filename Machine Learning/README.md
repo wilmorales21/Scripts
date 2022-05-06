@@ -3,7 +3,7 @@ Foram testados dois algoritmos distintos de machine learning em dados meteoroló
 
 Two machine learning algorithms were tested in meteorological datas recorded in the automatic station of the Instituto Nacional de Meteorologia(INMET) located in the city of Alegrete - RS between the days 01/01 and 07/01 in 2019. The algorithms are well-known Random Forest and Catboost.  
 
-Fueram testados dos algoritmos de aprendizaje de máquina en datos meteorológicos registrados en la estación automática del Instituto Nacional de Meteorologia(INMET) situado en la ciudad de Alegrete - RS entre los dias 01/01 y 07/01 de 2019. Los algoritmos son los bien conocidos Random Forest y Catboost. 
+Fueron testados dos algoritmos de aprendizaje de máquina en datos meteorológicos registrados en la estación automática del Instituto Nacional de Meteorologia(INMET) situado en la ciudad de Alegrete - RS entre los dias 01/01 y 07/01 de 2019. Los algoritmos son los bien conocidos Random Forest y Catboost. 
 
 ![Machine_learning(Random_forest)](https://user-images.githubusercontent.com/80546143/155857811-93f76264-08f0-4e40-a95a-0752ba7ac2f6.png)
 Machine learning usando o algoritmo Random Forest.Machine learning using Random Forest Algorithm.Aprendizaje de máquina utilizando el algoritmo Random Forest.  
