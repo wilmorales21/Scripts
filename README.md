@@ -7,7 +7,7 @@ En estos repositorios yo comparto algunos codigos que fueron escritos con el pro
 
 ### Linguagens de programação utilizadas
 ### Used programming languages
-### Lenguajes de programación utilizados
+### Lenguajes de programación utilizadas
 
 <table bgcolor="LIGHTGREY">
  <tr>
