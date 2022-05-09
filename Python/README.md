@@ -8,7 +8,7 @@ media_movel.py code from temperatura_diaria.csv data set. Then it was calculated
 correlacao.py code. It was also ploted the monthly evolution of the El Niño Southern Oscillation(ENSO) index between 2000 and 2021 by the enso.py code from
 enso.csv data set. 
 
-Fue calculada la média móbile de 30 dias de la temperatura média diária de la ciudad de Pelotas-RS, sur del Brasil, entre los años de 2000 y 2021 por el
+Fue calculada la média móvil de 30 dias de la temperatura média diária de la ciudad de Pelotas-RS, sur del Brasil, entre los años de 2000 y 2021 por el
 código media_movel.py a partir del archivo de datos temperatura_diaria.csv. En seguida, fue calculada la correlación de Pearson entre el año de 2020 y
 todos los otros años por el código correlacao.py. También fue plotada la evolución mensual del indice de El Niño Oscilación Sur(ENOS) entre los años de
 2000 y 2021 por el código enso.py a partir del archivo de datos enso.csv. 
