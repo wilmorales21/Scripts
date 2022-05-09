@@ -3,7 +3,7 @@ Para fins de ilustração, são apresentadas algumas figuras plotadas usando o N
 estações automáticas do Instituto Nacional de Meteorologia(INMET) localizadas no estado do RS-Brasil.
 
 For illustration purposes, are present some pictures ploted with the Ncar Command Language(NCL) from a data set in .txt format of all automatic stations
-of the Instituto Nacional de Meteorologia(INMET) located in the RS state, southern Brazil.
+of the Instituto Nacional de Meteorologia(INMET) located in the RS state, southern of Brazil.
 
 Con fines ilustrativos, son presentadas algunas figuras plotadas utilizando o Ncar Command Language(NCL) a partir de un conjunto de datos en el formato
 .txt de las estaciones automáticas del Instituto Nacional de Meteorologia(INMET) situadas en el estado del RS, sur de Brasil.
