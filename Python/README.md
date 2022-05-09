@@ -2,7 +2,7 @@
 
 Neste repositório são compartilhados todos os códigos em linguagem Python para criar figuras a partir de dados meteorológicos no formato csv. Para fins de ilustração, segue duas figuras que foram geradas por esses códigos.
 
-![Media_movel_temperatura](https://user-images.githubusercontent.com/80546143/167488671-52b93318-0712-4fb6-baaf-a57a944ebf8f.png)
+
 Média móvel da temperatura média diária da cidade de Pelotas dos anos com maiores correlações(colorido) e demais anos(cinza).
 
 ![enso](https://user-images.githubusercontent.com/80546143/155849220-3a01d92f-a002-4dc9-886a-8c21a81f7684.png)
