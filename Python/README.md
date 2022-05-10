@@ -14,10 +14,10 @@ todos los otros años por el código correlacao.py. También fue plotada la evol
 2000 y 2021 por el código enso.py a partir del archivo de datos enso.csv. 
 
 ![Media_movel_temperatura](https://user-images.githubusercontent.com/80546143/167489446-c5f62fd5-a867-439f-af57-249b6b6b042d.png)
-Média móvel de 30 dias da temperatura média diária da cidade de Pelotas entre 1999 e 2020. Anos com correlação de Pearson acima de 70%(colorido) e demais anos(cinza) - 30 days moving average of daily air temperature in the city of Pelotas-RS, southern of Brazil, between 1999 and 2020. Years with Pearson correlation above 70%(colors) and other years(gray) - Média móvil de la temperatura del aire diaria en la ciudad de Pelotas-RS, sur del Brasil, entre los años de 1999 y 2020.Años con correlación de Pearson arriba de 70%(colores) y otros años(gris).
+Média móvel de 30 dias da temperatura média diária da cidade de Pelotas entre 1999 e 2020. Anos com correlação de Pearson acima de 70%(colorido) e demais anos(cinza) - 30 days moving average of daily air temperature in the city of Pelotas-RS, southern of Brazil, between 1999 and 2020. Years with Pearson correlation above 70%(colors) and other years(grey) - Média móvil de la temperatura del aire diaria en la ciudad de Pelotas-RS, sur del Brasil, entre los años de 1999 y 2020.Años con correlación de Pearson arriba de 70%(colores) y otros años(gris).
 
 ![enos](https://user-images.githubusercontent.com/80546143/167686071-50e6877d-5234-432f-aecc-6f97d66a802c.png)
-Evolução mensal do índice de El Niño Oscilação Sul(ENOS).Anos com El Niño(vermelho), anos com La Niña(azul) e anos de neutralidade(branca) - Monthly evolution of the El Niño Southern Oscillation(ENSO) index. Years of El Niño(red), years of La Niña(blue) and years of neutrality(white)- Evolución mensual del índice de El Niño Oscilación Sur(ENOS).Años de El Niño(rojo), años de La Niña(azul) y años de neutralidad(blanco).
+Evolução mensal do índice de El Niño Oscilação Sul(ENOS).Anos com El Niño(vermelho), anos com La Niña(azul) e anos de neutralidade(branco) - Monthly evolution of the El Niño Southern Oscillation(ENSO) index. Years of El Niño(red), years of La Niña(blue) and years of neutrality(white)- Evolución mensual del índice de El Niño Oscilación Sur(ENOS).Años de El Niño(rojo), años de La Niña(azul) y años de neutralidad(blanco).
 
 ## Conteúdo do repositório(PT-BR)
 + Media_movel_temperatura.png - Figura que mostra a média móvel de 30 dias da temperatura do ar diária entre os anos de 1999 e 2020 para a cidade de Pelotas-RS, Brasil. Anos com correlação de Pearson acima de 70%(colorido) e demais anos (cinza).
@@ -32,7 +32,7 @@ Evolução mensal do índice de El Niño Oscilação Sul(ENOS).Anos com El Niño
 + temperatura_diaria.csv - Dados de temperatura média diária observada entre 1999 e 2020 na cidade de Pelotas-RS, Brasil.
 
 ## Repository content(ENG)
-+ Média_móvel_temperatura.png - This picture show the 30 days moving average of daily air temperature between 1999 and 2020 in the city of Pelotas-RS, southern of Brazil.Years with Pearson correlation above 70%(colors) and other years(gray). 
++ Média_móvel_temperatura.png - This picture show the 30 days moving average of daily air temperature between 1999 and 2020 in the city of Pelotas-RS, southern of Brazil.Years with Pearson correlation above 70%(colors) and other years(grey). 
 + correlacao.py - This code calculate the Pearson correlation between the 2020 year e other years.
 + enso.csv - Data set of El Niño Southern Oscillation(ENSO) monthly index between 2000 and 2021. 
 + enos.png - This picture show the El Niño Southern Oscillation(ENSO) monthly index between 2000 and 2021.
