@@ -1,13 +1,15 @@
-# Descrição - Description - Descripción
+# Descrição(PT-BR)
 Foi calculada a média móvel de 30 dias da temperatura média diária da cidade de Pelotas-RS, Brasil, entre os anos de 1999 e 2020 pelo código media_movel.py
 a partir do arquivo de dados temperatura_diaria.csv. Em seguida, foi calculada a correlação de Pearson entre o ano de 2020 e todos outros anos pelo código
 correlacao.py. Também foi plotada a evolução mensal do índice de El Niño Oscilação Sul(ENOS) entre os anos de 2000 e 2021 pelo código enso.py a partir do arquivo de dados enso.csv.  
 
+# Description(ENG)
 It was calculated the 30 days moving average for daily mean temperature in the city of Pelotas-RS, Southern of Brazil, between 1999 and 2020 by the
 media_movel.py code from temperatura_diaria.csv data set. Then it was calculated the Pearson correlation between the year of 2020 and other years by the
 correlacao.py code. It was also ploted the monthly evolution of the El Niño Southern Oscillation(ENSO) index between 2000 and 2021 by the enso.py code from
 enso.csv data set. 
 
+# Descripción(ESP)
 Fue calculada la média móvil de 30 dias de la temperatura média diária de la ciudad de Pelotas-RS, sur del Brasil, entre los años de 1999 y 2020 por el
 código media_movel.py a partir del archivo de datos temperatura_diaria.csv. En seguida, fue calculada la correlación de Pearson entre el año de 2020 y
 todos los otros años por el código correlacao.py. También fue plotada la evolución mensual del indice de El Niño Oscilación Sur(ENOS) entre los años de
