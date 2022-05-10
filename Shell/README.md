@@ -1,6 +1,6 @@
 ## Descrição - Description - Descripción
 Foi escrito o código download_synop.sh para baixar os dados sinóticos do site Ogimet, usando como base um cadastro das estações sinóticas do Rio Grande do
-Sul(RS) com informações de latitude, longitude e número da estação. Obs:Para o código funcionar é preciso baixar o programa Linx! O código corte.sh serve
+Sul(RS)-Brasil, com informações de latitude, longitude e número da estação. Obs:Para o código funcionar é preciso baixar o programa Linx! O código corte.sh serve
 para editar as informações de vento zonal que estão no arquivo u.txt.
 
 It was written the download_synop.sh code to download the synoptic datas from Ogimet site using a register with informations about synoptic stations
