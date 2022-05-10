@@ -7,10 +7,27 @@ In these repositories I share some codes that were written with meteorological a
 ## Descripción(ESP)
 En estos repositorios yo comparto algunos codigos que fueron escritos con el proposito meteorologico y de la ciencia de datos. La ideia es ayudar el programador(a) escribir sus proprios codigos de ejemplos básicos.
 
-### Linguagens de programação utilizadas
-### Used programming languages
-### Lenguajes de programación utilizadas
+### Linguagens de programação utilizadas(PT-BR)
+<table bgcolor="LIGHTGREY">
+ <tr>
+  <td>Fortran</td>
+  <td>Python</td>
+  <td>Shell</td>
+  <td>NCL</td>
+ </tr> 
+</table>
 
+### Used programming languages(ENG)
+<table bgcolor="LIGHTGREY">
+ <tr>
+  <td>Fortran</td>
+  <td>Python</td>
+  <td>Shell</td>
+  <td>NCL</td>
+ </tr> 
+</table>
+
+### Lenguajes de programación utilizadas(ESP)
 <table bgcolor="LIGHTGREY">
  <tr>
   <td>Fortran</td>
