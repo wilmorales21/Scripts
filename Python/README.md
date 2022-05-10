@@ -55,4 +55,4 @@ Evolução mensal do índice de El Niño Oscilação Sul(ENOS).Anos com El Niño
 + oscilacao_antartica.csv - Datos mensuales del índice de Oscilación Antarctica entre los años de 2000 y 2021.
 + oscilacao_antartica.py - Código para plotar el índice mensual de Oscilación Antarctica entre los años de 2000 y 2021.
 + oscilacao_antartica.png - Figura que ilustra el índice mensual de Oscilación Antarctica entre los años de 2000 y 2021.
-+ temperatura_diaria.csv - Datos de temperatura média diaria observada entre los años de 1999 y 2020 en la ciudad de Pelotas-RS,sur del Brazil.
++ temperatura_diaria.csv - Datos de temperatura média diaria observada entre los años de 1999 y 2020 en la ciudad de Pelotas-RS,sur del Brasil.
