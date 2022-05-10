@@ -16,14 +16,14 @@ todos los otros años por el código correlacao.py. También fue plotada la evol
 ![Media_movel_temperatura](https://user-images.githubusercontent.com/80546143/167489446-c5f62fd5-a867-439f-af57-249b6b6b042d.png)
 Média móvel de 30 dias da temperatura média diária da cidade de Pelotas entre 1999 e 2020. Anos com correlação de Pearson acima de 70%(colorido) e demais anos(cinza) - 30 days moving average of daily air temperature in the city of Pelotas-RS, southern of Brazil, between 1999 and 2020. Years with Pearson correlation above 70%(colors) and other years(gray) - Média móvil de la temperatura del aire diaria en la ciudad de Pelotas-RS, sur del Brasil, entre los años de 1999 y 2020.Años con correlación de Pearson arriba de 70%(colores) y otros años(gris).
 
-
-Evolução mensal do índice de El Niño Oscilação Sul(ENOS) - Monthly evolution of the El Niño Southern Oscillation(ENSO) index - Evolución mensual del índice de El Niño Oscilación Sur(ENOS)
+![enos](https://user-images.githubusercontent.com/80546143/167686071-50e6877d-5234-432f-aecc-6f97d66a802c.png)
+Evolução mensal do índice de El Niño Oscilação Sul(ENOS).Anos com El Niño(vermelho), anos com La Niña(azul) e anos de neutralidade(branca) - Monthly evolution of the El Niño Southern Oscillation(ENSO) index. Years of El Niño(red), years of La Niña(blue) and years of neutrality(white)- Evolución mensual del índice de El Niño Oscilación Sur(ENOS).Años de El Niño(rojo), años de La Niña(azul) y años de neutralidad(blanco).
 
 ## Conteúdo do repositório(PT-BR)
 + Media_movel_temperatura.png - Figura que mostra a média móvel de 30 dias da temperatura do ar diária entre os anos de 1999 e 2020 para a cidade de Pelotas-RS, Brasil. Anos com correlação de Pearson acima de 70%(colorido) e demais anos (cinza).
 + correlacao.py - Código para calcular a correlação entre 2020 e os demais anos.
 + enso.csv - Dados do índice mensal de El Niño Oscilação Sul(ENOS) entre os anos 2000 e 2021.
-+ enso.png - Figura que mostra o índice mensal de El Niño Oscilação Sul(ENOS) entre 2000 e 2021.
++ enos.png - Figura que mostra o índice mensal de El Niño Oscilação Sul(ENOS) entre 2000 e 2021.
 + enso.py - Código para plotar o índice mensal de El Niño Oscilação Sul(ENOS) entre 2000 e 2021.
 + media_movel.py - Código para plotar a média móvel de 30 dias da temperatura do ar diária entre os anos de 1999 e 2020 para a cidade de Pelotas-RS, Brasil.
 + oscilacao_antartica.csv - Dados mensais do índice de Oscilação Antártica entre os anos 2000 e 2021.
@@ -35,7 +35,7 @@ Evolução mensal do índice de El Niño Oscilação Sul(ENOS) - Monthly evoluti
 + Média_móvel_temperatura.png - This picture show the 30 days moving average of daily air temperature between 1999 and 2020 in the city of Pelotas-RS, southern of Brazil.Years with Pearson correlation above 70%(colors) and other years(gray). 
 + correlacao.py - This code calculate the Pearson correlation between the 2020 year e other years.
 + enso.csv - Data set of El Niño Southern Oscillation(ENSO) monthly index between 2000 and 2021. 
-+ enso.png - This picture show the El Niño Southern Oscillation(ENSO) monthly index between 2000 and 2021.
++ enos.png - This picture show the El Niño Southern Oscillation(ENSO) monthly index between 2000 and 2021.
 + enso.py - This code plots the El Niño Southern Oscillation(ENSO) monthly index between 2000 and 2021.
 + media_movel.py - This code calculate the 30 days moving average of air temperature daily between 1999 and 2020 for city of Pelotas-RS, southern of Brazil.
 + oscilacao_antartica.csv - Monthly data set of the Antartic Oscillation index between 2000 and 2021. 
@@ -47,7 +47,7 @@ Evolução mensal do índice de El Niño Oscilação Sul(ENOS) - Monthly evoluti
 + Media_movel_temperatura.png - Figura que ilustra la média móvil de 30 dias de la temperatura del aire entre los años de 1999 y 2020 para la ciudad de Pelotas-RS, sur del Brasil. Años con correlación de Pearson arriba 70%(colores) y otros años(gris)
 + correlacao.py - Código para calcular la correlación de Pearson entre 2020 y los otros años.
 + enso.csv - Datos del índice mensual de El Niño Oscilación Sur(ENOS) entre los años de 2000 y 2021.
-+ enso.png - Figura que ilustra el índice mensual de El Niño Oscilación Sur(ENOS) entre los años de 2000 y 2021.
++ enos.png - Figura que ilustra el índice mensual de El Niño Oscilación Sur(ENOS) entre los años de 2000 y 2021.
 + enso.py - Código para plotar el índice mensual de El Niño Oscilación Sur(ENOS) entre los años de 2000 y 2021.
 + media_movel.py - Código para plotar la média móvil de 30 dias de la temperatura del aire diaria entre los años de 1999 y 2020 para la ciudad de Pelotas-RS,sur del Brasil.
 + oscilacao_antartica.csv - Datos mensuales del índice de Oscilación Antarctica entre los años de 2000 y 2021.
