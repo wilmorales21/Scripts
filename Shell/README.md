@@ -1,12 +1,14 @@
-## Descrição - Description - Descripción
+# Descrição(PT-BR)
 Foi escrito o código download_synop.sh para baixar os dados sinóticos do site Ogimet, usando como base um cadastro das estações sinóticas do Rio Grande do
 Sul(RS)-Brasil, com informações de latitude, longitude e número da estação. Obs:Para o código funcionar é preciso baixar o programa Linx! O código corte.sh serve
 para editar as informações de vento zonal que estão no arquivo u.txt.
 
+# Description(ENG)
 It was written the download_synop.sh code to download the synoptic datas from Ogimet site using a register with informations about synoptic stations
 located in the Rio Grande do Sul(RS) state,southern of Brazil, conteining datas of latitude, longitude and station number.Note: It's need to install the
 Linx programm for the code to run.The corte.sh code serves to edit the informations of zonal wind that are in u.txt file.
 
+# Descripción(ESP)
 Fue escrito el código download_synop.sh para bajar los datos sinópticos del site Ogimet utilizando como base un registro de las estaciones sinópticas en el Rio Grande do Sul(RS),sur del Brasil, con informaciones de latitud, longitud y numero de la estación. Nota: para el código trabajar se necesita bajar
 el programa Linx! El código corte.sh es para editar las informaciones de viento zonal que estan en el archivo u.txt.  
 
