@@ -15,7 +15,7 @@ el programa Linx! El código corte.sh es para editar las informaciones de viento
 + corte.sh - Código para cortar os 15 primeiros caracteres do arquivo u.txt com informações de vento zonal.
 + corte.txt - Arquivo com as informações editadas de vento zonal.
 + download_synop.sh - Código para fazer o download dos dados sinóticos das estações meteorológicas no site Ogimet.
-+ synop.txt - Cadastro das estações meteorológicas sinóticas do Rio Grande do Sul(RS).
++ synop.txt - Cadastro das estações meteorológicas sinóticas do Rio Grande do Sul(RS)-Brasil.
 + u.txt - Arquivo contendo informações de vento zonal.
 
 ## Repository content(ENG)
