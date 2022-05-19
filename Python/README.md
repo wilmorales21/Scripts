@@ -21,7 +21,7 @@ Média móvel de 30 dias da temperatura média diária da cidade de Pelotas entr
 ![dispersao2020-2011](https://user-images.githubusercontent.com/80546143/169357646-1b0b2049-860d-4c44-b4d9-eaf633e2d3de.png)
 Gráfico de dispersão simples da temperatura média diária entre os anos de 2020 e 2011, onde a correlação de Pearson foi de 74% - Simple scatter plot of
 daily average temperature between 2020 and 2011, where the Pearson correlation was 74% - Gráfico de dispersión simples de la temperatura média diária entre
-los años de 2020 y 2021, donde la correlación de Pearson fue de 74%.
+los años de 2020 y 2011, donde la correlación de Pearson fue de 74%.
 
 ![enos](https://user-images.githubusercontent.com/80546143/167686071-50e6877d-5234-432f-aecc-6f97d66a802c.png)
 Evolução mensal do índice de El Niño Oscilação Sul(ENOS).Anos com El Niño(vermelho), anos com La Niña(azul) e anos de neutralidade(branco) - Monthly evolution of the El Niño Southern Oscillation(ENSO) index. Years of El Niño(red), years of La Niña(blue) and years of neutrality(white)- Evolución mensual del índice de El Niño Oscilación Sur(ENOS).Años de El Niño(rojo), años de La Niña(azul) y años de neutralidad(blanco).
