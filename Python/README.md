@@ -20,7 +20,7 @@ Média móvel de 30 dias da temperatura média diária da cidade de Pelotas entr
 
 ![dispersao2020-2011](https://user-images.githubusercontent.com/80546143/169357646-1b0b2049-860d-4c44-b4d9-eaf633e2d3de.png)
 Gráfico de dispersão simples da temperatura média diária entre os anos de 2020 e 2011, onde a correlação de Pearson foi de 74% - Simple scatter plot of
-daily average temperature between 2020 and 2011, where the Pearson correlation was 74% - Gráfico de dispersión simples de la temperatura média diária entre
+daily average temperature between the years 2020 and 2011, where the Pearson correlation was 74% - Gráfico de dispersión simples de la temperatura média diária entre
 los años de 2020 y 2011, donde la correlación de Pearson fue de 74%.
 
 ![enos](https://user-images.githubusercontent.com/80546143/167686071-50e6877d-5234-432f-aecc-6f97d66a802c.png)
