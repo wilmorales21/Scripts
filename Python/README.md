@@ -18,7 +18,7 @@ Sur(ENOS) entre los años de 2000 y 2021 por el código enso.py a partir del arc
 ![Media_movel_temperatura](https://user-images.githubusercontent.com/80546143/167489446-c5f62fd5-a867-439f-af57-249b6b6b042d.png)
 Média móvel de 30 dias da temperatura média diária da cidade de Pelotas entre 1999 e 2020. Anos com correlação de Pearson acima de 0.70(colorido) e demais anos(cinza) - 30 days moving average of daily air temperature in the city of Pelotas-RS, southern of Brazil, between 1999 and 2020. Years with Pearson correlation above 0.70(colors) and other years(grey) - Média móvil de la temperatura del aire diaria en la ciudad de Pelotas-RS, sur del Brasil, entre los años de 1999 y 2020.Años con correlación de Pearson arriba de 0.70(colores) y otros años(gris).
 
-
+![dispersao2011-2020](https://user-images.githubusercontent.com/80546143/169409465-02735fe2-7956-4a0d-9269-b523d72affe0.png)
 Gráfico de dispersão simples da temperatura média diária entre os anos de 2020 e 2011, onde a correlação de Pearson foi de 0.74 - Simple scatter plot of
 daily average temperature between the years 2020 and 2011, where the Pearson correlation was 0.74 - Gráfico de dispersión simples de la temperatura média diária entre los años de 2020 y 2011, donde la correlación de Pearson fue de 0.74.
 
