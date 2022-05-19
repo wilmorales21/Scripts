@@ -1,7 +1,7 @@
 # Descrição(PT-BR)
 Foi calculada a média móvel de 30 dias da temperatura média diária da cidade de Pelotas-RS, Brasil, entre os anos de 1999 e 2020 pelo código media_movel.py
 a partir do arquivo de dados temperatura_diaria.csv. Foi calculada a correlação de Pearson entre o ano de 2020 e todos outros anos pelo código
-correlacao.py Em seguida, foi plotado o gráfico de dispersão simples entre os anos com correlação de Pearson acima de 0.70 pelo código dispersão.py a
+correlacao.py. Em seguida, foi plotado o gráfico de dispersão simples entre os anos com correlação de Pearson acima de 0.70 pelo código dispersão.py a
 partir do arquivo de dados temperatura_diaria.csv. Também foi plotada a evolução mensal do índice de El Niño Oscilação Sul(ENOS) entre os anos de 2000 e 2021 pelo código enso.py a partir do arquivo de dados enso.csv.  
 
 # Description(ENG)
