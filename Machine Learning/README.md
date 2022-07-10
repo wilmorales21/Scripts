@@ -1,16 +1,18 @@
 # Descrição(PT-BR)
-Foram testados dois algoritmos distintos de machine learning em dados meteorológicos registrados na estação automática do Instituto Nacional de Meteorologia(INMET), localizada em Alegrete-RS entre os dias 01/01 e 07/01 de 2019. Os algoritmos são os bem conhecidos Random Forest e o Catboost.
+Foram testados três algoritmos distintos de machine learning em dados meteorológicos registrados na estação automática do Instituto Nacional de Meteorologia(INMET), localizada em Alegrete-RS entre os dias 01/01 e 07/01 de 2019. Os algoritmos são os bem conhecidos Random Forest, Catboost e o Tensorflow.
 
 # Description(ENG)
-Two machine learning algorithms were tested in meteorological datas recorded in the automatic station of the Instituto Nacional de Meteorologia(INMET) located in the city of Alegrete-RS, southern of Brazil, between the days 01/01 and 07/01 in 2019. The algorithms are well-known Random Forest and Catboost.  
+Three machine learning algorithms were tested in meteorological datas recorded in the automatic station of the Instituto Nacional de Meteorologia(INMET) located in the city of Alegrete-RS, southern of Brazil, between the days 01/01 and 07/01 in 2019. The algorithms are well-known Random Forest and Catboost and Tensorflow.  
 
 # Descripción(ESP)
-Fueron probados dos algoritmos de aprendizaje de máquina en datos meteorológicos registrados en la estación automática del Instituto Nacional de Meteorologia(INMET) situado en la ciudad de Alegrete-RS,sur de Brasil, entre los dias 01/01 y 07/01 de 2019. Los algoritmos son los bien conocidos Random Forest y Catboost. 
+Fueron probados tres algoritmos de aprendizaje de máquina en datos meteorológicos registrados en la estación automática del Instituto Nacional de Meteorologia(INMET) situado en la ciudad de Alegrete-RS,sur de Brasil, entre los dias 01/01 y 07/01 de 2019. Los algoritmos son los bien conocidos Random Forest y Catboost y el Tensorflow. 
 
 ![Machine_learning(Random_forest)](https://user-images.githubusercontent.com/80546143/155857811-93f76264-08f0-4e40-a95a-0752ba7ac2f6.png)
 Machine learning usando o algoritmo Random Forest - Machine learning using Random Forest Algorithm. Observed datas(green line) and forecast(red line) - Aprendizaje de máquina utilizando el algoritmo Random Forest.Datos observados(línea verde) y pronóstico(línea roja). 
 ![Machine_learning(Catboost)](https://user-images.githubusercontent.com/80546143/155857869-a36c6764-7591-4012-be46-874067ab051a.png)
 Machine learning usando o algoritmo Catboost - Machine learning using Catboost algorithm. Observed datas(green line) and forecast(red line) - Aprendizaje de máquina utilizando el algoritmo Catboost. Datos observados(línea verde) y pronóstico(línea roja).
+![Machine_learning(Tensorflow)](https://user-images.githubusercontent.com/80546143/178159023-4facc488-60ef-48c4-ac6c-c81b1ae1a156.png)
+Machine learning usando o algoritmo Tensorflow - Machine learning using Tensorflow Algorithm. Observed datas(green line) and forecast(red line) - Aprendizaje de máquina utilizando el algoritmo Tensorflow.Datos observados(línea verde) y pronóstico(línea roja).
 
 ## Conteúdo do repositório(PT-BR)
 + Alegrete.csv - Arquivo de dados meteorológicos observados da estação automática do Instituto Nacional de Meteorologia(INMET).
