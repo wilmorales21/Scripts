@@ -14,6 +14,7 @@ En estos repositorios yo comparto algunos codigos que fueron escritos con el pro
   <td>Python</td>
   <td>Shell</td>
   <td>NCL</td>
+  <td>MySQL</td>
  </tr> 
 </table>
 
@@ -24,6 +25,7 @@ En estos repositorios yo comparto algunos codigos que fueron escritos con el pro
   <td>Python</td>
   <td>Shell</td>
   <td>NCL</td>
+  <td>MySQL</td>
  </tr> 
 </table>
 
@@ -34,5 +36,6 @@ En estos repositorios yo comparto algunos codigos que fueron escritos con el pro
   <td>Python</td>
   <td>Shell</td>
   <td>NCL</td>
+  <td>MySQL</td>
  </tr> 
 </table>
