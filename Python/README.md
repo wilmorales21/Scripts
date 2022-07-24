@@ -26,6 +26,7 @@ daily average temperature between the years 2020 and 2011, where the Pearson cor
 Evolução mensal do índice de El Niño Oscilação Sul(ENOS).Anos com El Niño(vermelho), anos com La Niña(azul) e anos de neutralidade(branco) - Monthly evolution of the El Niño Southern Oscillation(ENSO) index. Years of El Niño(red), years of La Niña(blue) and years of neutrality(white)- Evolución mensual del índice de El Niño Oscilación Sur(ENOS).Años de El Niño(rojo), años de La Niña(azul) y años de neutralidad(blanco).
 
 ![temperatura_850hPa](https://user-images.githubusercontent.com/80546143/180651437-b940d6e8-6a62-4604-9957-8ed74e156c45.png)
+
 Temperatura do ar no nível de pressão de 850hPa em 29/04/2022 - Air temperature in 850hPa level pressure on 29/04/2022 - Temperatura del aire en lo nível de pressión de 850hPa en 29/04/2022.
 
 ## Conteúdo do repositório(PT-BR)
