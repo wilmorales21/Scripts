@@ -54,8 +54,8 @@ print(x)
 # importando bibliotecas de machine learning
 from sklearn.model_selection import train_test_split
 
-#criando conjunto de dados de treino e teste - o comando teste size indicarah que 80% dos dados serao pra teste e 20% pra treino
-x_treino, x_teste, y_treino, y_teste = train_test_split(x,y, test_size=0.8)
+#criando conjunto de dados de treino e teste - o comando teste size indicarah que 30% dos dados serao pra teste e 70% pra treino
+x_treino, x_teste, y_treino, y_teste = train_test_split(x,y, test_size=0.3)
 #,random_state=42)
 
 #--------------------- Random Forest -------------------------------
@@ -63,55 +63,56 @@ x_treino, x_teste, y_treino, y_teste = train_test_split(x,y, test_size=0.8)
 from sklearn.ensemble import RandomForestRegressor
 
 #criacao do modelo
-#rfr = RandomForestRegressor(n_estimators=500,max_depth=1,random_state=30)
 rfr = RandomForestRegressor()
 
 #aplicar o algoritmo aos dados de treino usando a funcao fit
 rfr.fit(x_treino,y_treino)
+previsao1 = rfr.predict(x_treino)
+print(previsao1)
 
-#imprimindo resultados
-resultado = rfr.score(x_teste,y_teste)
-print('Acuracia:', resultado*100)
+#aplicar o algoritmo aos dados de teste usando a funcao fit
+rfr.fit(x_teste,y_teste)
+previsao2 = rfr.predict(x_teste)
+print(previsao2)
 
-#fazendo a previsao de y
-y_previsto = rfr.predict(x_teste)
-print('Y PREVISTO:\n',y_previsto)
+#Criando variaveis para armazenar as previsoes
+A = previsao1
+B = previsao2
 
-from sklearn.metrics import mean_squared_error
-from math import sqrt
-
-#quanto menor for o valor da metrica rmse, melhor eh o modelo de previsao 
-rmse = (np.sqrt(mean_squared_error(y_teste,y_previsto)))
-print('RMSE: \n',rmse)
+#Concatenar os valores das previsoes numa só variavel
+previsao_final = np.concatenate((A,B),axis=0)
+print('Previsao final:')
+print(previsao_final)
 
 ##############################################################################
 # plota a temperatura observada
 plt.plot(y,color='olivedrab')
 
 # plota a temperatura prevista pelo random forest
-plt.plot(y_previsto,color='red')
+plt.plot(y_previsao_final,color='red')
 
 #plotar legendas
 plt.plot(y,label='Observado',color='olivedrab')
-plt.plot(y_previsto,label='Previsto',color='red')
+plt.plot(previsao_final,label='Previsto',color='red')
 plt.legend()
 
 #plota o titulo da figura
 plt.title('Machine learning de temperatura(Random Forest)')
 plt.ylabel('Temperatura instantanea(°C)')
+plt.xlabel('Dias')
 
 #plota o grafico com grade
 plt.grid()
 
 #fixando valores no eixo x
-plt.xticks([0,24,48,72,96,120,144],['01/01','02/01','03/01','04/01','05/01','06/01','07/01'])
+plt.xticks([24,48,72,96,120,144],['02/01','03/01','04/01','05/01','06/01','07/01'])
 #fixando os pontos limites entre valor inicial e valor final no eixo x
-plt.xlim([0,167])
+plt.xlim([24,167])
 
 plt.show()
 
 ###################### Rodar o algoritmo no terminal ############################
 #
-#    RODAR O CODIGO: python randomforest.py
+#    RODAR O CODIGO: python3 randomforest.py
 #
 #################################################################################
