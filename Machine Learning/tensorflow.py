@@ -45,7 +45,7 @@ X1,y1 = df_to_X_y(temp,WINDOW_SIZE)
 
 X_val,y_val = X1[:17],y1[:17]
 X_treino1,y_treino1 = X1[17:140],y1[17:140]
-X_teste,y_teste = X1[140:],y[140:]
+X_teste,y_teste = X1[140:],y1[140:]
 
 #Importando bibliotecas
 from tensorflow.keras.models import Sequential
@@ -62,7 +62,7 @@ modelo1.compile(loss='mse',
                 metrics=['mean_absolute_error'])
 
 # Acionando a funcao fit aos dados de treino
-modelo1.fit(X_treino, y_treino1, validation_data=(X_val,y_val), epochs=100)
+modelo1.fit(X_treino, y_treino, validation_data=(X_val,y_val), epochs=100)
 
 # Acionando a função fit aos dados de teste
 modelo.fit(X_teste,y_teste,validation_data=(X_val,y_val), epochs=50)
