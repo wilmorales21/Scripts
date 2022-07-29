@@ -10,7 +10,7 @@ Fueron probados tres algoritmos de aprendizaje de máquina en datos meteorológi
 ![Random_forest](https://user-images.githubusercontent.com/80546143/181768341-74b5617f-07ea-4ffa-b28b-d29a0cadb0f9.png)
 Machine learning usando o algoritmo Random Forest - Machine learning using Random Forest Algorithm. Observed datas(green line) and forecast(red line) - Aprendizaje de máquina utilizando el algoritmo Random Forest.Datos observados(línea verde) y pronóstico(línea roja). 
 
-
+![Catboost](https://user-images.githubusercontent.com/80546143/181768613-2f62bc42-d097-427a-a594-74cfe1c1ea5c.png)
 Machine learning usando o algoritmo Catboost - Machine learning using Catboost algorithm. Observed datas(green line) and forecast(red line) - Aprendizaje de máquina utilizando el algoritmo Catboost. Datos observados(línea verde) y pronóstico(línea roja).
 
 
