@@ -89,7 +89,7 @@ print(previsao_final)
 plt.plot(y,color='olivedrab')
 
 # plota a temperatura prevista pelo random forest
-plt.plot(y_previsao_final,color='red')
+plt.plot(previsao_final,color='red')
 
 #plotar legendas
 plt.plot(y,label='Observado',color='olivedrab')
