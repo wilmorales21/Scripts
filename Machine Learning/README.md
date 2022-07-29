@@ -1,11 +1,11 @@
 # Descrição(PT-BR)
-Foram testados três algoritmos distintos de machine learning em dados meteorológicos registrados na estação automática do Instituto Nacional de Meteorologia(INMET), localizada em Alegrete-RS entre os dias 01/01 e 07/01 de 2019. Os algoritmos são os bem conhecidos Random Forest, Catboost e o Tensorflow.
+Foram testados três algoritmos distintos de machine learning em dados meteorológicos registrados na estação automática do Instituto Nacional de Meteorologia(INMET), localizada em Alegrete-RS entre os dias 02/01 e 07/01 de 2019. Os algoritmos são os bem conhecidos Random Forest, Catboost e o Tensorflow.
 
 # Description(ENG)
-Three machine learning algorithms were tested in meteorological datas recorded in the automatic station of the Instituto Nacional de Meteorologia(INMET) located in the city of Alegrete-RS, southern of Brazil, between the days 01/01 and 07/01 in 2019. The algorithms are well-known Random Forest and Catboost and Tensorflow.  
+Three machine learning algorithms were tested in meteorological datas recorded in the automatic station of the Instituto Nacional de Meteorologia(INMET) located in the city of Alegrete-RS, southern of Brazil, between the days 02/01 and 07/01 in 2019. The algorithms are well-known Random Forest and Catboost and Tensorflow.  
 
 # Descripción(ESP)
-Fueron probados tres algoritmos de aprendizaje de máquina en datos meteorológicos registrados en la estación automática del Instituto Nacional de Meteorologia(INMET) situado en la ciudad de Alegrete-RS,sur de Brasil, entre los dias 01/01 y 07/01 de 2019. Los algoritmos son los bien conocidos Random Forest y Catboost y el Tensorflow.
+Fueron probados tres algoritmos de aprendizaje de máquina en datos meteorológicos registrados en la estación automática del Instituto Nacional de Meteorologia(INMET) situado en la ciudad de Alegrete-RS,sur de Brasil, entre los dias 02/01 y 07/01 de 2019. Los algoritmos son los bien conocidos Random Forest y Catboost y el Tensorflow.
 
 ![Random_forest](https://user-images.githubusercontent.com/80546143/181768341-74b5617f-07ea-4ffa-b28b-d29a0cadb0f9.png)
 Machine learning usando o algoritmo Random Forest - Machine learning using Random Forest Algorithm. Observed datas(green line) and forecast(red line) - Aprendizaje de máquina utilizando el algoritmo Random Forest.Datos observados(línea verde) y pronóstico(línea roja). 
