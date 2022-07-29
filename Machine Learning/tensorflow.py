@@ -43,8 +43,8 @@ def df_to_X_y(df,window_size=5):
 WINDOW_SIZE = 5
 X1,y1 = df_to_X_y(temp,WINDOW_SIZE)
 
-X_treino1,y_treino1 = X1[:120],y1[:120]
-X_val,y_val = X1[120:140],y1[120:140]
+X_val,y_val = X1[:17],y1[:17]
+X_treino1,y_treino1 = X1[17:140],y1[17:140]
 X_teste,y_teste = X1[140:],y[140:]
 
 #Importando bibliotecas
@@ -61,34 +61,56 @@ modelo1.compile(loss='mse',
                 optimizer=Adam(learning_rate=0.01),
                 metrics=['mean_absolute_error'])
 
+# Acionando a funcao fit aos dados de treino
 modelo1.fit(X_treino, y_treino1, validation_data=(X_val,y_val), epochs=100)
 
-previsao = modelo1.predict(X_treino1).flatten()
-print('previsao')
+# Acionando a função fit aos dados de teste
+modelo.fit(X_teste,y_teste,validation_data=(X_val,y_val), epochs=50)
+
+# Fazendo a previsão com os dados de treino
+previsao1 = modelo.predict(X_treino).flatten()
+print('previsao1')
+
+# Fazendo a previsão com os dados de teste
+previsao2 = modelo.predict(X_teste).flatten()
+print('previsao3')
+
+#Criando variaveis para armazenar as previsoes
+A = previsao1
+B = previsao2
+
+#Concatenar os valores das previsoes numa só matriz
+previsao_final = np.concatenate((A,B),axis=0)
+print('previsao_final')
+
+# Criar um novo dataframe que receba informações da temperatura observada  a partir do 2º dia e da previsão final
+resultado = pd.DataFrame('Previsao':previsao_final,'Observado':temp[22:])
+print(resultado)
 
 ##############################################################################
 # plota a temperatura observada
-plt.plot(temp,color='olivedrab')
+plt.plot(resultado['Observado'],color='olivedrab')
 
 # plota a temperatura prevista pelo tensorflow
-plt.plot(previsao,color='red')
+plt.plot(resultado['Previsao'],color='red')
 
 #plotar legendas
-plt.plot(temp,label='Observado',color='olivedrab')
-plt.plot(previsao,label='Previsto',color='red')
+plt.plot(resultado['Observado'],label='Observado',color='olivedrab')
+plt.plot(resultado['Previsao'],label='Previsto',color='red')
 plt.legend()
 
 #plota o titulo da figura
 plt.title('Machine learning de temperatura(Tensorflow)')
 plt.ylabel('Temperatura instantanea(°C)')
+plt.xlabel('Dias')
 
 #plota o grafico com grade
 plt.grid()
 
 #fixando valores no eixo x
-plt.xticks([0,24,48,72,96,120,144],['01/01','02/01','03/01','04/01','05/01','06/01','07/01'])
+plt.xticks([24,48,72,96,120,144],['02/01','03/01','04/01','05/01','06/01','07/01'])
 #fixando os pontos limites entre valor inicial e valor final no eixo x
-plt.xlim([0,167])
+plt.xlim([24,167])
 
 plt.show()
 
