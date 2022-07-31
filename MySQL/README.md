@@ -6,7 +6,7 @@ preferiu-se o print da tela do terminal.
 
 ## Description(ENG)
 It were executed some commands in MySQL language for create databases, tables e data manipulation,
-as well logical operators in the codes. It was used the Wrkbench to generate the codes, but for 
+as well logical operators in the codes. It was used the Workbench to generate the codes, but for 
 illustrative purposes on Github, the terminal screen print was preferred.
 
 ## Descripción(ESP)
