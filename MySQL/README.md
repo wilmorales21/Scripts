@@ -1,3 +1,20 @@
+## Descrição(PT-BR)
+Foram executados alguns comandos em linguagem MySQL para a criação de banco de dados,
+tabelas e manipulação de dados, bem como o uso de operadores lógicos nos códigos.
+Foi usado o Workbench para gerar os códigos, mas por questões de ilustração no Github,
+preferiu-se o print da tela do terminal.  
+
+## Description(ENG)
+It were executed some commands in MySQL language for create databases, tables e data manipulation,
+as well logical operators in the codes. It was used the Wrkbench to generate the codes, but for 
+illustrative purposes on Github, the terminal screen print was preferred.
+
+## Descripción(ESP)
+Fueran ejecutados algunos comandos en lenguaje MySQL para la criación de banco de datos,
+tablas y manipulación de datos, bien como el uso de operadores lógicos en los códigos.
+Fué usado el Workbench para generar los códigos, pero por el bien de la ilustración en lo Github
+se preferió el print de la pantalla del terminal. 
+
 ## Conteúdo do repositorio(PT-BR)
 + alterar_tabela.png - Figura que mostra a tabela pessoas alterada
 + alterar_tabela.sql - Código para alterar a tabela pessoas
