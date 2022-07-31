@@ -71,37 +71,37 @@
 + where.sql - Code select the courses that occurred before 2016
 
 ## Contenido del repositório(ESP)
-alterar_tabela.png - Figura que muestra la tabla pessoas alterada
-alterar_tabela.sql - Código para alterar la tabla pessoas
-avg.png - Figura que muestra la média del total de clases en 2016
-avg.sql - Código para calcular la média del total de clases en 2016
-between.png - Figura que muestra el nombre de los cursos y el año entre 2014 y 2016 
-between.sql - Código para selecionar el nombre de lo curso y el año entre 2014 y 2016
-cadastro1.png - Figura que muestra los atributos de la base de datos cadastro
-cadastro1.sql - Código para crear una base de datos llamado cadastro
-cadastro2.png - Figura que muestra los datos insertados en la tabla pessoas
-cadastro2.sql - Código para insertar datos en la tabla pessoas que están en la base de datos cadastro
-count.png - Figura que muestra los cursos que tienem la misma carga de tiempo
-count.sql - Código para decir cuantos cursos tienem la misma carga de tiempo
-criar_tabela.png - Figura que muestra los atributos de la tabla cursos
-criar_tabela.sql - Código para crear la tabla cursos
-groupby.png - Figura que muestra la carga de tiempo de los cursos
-groupby.sql - Código para selecionar la carga de tiempo de los cursos
-having.png - Figura que muestra cuantos cursos tienem la misma carga de tiempo
-having.sql - Código para decir cuantos cursos mayor que 2 tienem la misma carga de tiempo 
-inserir.png - Figura que muestra las información insertadas en la tabla cursos
-inserir.sql - Código para insertar las información en la tabla cursos
-like.png - Figura que muestra el nombre de todos los cursos que terminan com la letra a 
-like.sql - Código para selecionar el nombre de todos los cursos que terminan com la letra a
-max.png - Figura que muestra el máximo de total de clases
-max.sql - Código para selecionar el máximo de total de clases in 2016
-min.png - Figura que muestra el minimo de total de clases
-min.sql - Código para selecionar el minimo de total de clases in 2016
-or.png - Figura que muestra los cursos que tienem la carga de tiempo mayor de 35 horas o total de clases mayor que 30 clases
-or.sql - Código que seleciona el curso que tiene la carga de tiempo mayor de 35 horas o total de clases mayor que 30 clases
-orderby.png - Figura que muestra los cursos entre 2014 y 2018
-orderby.sql - Código para selecionar los cursos entre los años de 2014 y 2018
-sum.png - Figura que muestra la suma del total de clases in 2016
-sum.sql - Código que suma el total de clases de los cursos in 2016
-where.png - Figura que muestra los cursos que ocurrió antes de 2016
-where.sql - Código para selecionar los cursos que ocurrió antes de 2016
++ alterar_tabela.png - Figura que muestra la tabla pessoas alterada
++ alterar_tabela.sql - Código para alterar la tabla pessoas
++ avg.png - Figura que muestra la média del total de clases en 2016
++ avg.sql - Código para calcular la média del total de clases en 2016
++ between.png - Figura que muestra el nombre de los cursos y el año entre 2014 y 2016 
++ between.sql - Código para selecionar el nombre de lo curso y el año entre 2014 y 2016
++ cadastro1.png - Figura que muestra los atributos de la base de datos cadastro
++ cadastro1.sql - Código para crear una base de datos llamado cadastro
++ cadastro2.png - Figura que muestra los datos insertados en la tabla pessoas
++ cadastro2.sql - Código para insertar datos en la tabla pessoas que están en la base de datos cadastro
++ count.png - Figura que muestra los cursos que tienem la misma carga de tiempo
++ count.sql - Código para decir cuantos cursos tienem la misma carga de tiempo
++ criar_tabela.png - Figura que muestra los atributos de la tabla cursos
++ criar_tabela.sql - Código para crear la tabla cursos
++ groupby.png - Figura que muestra la carga de tiempo de los cursos
++ groupby.sql - Código para selecionar la carga de tiempo de los cursos
++ having.png - Figura que muestra cuantos cursos tienem la misma carga de tiempo
++ having.sql - Código para decir cuantos cursos mayor que 2 tienem la misma carga de tiempo 
++ inserir.png - Figura que muestra las información insertadas en la tabla cursos
++ inserir.sql - Código para insertar las información en la tabla cursos
++ like.png - Figura que muestra el nombre de todos los cursos que terminan com la letra a 
++ like.sql - Código para selecionar el nombre de todos los cursos que terminan com la letra a
++ max.png - Figura que muestra el máximo de total de clases
++ max.sql - Código para selecionar el máximo de total de clases in 2016
++ min.png - Figura que muestra el minimo de total de clases
++ min.sql - Código para selecionar el minimo de total de clases in 2016
++ or.png - Figura que muestra los cursos que tienem la carga de tiempo mayor de 35 horas o total de clases mayor que 30 clases
++ or.sql - Código que seleciona el curso que tiene la carga de tiempo mayor de 35 horas o total de clases mayor que 30 clases
++ orderby.png - Figura que muestra los cursos entre 2014 y 2018
++ orderby.sql - Código para selecionar los cursos entre los años de 2014 y 2018
++ sum.png - Figura que muestra la suma del total de clases in 2016
++ sum.sql - Código que suma el total de clases de los cursos in 2016
++ where.png - Figura que muestra los cursos que ocurrió antes de 2016
++ where.sql - Código para selecionar los cursos que ocurrió antes de 2016
