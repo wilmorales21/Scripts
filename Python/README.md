@@ -67,7 +67,7 @@ Temperatura do ar no nível de pressão de 850hPa em 29/04/2022 - Air temperatur
 + precipitacao.csv - Data set of monthly precipitation for the years 2009,2011,2019 and 2020.
 + precipitacao.png - This picture shows the bar graphic of the monthly precipitation. 
 + precipitacao.py - This code plots the bar graphic of the monthly precipitation for years with Pearson correlation above 0.70.
-+ temperatura_850hPa.png - This picture show the air temperature in 850hPa pressure level in 29/04/2022.
++ temperatura_850hPa.png - This picture shows the air temperature in 850hPa pressure level in 29/04/2022.
 + temperatura_diaria.csv - Data set of daily mean temperature observed between 1999 and 2020 in the city of Pelotas-RS, southern of Brazil
 
 ## Contenido del repositorio(ESP)
