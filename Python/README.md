@@ -42,6 +42,7 @@ Linhas de corrente no nível de pressão de 850hPa em 29/04/2022 - Streamlines i
 + enso.csv - Dados do índice mensal de El Niño Oscilação Sul(ENOS) entre os anos 2000 e 2021.
 + enos.png - Figura que mostra o índice mensal de El Niño Oscilação Sul(ENOS) entre 2000 e 2021.
 + enso.py - Código para plotar o índice mensal de El Niño Oscilação Sul(ENOS) entre 2000 e 2021.
++ linhas_de_corrente_850hpa.png -Figura que mostra as linhas de corrente no nível de pressão de 850hPa no dia 29/04/2022.
 + media_movel.py - Código para plotar a média móvel de 30 dias da temperatura do ar diária entre os anos de 1999 e 2020 para a cidade de Pelotas-RS, Brasil.
 + media_movel_temperatura.png - Figura que mostra a média móvel de 30 dias da temperatura do ar diária entre os anos de 1999 e 2020 para a cidade de Pelotas-RS, Brasil. Anos com correlação de Pearson acima de 0.70(colorido) e demais anos (cinza).
 + oscilacao_antartica.csv - Dados mensais do índice de Oscilação Antártica entre os anos 2000 e 2021.
@@ -53,6 +54,7 @@ Linhas de corrente no nível de pressão de 850hPa em 29/04/2022 - Streamlines i
 + temperatura_850hPa.png - Figura que mostra a temperatura do ar no nível de pressão de 850hPa no dia 29/04/2022. 
 + temperatura_netcdf.py - Código para plotar a temperatura do ar a partir de dados NetCDF.
 + temperatura_diaria.csv - Dados de temperatura média diária observada entre 1999 e 2020 na cidade de Pelotas-RS, Brasil.
++ vento_netcdf.py - Código para plotar as linhas de corrente a partir dos dados Netcdf.
 
 ## Repository content(ENG)
 + correlacao.py - This code calculate the Pearson correlation between the 2020 year e other years.
@@ -61,6 +63,7 @@ Linhas de corrente no nível de pressão de 850hPa em 29/04/2022 - Streamlines i
 + enso.csv - Data set of El Niño Southern Oscillation(ENSO) monthly index between 2000 and 2021. 
 + enos.png - This picture shows the El Niño Southern Oscillation(ENSO) monthly index between 2000 and 2021.
 + enso.py - This code plots the El Niño Southern Oscillation(ENSO) monthly index between 2000 and 2021.
++ linhas_de_corrente_850hpa.png - This picture shows the streamlines in 850hPa pressure level in 29/04/2022.
 + media_movel.py - This code calculate the 30 days moving average of air temperature daily between 1999 and 2020 for city of Pelotas-RS, southern of Brazil.
 + média_movel_temperatura.png - This picture show the 30 days moving average of daily air temperature between 1999 and 2020 in the city of Pelotas-RS, southern of Brazil.Years with Pearson correlation above 0.70(colors) and other years(grey).
 + oscilacao_antartica.csv - Monthly data set of the Antartic Oscillation index between 2000 and 2021. 
@@ -72,6 +75,7 @@ Linhas de corrente no nível de pressão de 850hPa em 29/04/2022 - Streamlines i
 + temperatura_850hPa.png - This picture shows the air temperature in 850hPa pressure level in 29/04/2022.
 + temperatura_netcdf.py - This code plots the air temperature from NetCDF data.
 + temperatura_diaria.csv - Data set of daily mean temperature observed between 1999 and 2020 in the city of Pelotas-RS, southern of Brazil
++ vento_netcdf.py - This code plots the streamlines in 850hPa pressure level in 29/04/2022.
 
 ## Contenido del repositorio(ESP)
 + correlacao.py - Código para calcular la correlación de Pearson entre 2020 y los otros años.
@@ -80,6 +84,7 @@ Linhas de corrente no nível de pressão de 850hPa em 29/04/2022 - Streamlines i
 + enso.csv - Datos del índice mensual de El Niño Oscilación Sur(ENOS) entre los años de 2000 y 2021.
 + enos.png - Figura que ilustra el índice mensual de El Niño Oscilación Sur(ENOS) entre los años de 2000 y 2021.
 + enso.py - Código para plotar el índice mensual de El Niño Oscilación Sur(ENOS) entre los años de 2000 y 2021.
++ linhas_de_corrente_850hpa.png - Figura que muestra las líneas de corriente en lo nível de pressión de 850hPa en 29/04/2022.
 + media_movel.py - Código para plotar la média móvil de 30 dias de la temperatura del aire diaria entre los años de 1999 y 2020 para la ciudad de Pelotas-RS,sur del Brasil.
 + media_movel_temperatura.png - Figura que ilustra la média móvil de 30 dias de la temperatura del aire entre los años de 1999 y 2020 para la ciudad de Pelotas-RS, sur del Brasil. Años con correlación de Pearson arriba 0.70(colores) y otros años(gris).
 + oscilacao_antartica.csv - Datos mensuales del índice de Oscilación Antarctica entre los años de 2000 y 2021.
@@ -91,3 +96,4 @@ Linhas de corrente no nível de pressão de 850hPa em 29/04/2022 - Streamlines i
 + temperatura_850hPa.png - Figura que ilustra la temperatura del aire en lo nível de pressión de 850hPa en 29/04/2022.
 + temperatura_netcdf.py - Código para plotar la temperatura del aire a partir de datos NetCDF.
 + temperatura_diaria.csv - Datos de temperatura média diaria observada entre los años de 1999 y 2020 en la ciudad de Pelotas-RS,sur del Brasil.
++ vento_netcdf.py - C
