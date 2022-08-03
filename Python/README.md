@@ -32,6 +32,7 @@ Evolução mensal do índice de El Niño Oscilação Sul(ENOS).Anos com El Niño
 
 Temperatura do ar no nível de pressão de 850hPa em 29/04/2022 - Air temperature in 850hPa level pressure on 29/04/2022 - Temperatura del aire en lo nível de pressión de 850hPa en 29/04/2022.
 
+![linhas_de_corrente_850hpa](https://user-images.githubusercontent.com/80546143/182679579-ab42c074-dc1d-4c1b-9764-769fa15dd330.png)
 
 Linhas de corrente no nível de pressão de 850hPa em 29/04/2022 - Streamlines in 850hPa level pressure on 29/04/2022 - Líneas de corriente en lo nível de pressión de 850hPa en 29/04/2022. 
 
