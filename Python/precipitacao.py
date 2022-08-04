@@ -22,10 +22,10 @@ y4 = df['y2020']
 x = np.array([0,1,2,3,4,5,6,7,8,9,10,11])
 largura = 0.2
 
-plt.bar(x - largura, y1, width = largura, color='blue', label='2009')
-plt.bar(x , y2, width = largura, color='gold',label='2011')
-plt.bar(x + largura, y3, width = largura, color='olivedrab',label='2019')
-plt.bar(x + 2*largura, y4, width = largura, color='red',label='2020')
+plt.bar(x - 0.3, y1, width = largura, color='blue', label='2009')
+plt.bar(x - 0.1, y2, width = largura, color='gold',label='2011')
+plt.bar(x + 0.1, y3, width = largura, color='olivedrab',label='2019')
+plt.bar(x + 0.3, y4, width = largura, color='red',label='2020')
 
 plt.title('Precipitação mensal')
 plt.ylabel('Precipitação mensal (mm)')
