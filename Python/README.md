@@ -28,6 +28,8 @@ daily average temperature between the years 2020 and 2011, where the Pearson cor
 ![enos](https://user-images.githubusercontent.com/80546143/167686071-50e6877d-5234-432f-aecc-6f97d66a802c.png)
 Evolução mensal do índice de El Niño Oscilação Sul(ENOS).Anos com El Niño(vermelho), anos com La Niña(azul) e anos de neutralidade(branco) - Monthly evolution of the El Niño Southern Oscillation(ENSO) index. Years of El Niño(red), years of La Niña(blue) and years of neutrality(white)- Evolución mensual del índice de El Niño Oscilación Sur(ENOS).Años de El Niño(rojo), años de La Niña(azul) y años de neutralidad(blanco).
 
+Meteograma de temperaturas máxima e mínima em conjunto da umidade relativa máxima e mínima com precipitação da estação do INMET em Alegrete entre 01/01 e 07/01 de 2019 - Meteogram of maximum and minimum temperatures together maximum and minimum relative humidity with precipitation from the INMET station on Alegrete between 01/01 and 07/01 of 2019 - Meteograma de temperaturas máximas y mínimas en conjunto humidad relativa máxima y mínima con precipitación de la estación del INMET in Alegrete entre 01/01 y 07/01 de 2019.  
+
 ![temperatura_850hPa](https://user-images.githubusercontent.com/80546143/180651437-b940d6e8-6a62-4604-9957-8ed74e156c45.png)
 
 Temperatura do ar no nível de pressão de 850hPa em 29/04/2022 - Air temperature in 850hPa level pressure on 29/04/2022 - Temperatura del aire en lo nível de pressión de 850hPa en 29/04/2022.
