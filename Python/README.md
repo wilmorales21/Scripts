@@ -2,18 +2,18 @@
 Foi calculada a média móvel de 30 dias da temperatura média diária da cidade de Pelotas-RS, Brasil, entre os anos de 1999 e 2020 pelo código media_movel.py
 a partir do arquivo de dados temperatura_diaria.csv. Foi calculada a correlação de Pearson entre o ano de 2020 e todos outros anos pelo código
 correlacao.py. Em seguida, foi plotado o gráfico de dispersão simples entre os anos com correlação de Pearson acima de 0.70 pelo código dispersão.py a
-partir do arquivo de dados temperatura_diaria.csv. Foi plotado o gráfico de barras de precipitação mensal dos anos com correlação de Pearson acima de 0.70 pelo código precipitacao.py. Também foi plotada a evolução mensal do índice de El Niño Oscilação Sul(ENOS) entre os anos de 2000 e 2021 pelo código enso.py a partir do arquivo de dados enso.csv. Foram plotadas a temperatura do ar no nível de pressão de 850hPa pelo código temperatura_netcdf.py e as linhas de corrente no nível de pressão de 850hPa pelo código vento_netcdf.py ambos a partir de dados NetCDF que não estão neste repositório. 
+partir do arquivo de dados temperatura_diaria.csv. Foi plotado o gráfico de barras de precipitação mensal dos anos com correlação de Pearson acima de 0.70 pelo código precipitacao.py. Também foi plotada a evolução mensal do índice de El Niño Oscilação Sul(ENOS) entre os anos de 2000 e 2021 pelo código enso.py a partir do arquivo de dados enso.csv. Foram plotadas a temperatura do ar no nível de pressão de 850hPa pelo código temperatura_netcdf.py e as linhas de corrente no nível de pressão de 850hPa pelo código vento_netcdf.py ambos a partir de dados NetCDF que não estão neste repositório. Por último, foi plotado um meteograma com temperatura, umidade relativa e precipitação da estação automática do INMET em Alegrete pelo código meteograma.py a partir do arquivo Variaveis.csv.  
 
 # Description(ENG)
 It was calculated the 30 days moving average for daily mean temperature in the city of Pelotas-RS, Southern of Brazil, between 1999 and 2020 by the
 media_movel.py code from temperatura_diaria.csv data set. Then it was calculated the Pearson correlation between the year of 2020 and other years by the
-correlacao.py code. It was ploted the simple scatter plot between the years with Pearson correlation above 0.70 by the dispersao.py code from temperatura_diaria.csv data file. It was ploted the bar graphic of monthly precipitation of the years with Pearson correlation above 0.70 by the precipitacao.py code. It was also ploted the monthly evolution of the El Niño Southern Oscillation(ENSO) index between 2000 and 2021 by the enso.py code from enso.csv data set. It were ploted the air temperature in the 850hPa pressure level by the codigo_netcdf.py code and the streamlines in the 850hPa pressure level by the vento_netcdf.py code both from NetCDF data that are not in this repository.  
+correlacao.py code. It was ploted the simple scatter plot between the years with Pearson correlation above 0.70 by the dispersao.py code from temperatura_diaria.csv data file. It was ploted the bar graphic of monthly precipitation of the years with Pearson correlation above 0.70 by the precipitacao.py code. It was also ploted the monthly evolution of the El Niño Southern Oscillation(ENSO) index between 2000 and 2021 by the enso.py code from enso.csv data set. It were ploted the air temperature in the 850hPa pressure level by the codigo_netcdf.py code and the streamlines in the 850hPa pressure level by the vento_netcdf.py code both from NetCDF data that are not in this repository. Lastly, it was ploted a meteogram with temperature, relative humidity and precipitation from INMET's automatic station in Alegrete by the meteograma.py code from Variaveis.csv file. 
 
 # Descripción(ESP)
 Fue calculada la média móvil de 30 dias de la temperatura média diária de la ciudad de Pelotas-RS, sur del Brasil, entre los años de 1999 y 2020 por el
 código media_movel.py a partir del archivo de datos temperatura_diaria.csv. En seguida, fue calculada la correlación de Pearson entre el año de 2020 y
 todos los otros años por el código correlacao.py. Fue plotado el gráfico de dispersión simples entre los años con correlación de Pearson arriba de 0.70 por el código dispersao.py a partir del archivo de datos temperatura_diaria.csv. Fue plotada el gráfico de barras de precipitación mensual de los años con correlación de Pearson arriba 0.70 por el código precipitacao.py. También fue plotada la evolución mensual del indice de El Niño Oscilación
-Sur(ENOS) entre los años de 2000 y 2021 por el código enso.py a partir del archivo de datos enso.csv. Fueram plotadas la temperatura del aire en lo nível de pressión de 850hPa por el código codigo_netcdf.py y las líneas de corriente en lo nível de pressión de 850hPa por el código vento_netcdf.py ambos a partir de datos NetCDF que no están en esto repositório.
+Sur(ENOS) entre los años de 2000 y 2021 por el código enso.py a partir del archivo de datos enso.csv. Fueram plotadas la temperatura del aire en lo nível de pressión de 850hPa por el código codigo_netcdf.py y las líneas de corriente en lo nível de pressión de 850hPa por el código vento_netcdf.py ambos a partir de datos NetCDF que no están en esto repositório. Por ultimo, fue plotado un meteograma con temperatura, humedad relativa y precipitaci
 
 ![Media_movel_temperatura](https://user-images.githubusercontent.com/80546143/167489446-c5f62fd5-a867-439f-af57-249b6b6b042d.png)
 Média móvel de 30 dias da temperatura média diária da cidade de Pelotas entre 1999 e 2020. Anos com correlação de Pearson acima de 0.70(colorido) e demais anos(cinza) - 30 days moving average of daily air temperature in the city of Pelotas-RS, southern of Brazil, between 1999 and 2020. Years with Pearson correlation above 0.70(colors) and other years(grey) - Média móvil de la temperatura del aire diaria en la ciudad de Pelotas-RS, sur del Brasil, entre los años de 1999 y 2020.Años con correlación de Pearson arriba de 0.70(colores) y otros años(gris).
@@ -41,7 +41,7 @@ Temperatura do ar no nível de pressão de 850hPa em 29/04/2022 - Air temperatur
 Linhas de corrente no nível de pressão de 850hPa em 29/04/2022 - Streamlines in 850hPa level pressure on 29/04/2022 - Líneas de corriente en lo nível de pressión de 850hPa en 29/04/2022. 
 
 ## Conteúdo do repositório(PT-BR)
-+ Variaveis.csv - Dados 
++ Variaveis.csv - Dados meteorológicos da estação automática do INMET em Alegrete-RS. 
 + correlacao.py - Código para calcular a correlação entre 2020 e os demais anos.
 + dispersao.py - Código para plotar o gráfico de dispersão simples entre os anos com correlação de Pearson acima de 0.70
 + dispersao2011-2020.png - Gráfico de dispersão simples entre os dados de temperatura média diária de 2011 e de 2020 com correlação de Pearson de 0.74.
@@ -50,8 +50,8 @@ Linhas de corrente no nível de pressão de 850hPa em 29/04/2022 - Streamlines i
 + enso.py - Código para plotar o índice mensal de El Niño Oscilação Sul(ENOS) entre 2000 e 2021.
 + linhas_de_corrente_850hpa.png -Figura que mostra as linhas de corrente no nível de pressão de 850hPa no dia 29/04/2022.
 + media_movel.py - Código para plotar a média móvel de 30 dias da temperatura do ar diária entre os anos de 1999 e 2020 para a cidade de Pelotas-RS, Brasil.
-+ meteograma.py - 
-+ meteograma.png - 
++ meteograma.png - Figura que mostra o meteograma de temperaturas máximas e mínimas, umidade relativa máximas e mínimas e precipitação.
++ meteograma.py - Código pra plotar o meteograma.
 + media_movel_temperatura.png - Figura que mostra a média móvel de 30 dias da temperatura do ar diária entre os anos de 1999 e 2020 para a cidade de Pelotas-RS, Brasil. Anos com correlação de Pearson acima de 0.70(colorido) e demais anos (cinza).
 + oscilacao_antartica.csv - Dados mensais do índice de Oscilação Antártica entre os anos 2000 e 2021.
 + oscilacao_antartica.py - Código para plotar o índice mensal de Oscilação Antártica entre os anos 2000 e 2021.
@@ -65,6 +65,7 @@ Linhas de corrente no nível de pressão de 850hPa em 29/04/2022 - Streamlines i
 + vento_netcdf.py - Código para plotar as linhas de corrente a partir dos dados Netcdf.
 
 ## Repository content(ENG)
++ Variaveis.csv - Meteorologicals data from INMET's automatic station in Alegrete-RS(southern of Brazil).
 + correlacao.py - This code calculate the Pearson correlation between the 2020 year e other years.
 + dispersao.py - This code serves to plot the simple scatter plot between the years with Pearson correlation above 0.70. 
 + dispersao2011-2020.png - Simple scatter plot between the daily average temperature datas of 2011 and 2020 with Pearson correlation above 0.74.
@@ -73,6 +74,8 @@ Linhas de corrente no nível de pressão de 850hPa em 29/04/2022 - Streamlines i
 + enso.py - This code plots the El Niño Southern Oscillation(ENSO) monthly index between 2000 and 2021.
 + linhas_de_corrente_850hpa.png - This picture shows the streamlines in 850hPa pressure level in 29/04/2022.
 + media_movel.py - This code calculate the 30 days moving average of air temperature daily between 1999 and 2020 for city of Pelotas-RS, southern of Brazil.
++ meteograma.png - This picture shows the meteogram of maximum and minimum temperatures, maximum and minimum relative humidity and precipitation.
++ meteograma.py - This code plots the meteogram.
 + média_movel_temperatura.png - This picture show the 30 days moving average of daily air temperature between 1999 and 2020 in the city of Pelotas-RS, southern of Brazil.Years with Pearson correlation above 0.70(colors) and other years(grey).
 + oscilacao_antartica.csv - Monthly data set of the Antartic Oscillation index between 2000 and 2021. 
 + oscilacao_antartica.py - This code plots the Antartic Oscillation monthly index between 2000 and 2021. 
@@ -86,6 +89,7 @@ Linhas de corrente no nível de pressão de 850hPa em 29/04/2022 - Streamlines i
 + vento_netcdf.py - This code plots the streamlines in 850hPa pressure level in 29/04/2022.
 
 ## Contenido del repositorio(ESP)
++ Variaveis.csv - Datos meteorológicos de la estación del INMET in Alegrete-RS(sur del Brasil)
 + correlacao.py - Código para calcular la correlación de Pearson entre 2020 y los otros años.
 + dispersao.py - Código para plotar el gráfico de dispersión simples entre los años con correlación de Pearson arriba de 0.70.
 + dispersao2011-2020.png - Gráfico de dispersión simples entre los datos de temperatura média diária de 2011 y de 2020 con correlación de Pearson de 0.74.
@@ -94,6 +98,8 @@ Linhas de corrente no nível de pressão de 850hPa em 29/04/2022 - Streamlines i
 + enso.py - Código para plotar el índice mensual de El Niño Oscilación Sur(ENOS) entre los años de 2000 y 2021.
 + linhas_de_corrente_850hpa.png - Figura que muestra las líneas de corriente en lo nível de pressión de 850hPa en 29/04/2022.
 + media_movel.py - Código para plotar la média móvil de 30 dias de la temperatura del aire diaria entre los años de 1999 y 2020 para la ciudad de Pelotas-RS,sur del Brasil.
++ meteograma.png - Figura que ilustra el meteograma de temperaturas máximas y mínimas, humedad relativa máxima y mínima y precipitación.
++ meteograma.py - C
 + media_movel_temperatura.png - Figura que ilustra la média móvil de 30 dias de la temperatura del aire entre los años de 1999 y 2020 para la ciudad de Pelotas-RS, sur del Brasil. Años con correlación de Pearson arriba 0.70(colores) y otros años(gris).
 + oscilacao_antartica.csv - Datos mensuales del índice de Oscilación Antarctica entre los años de 2000 y 2021.
 + oscilacao_antartica.py - Código para plotar el índice mensual de Oscilación Antarctica entre los años de 2000 y 2021.
