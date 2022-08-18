@@ -41,6 +41,7 @@ Temperatura do ar no nível de pressão de 850hPa em 29/04/2022 - Air temperatur
 Linhas de corrente no nível de pressão de 850hPa em 29/04/2022 - Streamlines in 850hPa level pressure on 29/04/2022 - Líneas de corriente en lo nível de pressión de 850hPa en 29/04/2022. 
 
 ## Conteúdo do repositório(PT-BR)
++ Variaveis.csv - Dados 
 + correlacao.py - Código para calcular a correlação entre 2020 e os demais anos.
 + dispersao.py - Código para plotar o gráfico de dispersão simples entre os anos com correlação de Pearson acima de 0.70
 + dispersao2011-2020.png - Gráfico de dispersão simples entre os dados de temperatura média diária de 2011 e de 2020 com correlação de Pearson de 0.74.
@@ -49,6 +50,8 @@ Linhas de corrente no nível de pressão de 850hPa em 29/04/2022 - Streamlines i
 + enso.py - Código para plotar o índice mensal de El Niño Oscilação Sul(ENOS) entre 2000 e 2021.
 + linhas_de_corrente_850hpa.png -Figura que mostra as linhas de corrente no nível de pressão de 850hPa no dia 29/04/2022.
 + media_movel.py - Código para plotar a média móvel de 30 dias da temperatura do ar diária entre os anos de 1999 e 2020 para a cidade de Pelotas-RS, Brasil.
++ meteograma.py - 
++ meteograma.png - 
 + media_movel_temperatura.png - Figura que mostra a média móvel de 30 dias da temperatura do ar diária entre os anos de 1999 e 2020 para a cidade de Pelotas-RS, Brasil. Anos com correlação de Pearson acima de 0.70(colorido) e demais anos (cinza).
 + oscilacao_antartica.csv - Dados mensais do índice de Oscilação Antártica entre os anos 2000 e 2021.
 + oscilacao_antartica.py - Código para plotar o índice mensal de Oscilação Antártica entre os anos 2000 e 2021.
