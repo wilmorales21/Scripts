@@ -5,24 +5,7 @@ import numpy as np
 import tensorflow as tf
 #############################################################
 
-arq1 = open('Alegrete.csv','r').read()
-arq2 = open('Variaveis.csv','w')
-
-#converter todo o arq1 em string
-tex = str(arq1)
-
-# Substituindo virgula por ponto
-eb = tex.replace(',','.')
-
-for x in eb:
- arq2.write(x)  
-
-arq2.close()
-#print('Feito?')
-
-#---------------------------------------------------------------------------------
-
-df = pd.read_csv('Variaveis.csv',delimiter=' ',nrows=169)
+df = pd.read_csv('variaveis.csv',delimiter=' ',nrows=1009)
 #print(df)
 
 #Definindo a variavel alvo
@@ -43,9 +26,9 @@ def df_to_X_y(df,window_size=5):
 WINDOW_SIZE = 5
 X1,y1 = df_to_X_y(temp,WINDOW_SIZE)
 
-X_val,y_val = X1[:17],y1[:17]
-X_treino1,y_treino1 = X1[17:140],y1[17:140]
-X_teste,y_teste = X1[140:],y1[140:]
+X_val,y_val = X1[:672],y1[:672]
+X_treino1,y_treino1 = X1[672:770],y1[672:770]
+X_teste,y_teste = X1[770:],y1[770:]
 
 #Importando bibliotecas
 from tensorflow.keras.models import Sequential
@@ -75,16 +58,8 @@ print('previsao1')
 previsao2 = modelo.predict(X_teste).flatten()
 print('previsao3')
 
-#Criando variaveis para armazenar as previsoes
-A = previsao1
-B = previsao2
-
-#Concatenar os valores das previsoes numa só matriz
-previsao_final = np.concatenate((A,B),axis=0)
-print('previsao_final')
-
 # Criar um novo dataframe que receba informações da temperatura observada  a partir do 2º dia e da previsão final
-resultado = pd.DataFrame('Previsao':previsao_final,'Observado':temp[22:])
+resultado = pd.DataFrame('Previsao':previsao2,'Observado':temp[770:938])
 print(resultado)
 
 ##############################################################################
@@ -108,9 +83,9 @@ plt.xlabel('Dias')
 plt.grid()
 
 #fixando valores no eixo x
-plt.xticks([24,48,72,96,120,144],['02/01','03/01','04/01','05/01','06/01','07/01'])
+plt.xticks([770,794,818,842,866,890,914,937],['02/02','03/02','04/02','05/02','06/02','07/02','08/02','09/02'])
 #fixando os pontos limites entre valor inicial e valor final no eixo x
-plt.xlim([24,167])
+plt.xlim([770,937])
 
 plt.show()
 
