@@ -7,7 +7,7 @@ Three machine learning algorithms were tested in meteorological datas recorded i
 # Descripción(ESP)
 Fueron probados tres algoritmos de aprendizaje de máquina en datos meteorológicos registrados en la estación automática del Instituto Nacional de Meteorologia(INMET) situado en la ciudad de Alegrete-RS,sur de Brasil, entre los dias 01/01 y 11/02 de 2019. Los algoritmos son los bien conocidos Random Forest y Catboost y el Tensorflow.
 
-
+![randomforest](https://user-images.githubusercontent.com/80546143/187041955-cb336e37-1630-4357-a611-0884acb2fd12.png)
 Machine learning usando o algoritmo Random Forest - Machine learning using Random Forest Algorithm. Observed datas(green line) and forecast(red line) - Aprendizaje de máquina utilizando el algoritmo Random Forest.Datos observados(línea verde) y pronóstico(línea roja). 
 
 ![catboost](https://user-images.githubusercontent.com/80546143/187041866-351a7b2a-6da1-430a-9814-8fd22f79f889.png)
