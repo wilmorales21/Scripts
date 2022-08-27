@@ -58,7 +58,7 @@ print('previsao1')
 previsao2 = modelo.predict(X_teste).flatten()
 print('previsao2')
 
-# Criar um novo dataframe que receba informações da temperatura observada  a partir do 2º dia e da previsão final
+# Criar um novo dataframe que receba informações da temperatura observada a partir do dia 02/02 até o dia 08/02
 resultado = pd.DataFrame('Previsao':previsao2,'Observado':temp[770:938])
 print(resultado)
 
