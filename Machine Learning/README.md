@@ -1,50 +1,46 @@
 # Descrição(PT-BR)
-Foram testados três algoritmos distintos de machine learning em dados meteorológicos registrados na estação automática do Instituto Nacional de Meteorologia(INMET), localizada em Alegrete-RS entre os dias 02/01 e 07/01 de 2019. Os algoritmos são os bem conhecidos Random Forest, Catboost e o Tensorflow.
+Foram testados três algoritmos distintos de machine learning em dados meteorológicos registrados na estação automática do Instituto Nacional de Meteorologia(INMET), localizada em Alegrete-RS entre os dias 01/01 e 11/02 de 2019. Os algoritmos são os bem conhecidos Random Forest, Catboost e o Tensorflow.
 
 # Description(ENG)
-Three machine learning algorithms were tested in meteorological datas recorded in the automatic station of the Instituto Nacional de Meteorologia(INMET) located in the city of Alegrete-RS, southern of Brazil, between the days 02/01 and 07/01 in 2019. The algorithms are well-known Random Forest and Catboost and Tensorflow.  
+Three machine learning algorithms were tested in meteorological datas recorded in the automatic station of the Instituto Nacional de Meteorologia(INMET) located in the city of Alegrete-RS, southern of Brazil, between the days 01/01 and 11/02 in 2019. The algorithms are well-known Random Forest and Catboost and Tensorflow.  
 
 # Descripción(ESP)
-Fueron probados tres algoritmos de aprendizaje de máquina en datos meteorológicos registrados en la estación automática del Instituto Nacional de Meteorologia(INMET) situado en la ciudad de Alegrete-RS,sur de Brasil, entre los dias 02/01 y 07/01 de 2019. Los algoritmos son los bien conocidos Random Forest y Catboost y el Tensorflow.
+Fueron probados tres algoritmos de aprendizaje de máquina en datos meteorológicos registrados en la estación automática del Instituto Nacional de Meteorologia(INMET) situado en la ciudad de Alegrete-RS,sur de Brasil, entre los dias 01/01 y 11/02 de 2019. Los algoritmos son los bien conocidos Random Forest y Catboost y el Tensorflow.
 
-![Random_forest](https://user-images.githubusercontent.com/80546143/181768341-74b5617f-07ea-4ffa-b28b-d29a0cadb0f9.png)
+
 Machine learning usando o algoritmo Random Forest - Machine learning using Random Forest Algorithm. Observed datas(green line) and forecast(red line) - Aprendizaje de máquina utilizando el algoritmo Random Forest.Datos observados(línea verde) y pronóstico(línea roja). 
 
-![Catboost](https://user-images.githubusercontent.com/80546143/181768613-2f62bc42-d097-427a-a594-74cfe1c1ea5c.png)
+
 Machine learning usando o algoritmo Catboost - Machine learning using Catboost algorithm. Observed datas(green line) and forecast(red line) - Aprendizaje de máquina utilizando el algoritmo Catboost. Datos observados(línea verde) y pronóstico(línea roja).
 
-![Tensorflow](https://user-images.githubusercontent.com/80546143/181768826-3f354f61-764f-43f9-a7ab-acb9730ba66e.png)
 Machine learning usando o algoritmo Tensorflow - Machine learning using Tensorflow Algorithm. Observed datas(green line) and forecast(red line) - Aprendizaje de máquina utilizando el algoritmo Tensorflow.Datos observados(línea verde) y pronóstico(línea roja).
 
 ## Conteúdo do repositório(PT-BR)
-+ Alegrete.csv - Arquivo de dados meteorológicos observados da estação automática do Instituto Nacional de Meteorologia(INMET).
 + randomforest.py - Teste de machine learning usando o algoritmo Random Forest nos dados meteorológicos.
 + tensorflow.py - Teste de machine learning usando o algoritmo Tensorflow nos dados meteorológicos.
 + catboost.py - Teste de machine learning usando o algoritmo Catboost nos dados meteorológicos.
 + teste.py - Teste para descobrir quais variáveis são mais similares nos dados meteorológicos, usando o algoritmo ExtraTreesClassifier.
-+ Random_forest.png - Figura gerada pelo machine learning usando o algoritmo Random Forest.
-+ Tensorflow.png - Figura gerada pelo machine learning usando o algoritmo Tensorflow.
-+ Catboost.png - Figura gerada pelo machine learning usando o algoritmo Catboost.
-+ Variaveis.csv - Arquivo de dados meteorológicos sem vírgulas gerado pelos códigos catboost.py e randomforest.py.
++ randomforest.png - Figura gerada pelo machine learning usando o algoritmo Random Forest.
++ tensorflow.png - Figura gerada pelo machine learning usando o algoritmo Tensorflow.
++ catboost.png - Figura gerada pelo machine learning usando o algoritmo Catboost.
++ variaveis.csv - Arquivo de dados meteorológicos observados da estação automática do Instituto Nacional de Meteorologia(INMET).
 
 ## Repository content(ENG)
-+ Alegrete.csv -Observed meteorological datas file in the automatic station of the Instituto Nacional de Meteorologia(INMET).
 + randomforest.py - Machine learning test using the Random Forest algorithm in the meteorological datas.
 + tensorflow.py - Machine learning test using the Tensorflow algorithm in the meteorological datas.
 + catboost.py - Machine learning test using the Catboost algorithm in the meteorological datas.
 + teste.py - Test to discover which variables are most similars using the ExtraTreesClassifier algorithm.
-+ Random_forest.png - Picture generated by the machine learning using the Random Forest algorithm.
-+ Tensorflow.png - Picture generated by the machine learning using the Tensorflow algorithm.
-+ Catboost.png - Picture generated by the machine learning using the Catboost algorithm.
-+ Variaveis.csv - Meteorological datas file without commas generated by the catboost.py and randomforest.py codes.
++ randomforest.png - Picture generated by the machine learning using the Random Forest algorithm.
++ tensorflow.png - Picture generated by the machine learning using the Tensorflow algorithm.
++ catboost.png - Picture generated by the machine learning using the Catboost algorithm.
++ variaveis.csv - Observed meteorological datas file in the automatic station of the Instituto Nacional de Meteorologia(INMET).
 
 ## Contenido del repositorio(ESP)
-+ Alegrete.csv - Archivo de datos meteorológicos observados de la estación automática del Instituto Nacional de Meteorologia(INMET).
 + randomforest.py - Prueba de aprendizaje de máquina utilizando el algoritmo Random Forest en los datos meteorológicos.
 + tensorflow.py - Prueba de aprendizaje de maquina utilizando el algoritmo Tensorflow en los datos meteorológicos.
 + catboost.py - Prueba de aprendizaje de máquina utilizando el algoritmo Catboost en los datos meteorológicos.
 + teste.py - Prueba para descubrir cuales son las variables más similares en los datos meteorológicos utilizando el algoritmo ExtraTreesClassifier.
-+ Random_forest.png - Figura generada por lo aprendizaje de máquina utilizando el algoritmo Random Forest.
-+ Tensorflow.png - Figura generada por lo aprendizaje de maquina utilizando el algoritmo Tensorflow.
-+ Catboost.png - Figura generada por lo aprendizaje de máquina utilizando el algoritmo Catboost.
-+ Variaveis.csv - Archivo de datos meteorológicos sin comas generado por los códigos catboost.py y randomforest.py.
++ randomforest.png - Figura generada por lo aprendizaje de máquina utilizando el algoritmo Random Forest.
++ tensorflow.png - Figura generada por lo aprendizaje de maquina utilizando el algoritmo Tensorflow.
++ catboost.png - Figura generada por lo aprendizaje de máquina utilizando el algoritmo Catboost.
++ variaveis.csv - Archivo de datos meteorológicos observados de la estación automática del Instituto Nacional de Meteorologia(INMET).
