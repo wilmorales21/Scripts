@@ -13,7 +13,7 @@ Machine learning usando o algoritmo Random Forest - Machine learning using Rando
 ![catboost](https://user-images.githubusercontent.com/80546143/187041866-351a7b2a-6da1-430a-9814-8fd22f79f889.png)
 Machine learning usando o algoritmo Catboost - Machine learning using Catboost algorithm. Observed datas(green line) and forecast(red line) - Aprendizaje de máquina utilizando el algoritmo Catboost. Datos observados(línea verde) y pronóstico(línea roja).
 
-![tensorflow](https://user-images.githubusercontent.com/80546143/187042029-164a1272-4ede-4a57-9912-777721cad3b7.png)
+
 Machine learning usando o algoritmo LSTM de Tensorflow - Machine learning using LSTM Algorithm of Tensorflow. Observed datas(green line) and forecast(red line) - Aprendizaje de máquina utilizando el algoritmo LSTM de Tensorflow.Datos observados(línea verde) y pronóstico(línea roja).
 
 ## Conteúdo do repositório(PT-BR)
