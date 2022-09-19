@@ -14,7 +14,7 @@ Machine learning usando o algoritmo Random Forest - Machine learning using Rando
 Machine learning usando o algoritmo Catboost - Machine learning using Catboost algorithm. Observed datas(green line) and forecast(red line) - Aprendizaje de máquina utilizando el algoritmo Catboost. Datos observados(línea verde) y pronóstico(línea roja).
 
 ![tensorflow](https://user-images.githubusercontent.com/80546143/187074725-adeaf7f4-b4d9-4f93-929e-e9c41989f1cb.png)
-Machine learning usando o algoritmo de rede neural LSTM - Machine learning using LSTM neural network. Observed datas(green line) and forecast(red line) - Aprendizaje de máquina utilizando el algoritmo de red neuronal LSTM.Datos observados(línea verde) y pronóstico(línea roja).
+Machine learning usando o algoritmo de rede neural LSTM - Machine learning using the LSTM neural network. Observed datas(green line) and forecast(red line) - Aprendizaje de máquina utilizando el algoritmo de red neuronal LSTM.Datos observados(línea verde) y pronóstico(línea roja).
 
 ## Conteúdo do repositório(PT-BR)
 + randomforest.py - Teste de machine learning usando o algoritmo Random Forest nos dados meteorológicos.
