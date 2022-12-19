@@ -40,6 +40,10 @@ Temperatura do ar no nível de pressão de 850hPa em 29/04/2022 - Air temperatur
 
 Linhas de corrente no nível de pressão de 850hPa em 29/04/2022 - Streamlines in 850hPa level pressure on 29/04/2022 - Líneas de corriente en lo nível de pressión de 850hPa en 29/04/2022. 
 
+![precipitacao_media_prevista](https://user-images.githubusercontent.com/80546143/208449921-1d12a092-fade-40c7-96e6-8f9cf7c6e9aa.png)
+
+Precipitação média para 15 dias prevista pelo modelo GEFS sobre a Bacia do Baixo Iguaçú.
+
 ## Conteúdo do repositório(PT-BR)
 + Variaveis.csv - Dados meteorológicos da estação automática do INMET em Alegrete-RS. 
 + correlacao.py - Código para calcular a correlação entre 2020 e os demais anos.
