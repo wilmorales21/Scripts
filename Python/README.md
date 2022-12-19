@@ -87,8 +87,8 @@ Precipitação média para 15 dias prevista pelo modelo GEFS sobre a Bacia do Ba
 + oscilacao_antartica.png - This picture shows the Antartic Oscillation monthly index between 2000 and 2021
 + precipitacao.csv - Data set of monthly precipitation for the years 2009,2011,2019 and 2020.
 + precipitacao.png - This picture shows the bar graphic of the monthly precipitation. 
-+ precipitacao_prevista.py - This code plot the forecast of the mean precipitation to 15 about the Baixo Iguaçú basin by the GEFS model
 + precipitacao.py - This code plots the bar graphic of the monthly precipitation for years with Pearson correlation above 0.70.
++ precipitacao_prevista.py - This code plot the the mean precipitation to 15 days predicted about the Baixo Iguaçú basin by the GEFS model
 + temperatura_850hPa.png - This picture shows the air temperature in 850hPa pressure level in 29/04/2022.
 + temperatura_netcdf.py - This code plots the air temperature from NetCDF data.
 + temperatura_diaria.csv - Data set of daily mean temperature observed between 1999 and 2020 in the city of Pelotas-RS, southern of Brazil
