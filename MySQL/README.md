@@ -1,5 +1,5 @@
 ## Descrição(PT-BR)
-Foi utilizado o ambiente Mysql Workbench para gerar uma tabela com o código gerar_tabela.sql e visualizar uma planilha de dados no formato .CSV que foi importada pelo código importar_arquivo_csv.sql. 
+Foi utilizado o ambiente MySQL Workbench para gerar uma tabela com o código gerar_tabela.sql e visualizar uma planilha de dados no formato .CSV que foi importada pelo código importar_arquivo_csv.sql. 
 ## Description(ENG)
 It was used the MySQL Workbench environment to generate a table with gerar_codigo.sql code and view a data spreadsheet in the .CSV format that was imported by the importar_arquivo_csv.sql code.
 ## Descripción(ESP)
