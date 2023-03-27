@@ -3,8 +3,7 @@
 # Descripción(ESP)
 
 ## Conteúdo do repositório(BR-PT)
-+ 1.git_status.png - Figura que mostra o status do diretório local pelo terminal.
-+ 2.git_add_files.png - Figura que mostra os arquivos que não estão monitorados pelo git. 
++ 2.git_add_files.png - Figura que mostra os arquivos que não estão monitorados pelo git a partir de um terminal local. 
 + 3.git_add_files.png - Figura que mostra o arquivo testes.txt que foi adicionado ao monitoramento do git.
 + 4.git_commit.png - Figura que mostra o primeiro commit feito pelo git no arquivo testes.txt.
 + 5.git_add_files.png - Figura que mostra que o arquivo testes.txt foi modificado e adicionado novamente ao monitoramento do git.
@@ -14,8 +13,7 @@
 + 9.git_push.png - Figura que mostra como criar um novo branch chamado teste remotamente.
 
 ## Repository content(ENG)
-+ 1.git_status.png - This picture shows the local directory status from the terminal screen.
-+ 2.git_add_files.png - This picture shows the files are not monitored by the git.
++ 2.git_add_files.png - This picture shows the files are not monitored by the git from the local terminal screen.
 + 3.git_add_files.png - This picture shows the testes.txt file was added to monitoring of git.
 + 4.git_commit.png - This picture shows the first commit done by the git in the testes.txt file.
 + 5.git_add_files.png - This picture shows that the testes.txt file was changed and added to monitoring of git.
@@ -25,8 +23,7 @@
 + 9.git_push.png - This picture shows how to create a new branch called teste remotely way. 
 
 ## Contenido del repositorio(ESP)
-+ 1.git_status.png - Figura que muestra el status del directório local por la pantalla del terminal.
-+ 2.git_add_files.png - Figura que muestra los archivos que no están monitorados por el git.
++ 2.git_add_files.png - Figura que muestra los archivos que no están monitorados por el git a partir de una pantalla local.
 + 3.git_add_files.png - Figura muestra el archivo testes.txt que fué agregado al monitoreo del git.
 + 4.git_commit.png - Figura que muestra el primero commit hecho por el git en el archivo testes.txt.
 + 5.git_add_files.png - Figura que muestra que el archivo testes.txt fué cambiado y agregado de nuevo al monitoreo del git. 
