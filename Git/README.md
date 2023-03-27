@@ -26,7 +26,7 @@
 
 ## Contenido del repositorio(ESP)
 + 1.git_status.png - Figura que muestra el status del directório local por la pantalla del terminal.
-+ 2.git_add_files.png - Figura que muestra los archivos que no están monitorasdo por el git.
++ 2.git_add_files.png - Figura que muestra los archivos que no están monitorados por el git.
 + 3.git_add_files.png - Figura muestra el archivo testes.txt que fué agregado al monitoreo del git.
 + 4.git_commit.png - Figura que muestra el primero commit hecho por el git en el archivo testes.txt.
 + 5.git_add_files.png - Figura que muestra que el archivo testes.txt fué cambiado y agregado de nuevo al monitoreo del git. 
