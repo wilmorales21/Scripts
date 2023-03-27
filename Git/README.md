@@ -25,12 +25,12 @@
 + 9.git_push.png - This picture shows how to create a new branch called teste remotely way. 
 
 ## Contenido del repositorio(ESP)
-+ 1.git_status.png - 
-+ 2.git_add_files.png - 
-+ 3.git_add_files.png - 
-+ 4.git_commit.png - 
-+ 5.git_add_files.png - 
-+ 6.git_commit.png - 
-+ 7.git_branches.png - 
-+ 8.git_remote.png - 
-+ 9.git_push.png -
++ 1.git_status.png - Figura que muestra el status del directório local por la pantalla del terminal.
++ 2.git_add_files.png - Figura que muestra los archivos que no están monitorasdo por el git.
++ 3.git_add_files.png - Figura muestra el archivo testes.txt que fué agregado al monitoreo del git.
++ 4.git_commit.png - Figura que muestra el primero commit hecho por el git en el archivo testes.txt.
++ 5.git_add_files.png - Figura que muestra que el archivo testes.txt fué cambiado y agregado de nuevo al monitoreo del git. 
++ 6.git_commit.png - Figura que muestra el segundo commit hecho por el git en el archivo testes.txt.
++ 7.git_branches.png - Figura que muestra los branches del directório local y la modificación de los branches.
++ 8.git_remote.png - Figura que muestra el directório Teste que está remotamente en el sitio Github.
++ 9.git_push.png - Figura que muestra como crear un nuevo branch llamado teste remotamente.
