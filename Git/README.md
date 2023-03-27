@@ -2,7 +2,7 @@
 Foram executados alguns comandos básicos de versionamento de códigos usando o Git com ilustrações da tela de um terminal local.
 
 # Description(ENG)
-It were executed some basic commands of code versioning using the Git with ilustrations of local terminal screen.
+It were executed some basic commands of code versioning using the Git with illustrations of local terminal screen.
 
 # Descripción(ESP)
 Fueron ejecutados algunos comandos basicos del versionamiento del código usando el Git con ilustraciones de la pantalla de un terminal local.
