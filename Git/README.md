@@ -3,7 +3,7 @@
 # Descripción(ESP)
 
 ## Conteúdo do repositório(BR-PT)
-+ 1.git_status.png - Figura que mostra o status do diretório pelo terminal.
++ 1.git_status.png - Figura que mostra o status do diretório local pelo terminal.
 + 2.git_add_files.png - Figura que mostra os arquivos que não estão monitorados pelo git. 
 + 3.git_add_files.png - Figura que mostra o arquivo testes.txt que foi adicionado ao monitoramento do git.
 + 4.git_commit.png - Figura que mostra o primeiro commit feito pelo git no arquivo testes.txt.
@@ -14,7 +14,7 @@
 + 9.git_push.png - Figura que mostra como criar um novo branch chamado teste remotamente.
 
 ## Repository content(ENG)
-+ 1.git_status.png - This picture shows the directory status from the terminal screen.
++ 1.git_status.png - This picture shows the local directory status from the terminal screen.
 + 2.git_add_files.png - This picture shows the files are not monitored by the git.
 + 3.git_add_files.png - This picture shows the testes.txt file was added to monitoring of git.
 + 4.git_commit.png - This picture shows the first commit done by the git in the testes.txt file.
