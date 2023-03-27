@@ -5,7 +5,7 @@ Foram executados alguns comandos básicos de versionamento de códigos usando o 
 It were executed some basic commands of code versioning using the Git with ilustrations of local terminal screen.
 
 # Descripción(ESP)
-Fueran ejecutados algunos comandos basicos del versionamiento del código usando el Git con ilustraciones de la pantalla de un terminal local.
+Fueron ejecutados algunos comandos basicos del versionamiento del código usando el Git con ilustraciones de la pantalla de un terminal local.
 
 ## Conteúdo do repositório(BR-PT)
 + 2.git_add_files.png - Figura que mostra os arquivos(vermelho) que não estão monitorados pelo git a partir de um terminal local. 
