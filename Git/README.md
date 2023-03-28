@@ -29,7 +29,7 @@ Fueron ejecutados algunos comandos basicos del versionamiento del código usando
 + 7.git_remote.png - This picture shows the Teste directory that is remotely in the Github site.
 + 8.git_push.png - This picture shows how to create a new branch called teste remotely way. 
 + 10.git_remover.png - This picture shows that dataprep.ipynb(red) file needs to be commited to be deleted from local directory.
-+ 11.git_gitignore_arquivo.png - This picture shows the git will ignorate all the files that are inside outros directory. 
++ 11.git_gitignore_arquivo.png - This picture shows the git will ignore all the files that are inside outros directory. 
 
 ## Contenido del repositorio(ESP)
 + 1.git_add_files.png - Figura que muestra los archivos(rojo) que no están monitorados por el git a partir de una pantalla local.
