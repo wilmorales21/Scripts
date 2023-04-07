@@ -20,6 +20,8 @@ Imagem ilustrativa dos dados da planilha que foram incorporados no Ambiente MySQ
 + gerar_tabela.sql - Código para gerar a tabela com as variáveis armazenadas em colunas.
 + importar_arquivo_csv.png - Imagem do ambiente Mysql Workbench que mostra a tabela abaixo que foi invocada pelo código.
 + importar_arquivo_csv.sql - Código para importar a planilha no formato .CSV para o ambiente Mysql Workbench.
++ media_preco_ano_2018.png - 
++ media_preco_ano_2018.sql - 
 + planilha.csv - Planilha no formato .CSV que contém os dados.
 + planilha.png - Planilha de dados no aplicativo LibreOffice.
 
@@ -32,6 +34,8 @@ Imagem ilustrativa dos dados da planilha que foram incorporados no Ambiente MySQ
 + gerar_tabela.sql - Code to generate the table with the variables stored in colunms.
 + importar_arquivo_csv.png - MySQL Workbench environment screenshot that shows the table below that was invoked by the code. 
 + importar_arquivo_csv.sql - Code to import the spreadsheet in .CSV format to the MySQL Workbench environment.
++ media_preco_ano_2018.png - 
++ media_preco_ano_2018.sql - 
 + planilha.csv - Spreadsheet in .CSV format that contains the data.
 + planilha.png - Data spreadsheet on the LibreOffice app.
 
@@ -44,5 +48,7 @@ Imagem ilustrativa dos dados da planilha que foram incorporados no Ambiente MySQ
 + gerar_tabela.sql - Código para generar la tabla con las variables almacenadas en columnas.
 + importar_arquivo_csv.png - Imagen del entorno MySQL Workbench que muestra la tabla abajo que fue invocada por el código.
 + importar_arquivo_csv.sql - Código para importar la hoja en el formato .CSV para el entorno MySQL Workbench.
++ media_preco_ano_2018.png - 
++ media_preco_ano_2018.sql - 
 + planilha.csv - Hoja en el formato .CSV que contiene los datos.
 + planilha.png - Hoje de datos en el app LibreOffice.
