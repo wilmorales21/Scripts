@@ -43,7 +43,7 @@ Imagem ilustrativa dos dados da planilha que foram incorporados no Ambiente MySQ
 + contar_produto.png - Figura que muestra como contar cuantas veces un producto fué registrado en la columna Quantidade in 2018 de la tabla informacoes.
 + contar_produto.sql - Código para contar cuantas veces un producto fué registrado en la columna Quantidade in 2018 de la tabla informacoes.
 + filtrar_colunas_ano.png - Figura que muestra como filtrar y mostrar la columna de los productos registrados en 2018 y el año en la tabla informacoes. 
-+ filtrar_colunas_ano.sql - Código para filtar y mostrar la columna de los productos registrados en 2018 y el a
++ filtrar_colunas_ano.sql - Código para filtrar y mostrar la columna de los productos registrados en 2018 y el año en la tabla informacoes.
 + gerar_tabela.png - Imagen del entorno MySQL Workbench que muestra en el lado izquierdo la tabla y columnas generadas por el código.
 + gerar_tabela.sql - Código para generar la tabla con las variables almacenadas en columnas.
 + importar_arquivo_csv.png - Imagen del entorno MySQL Workbench que muestra la tabla abajo que fue invocada por el código.
