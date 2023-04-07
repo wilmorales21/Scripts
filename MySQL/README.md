@@ -5,8 +5,11 @@ It was used the MySQL Workbench environment to generate a table with gerar_codig
 ## Descripción(ESP)
 Fue usado el entorno MySQL Workbench para generar una tabla con el código gerar_codigo.sql y visualizar una hoja de datos en le formato .CSV que fué importada por el código importar_arquivo.sql. 
 
+![planilha](https://user-images.githubusercontent.com/80546143/230627437-97ca156f-e33b-4940-ace2-144531317940.png)
+Planilha ilustrativa com dados no LibreOffice.
+
 ![importar_arquivo_csv](https://user-images.githubusercontent.com/80546143/226619002-b6f93a53-6f68-44be-9ef7-f804d6eb9f95.png)
-Imagem ilustrativa do Ambiente MySQL Workbench
+Imagem ilustrativa dos dados da planilha que foram incorporados no Ambiente MySQL Workbench
 
 ## Conteúdo do repositorio(PT-BR)
 + gerar_tabela.png - Imagem do ambiente Mysql Workbench que mostra do lado esquerdo a tabela e as colunas geradas pelo código.
