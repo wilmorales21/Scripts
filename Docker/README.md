@@ -2,7 +2,7 @@
 # Description(ENG)
 # Descripción(ESP)
 
-## Conteúdo do Repositório(PT-BR)
+## Conteúdo do repositório(PT-BR)
 + 1.containers_ativos.png -  
 + 2.imagens_criadas.png - 
 + 3.primeir0_container_imagem.png - 
@@ -17,7 +17,7 @@
 + 12.nginx_navegador.png - 
 + 13.removendo_container_nginx.png -
 
-## Repository Content(ENG)
+## Repository content(ENG)
 + 1.containers_ativos.png -  
 + 2.imagens_criadas.png - 
 + 3.primeir0_container_imagem.png - 
@@ -32,7 +32,7 @@
 + 12.nginx_navegador.png - 
 + 13.removendo_container_nginx.png -
 
-## Contenido del Repositório(ESP)
+## Contenido del repositório(ESP)
 + 1.containers_ativos.png -  
 + 2.imagens_criadas.png - 
 + 3.primeir0_container_imagem.png - 
