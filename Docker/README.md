@@ -16,6 +16,12 @@
 + 11.porta_local_porta_container.png - 
 + 12.nginx_navegador.png - 
 + 13.removendo_container_nginx.png -
++ 14.baixar_imagem_mysql_pro_docker.png - 
++ 15.criar_container_mysql.png - 
++ 16.verificar_container_mysql.png - 
++ 17.verificar_conexao_mysql_workbench.png - 
++ 18.verificar_bancodados_mysql_workbench.png - 
++ 19.parar_container_mysql_wil.png - 
 
 ## Repository content(ENG)
 + 1.containers_ativos.png -  
@@ -31,6 +37,12 @@
 + 11.porta_local_porta_container.png - 
 + 12.nginx_navegador.png - 
 + 13.removendo_container_nginx.png -
++ 14.baixar_imagem_mysql_pro_docker.png - 
++ 15.criar_container_mysql.png - 
++ 16.verificar_container_mysql.png - 
++ 17.verificar_conexao_mysql_workbench.png - 
++ 18.verificar_bancodados_mysql_workbench.png - 
++ 19.parar_container_mysql_wil.png - 
 
 ## Contenido del repositório(ESP)
 + 1.containers_ativos.png -  
@@ -46,3 +58,10 @@
 + 11.porta_local_porta_container.png - 
 + 12.nginx_navegador.png - 
 + 13.removendo_container_nginx.png -
++ 14.baixar_imagem_mysql_pro_docker.png - 
++ 15.criar_container_mysql.png - 
++ 16.verificar_container_mysql.png - 
++ 17.verificar_conexao_mysql_workbench.png - 
++ 18.verificar_bancodados_mysql_workbench.png - 
++ 19.parar_container_mysql_wil.png - 
+
