@@ -5,7 +5,7 @@
 ## Conteúdo do repositório(PT-BR)
 + 1.containers_ativos.png -  
 + 2.imagens_criadas.png - 
-+ 3.primeir0_container_imagem.png - 
++ 3.primeiro_container_imagem.png - 
 + 4.primeiro_container_imagem.png - 
 + 5.especificar_nome_container.png - 
 + 6.especificar_nome_container.png - 
@@ -38,7 +38,7 @@
 ## Repository content(ENG)
 + 1.containers_ativos.png -  
 + 2.imagens_criadas.png - 
-+ 3.primeir0_container_imagem.png - 
++ 3.primeiro_container_imagem.png - 
 + 4.primeiro_container_imagem.png - 
 + 5.especificar_nome_container.png - 
 + 6.especificar_nome_container.png - 
@@ -71,7 +71,7 @@
 ## Contenido del repositório(ESP)
 + 1.containers_ativos.png -  
 + 2.imagens_criadas.png - 
-+ 3.primeir0_container_imagem.png - 
++ 3.primeiro_container_imagem.png - 
 + 4.primeiro_container_imagem.png - 
 + 5.especificar_nome_container.png - 
 + 6.especificar_nome_container.png - 
