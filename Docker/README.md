@@ -18,13 +18,13 @@
 + 13.removendo_container_nginx.png - Figura que mostra como remover containers em execução.
 + 14.baixar_imagem_mysql_pro_docker.png - Figura que mostra como baixar imagem do MySQL para o ambiente Docker.
 + 15.criar_container_mysql.png - Figura que mostra como criar container de banco de dados MySQL no Docker. 
-+ 16.verificar_conexao_mysql_workbench.png - 
-+ 17.verificar_bancodados_mysql_workbench.png -
-+ 18.parar_container_mysql_wil.png - 
-+ 19.dockerfile_ubuntu_curl.png - 
-+ 20.dockerfile_ubuntu_curl.png - 
-+ 21.ubuntu_curl_image.png - 
-+ 22.curl_ubuntu_ambiente_isolado.png - 
++ 16.verificar_conexao_mysql_workbench.png - Figura que serve para verificar a conexão com o MySQL Workbench.
++ 17.verificar_bancodados_mysql_workbench.png - Figura que serve para verificar no MySQL Workbench o banco de dados criado pelo terminal.
++ 18.parar_container_mysql_wil.png - Figura que mostra como parar o container de banco de dados mysql_wil.
++ 19.dockerfile_ubuntu_curl.png - Código em Dockerfile no Visual Studio que serve para criar uma imagem curl no Ubuntu. 
++ 20.dockerfile_ubuntu_curl.png - Figura que mostra como construir aplicação curl no Ubuntu.
++ 21.ubuntu_curl_image.png - Figura que mostra a imagem Ubuntu-curl no diretório local.
++ 22.curl_ubuntu_ambiente_isolado.png - Figura que mostra como rodar a aplicação curl no Ubuntu em ambiente isolado.
 + 23.construir_imagem.png - 
 + 24.construir_imagem.png - 
 + 25.login_dockerhub.png - 
