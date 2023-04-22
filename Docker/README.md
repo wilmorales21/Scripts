@@ -20,8 +20,20 @@
 + 15.criar_container_mysql.png - 
 + 16.verificar_container_mysql.png - 
 + 17.verificar_conexao_mysql_workbench.png - 
-+ 18.verificar_bancodados_mysql_workbench.png - 
++ 18.verificar_bancodados_mysql_workbench.png -
 + 19.parar_container_mysql_wil.png - 
++ 20.dockerfile_ubuntu_curl.png - 
++ 21.dockerfile_ubuntu_curl.png - 
++ 22.ubuntu_curl_image.png - 
++ 23.curl_ubuntu_ambiente_isolado.png - 
++ 24.construir_imagem.png - 
++ 25.construir_imagem.png - 
++ 26.login_dockerhub.png - 
++ 27.fazendo_push_imagem.png - 
++ 28.conferir_dockerhub_push_da_imagem.png - 
++ 29.ultima_versao_imagem.png - 
++ 30.fazendo_push_imagem_latest.png - 
++ 31.conferir_dockerhub_push_image_latest.png - 
 
 ## Repository content(ENG)
 + 1.containers_ativos.png -  
@@ -43,6 +55,18 @@
 + 17.verificar_conexao_mysql_workbench.png - 
 + 18.verificar_bancodados_mysql_workbench.png - 
 + 19.parar_container_mysql_wil.png - 
++ 20.dockerfile_ubuntu_curl.png - 
++ 21.dockerfile_ubuntu_curl.png - 
++ 22.ubuntu_curl_image.png - 
++ 23.curl_ubuntu_ambiente_isolado.png - 
++ 24.construir_imagem.png - 
++ 25.construir_imagem.png - 
++ 26.login_dockerhub.png - 
++ 27.fazendo_push_imagem.png - 
++ 28.conferir_dockerhub_push_da_imagem.png - 
++ 29.ultima_versao_imagem.png - 
++ 30.fazendo_push_imagem_latest.png - 
++ 31.conferir_dockerhub_push_image_latest.png -
 
 ## Contenido del repositório(ESP)
 + 1.containers_ativos.png -  
@@ -64,4 +88,15 @@
 + 17.verificar_conexao_mysql_workbench.png - 
 + 18.verificar_bancodados_mysql_workbench.png - 
 + 19.parar_container_mysql_wil.png - 
-
++ 20.dockerfile_ubuntu_curl.png - 
++ 21.dockerfile_ubuntu_curl.png - 
++ 22.ubuntu_curl_image.png - 
++ 23.curl_ubuntu_ambiente_isolado.png - 
++ 24.construir_imagem.png - 
++ 25.construir_imagem.png - 
++ 26.login_dockerhub.png - 
++ 27.fazendo_push_imagem.png - 
++ 28.conferir_dockerhub_push_da_imagem.png - 
++ 29.ultima_versao_imagem.png - 
++ 30.fazendo_push_imagem_latest.png - 
++ 31.conferir_dockerhub_push_image_latest.png -
