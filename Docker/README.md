@@ -25,14 +25,14 @@
 + 20.dockerfile_ubuntu_curl.png - Figura que mostra como construir aplicação curl no Ubuntu.
 + 21.ubuntu_curl_image.png - Figura que mostra a imagem Ubuntu-curl no diretório local.
 + 22.curl_ubuntu_ambiente_isolado.png - Figura que mostra como rodar a aplicação curl no Ubuntu em ambiente isolado.
-+ 23.construir_imagem.png - 
-+ 24.construir_imagem.png - 
-+ 25.login_dockerhub.png - 
-+ 26.fazendo_push_imagem.png - 
-+ 27.conferir_dockerhub_push_da_imagem.png - 
-+ 28.ultima_versao_imagem.png - 
-+ 29.fazendo_push_imagem_latest.png - 
-+ 30.conferir_dockerhub_push_image_latest.png - 
++ 23.construir_imagem.png - Figura que mostra quais imagens estão no diretório local.
++ 24.construir_imagem.png - Figura que mostra como construir nova imagem hello-world com a tag v1.
++ 25.login_dockerhub.png - Figura que mostra como fazer login no Dockerhub via terminal.
++ 26.fazendo_push_imagem.png - Figura que mostra como fazer push da imagem hello-world:v1 para o Dockerhub via terminal.
++ 27.conferir_dockerhub_push_da_imagem.png - Figura que mostra a imagem hello-world:v1 que foi subida para o Dockerhub.
++ 28.ultima_versao_imagem.png - Figura que mostra como converter a imagem hello-world:v1 para a última versão da imagem hello-world:latest.
++ 29.fazendo_push_imagem_latest.png - Figura que mostra como fazer o push da imagem hello-world:latest para o Dockerhub via terminal.
++ 30.conferir_dockerhub_push_image_latest.png - Figura que mostra a imagem hello-world:latest que foi subida para o Dockerhub.
 
 ## Repository content(ENG)
 + 1.containers_ativos.png -  
