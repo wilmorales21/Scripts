@@ -67,33 +67,33 @@
 + 30.conferir_dockerhub_push_image_latest.png - This picture shows the hello-world:latest image that was uploaded to Dockerhub site.
 
 ## Contenido del repositório(ESP)
-+ 1.containers_ativos.png -  
-+ 2.imagens_criadas.png - 
-+ 3.primeiro_container_imagem.png - 
-+ 4.primeiro_container_imagem.png - 
-+ 5.especificar_nome_container.png - 
-+ 6.especificar_nome_container.png - 
-+ 7.remover_container.png - 
-+ 8.container_ubuntu_iterativo.png - 
-+ 9.container_nginx_background.png - 
-+ 10.acessar_nginx_habilitar_terminal.png - 
-+ 11.porta_local_porta_container.png - 
-+ 12.nginx_navegador.png - 
-+ 13.removendo_container_nginx.png -
-+ 14.baixar_imagem_mysql_pro_docker.png - 
-+ 15.criar_container_mysql.png - 
-+ 16.verificar_conexao_mysql_workbench.png - 
-+ 17.verificar_bancodados_mysql_workbench.png - 
-+ 18.parar_container_mysql_wil.png - 
-+ 19.dockerfile_ubuntu_curl.png - 
-+ 20.dockerfile_ubuntu_curl.png - 
-+ 21.ubuntu_curl_image.png - 
-+ 22.curl_ubuntu_ambiente_isolado.png - 
-+ 23.construir_imagem.png - 
-+ 24.construir_imagem.png - 
-+ 25.login_dockerhub.png - 
-+ 26.fazendo_push_imagem.png - 
-+ 27.conferir_dockerhub_push_da_imagem.png - 
-+ 28.ultima_versao_imagem.png - 
-+ 29.fazendo_push_imagem_latest.png - 
-+ 30.conferir_dockerhub_push_image_latest.png -
++ 1.containers_ativos.png - Figura que muestra los containers activos en el directório local. 
++ 2.imagens_criadas.png - Figura que muestra que imágenes están en el directório local.
++ 3.primeiro_container_imagem.png - Figura que muestra como hacer el container hello-world.
++ 4.primeiro_container_imagem.png - Figura que muestra el container hello-world en el directório local.
++ 5.especificar_nome_container.png - Figura que muestra como cambiar el nombre del container hello-world.
++ 6.especificar_nome_container.png - Figura que muestra los containers hello-world()original y nombre cambiado) en el directório local.
++ 7.remover_container.png - Figura que muestra como eliminar el container hello-world.
++ 8.container_ubuntu_iterativo.png - Figura que muestra como crear un container iterativo del Ubuntu ejecutando en ambiente aislado.
++ 9.container_nginx_background.png - Figura que muestra como crear un container del servicio web Nginx ejecutando en background.
++ 10.acessar_nginx_habilitar_terminal.png - Figura que muestra como acceder el servício web Nginx por el terminal habilitado.
++ 11.porta_local_porta_container.png - Figura que muestra como vincular una puerta de la máquina local con la puerta del container Nginx.
++ 12.nginx_navegador.png - Figura que muestra como acceder el servicio Nginx por el browser.
++ 13.removendo_container_nginx.png - Figura que muestra como eliminar los containers en ejecución.
++ 14.baixar_imagem_mysql_pro_docker.png - Figura que muestra como bajar imágene del MySQL para el ambiente Docker.
++ 15.criar_container_mysql.png - Figura que muestra como crear container de banco de datos MySQL en el Docker.
++ 16.verificar_conexao_mysql_workbench.png - Figura que sirve para verificar la conección con el MySQL Workbench.
++ 17.verificar_bancodados_mysql_workbench.png - Figura que sirve para verificar en el MySQL Workbench el banco de datos creado por el terminal.
++ 18.parar_container_mysql_wil.png - Figura que muestra como parar el container de banco de datos mysql_wil. 
++ 19.dockerfile_ubuntu_curl.png - Código en Dockerfile en el Visual Studio que sirve para crear una imágene curl en el Ubuntu.
++ 20.dockerfile_ubuntu_curl.png - Figura que muestra como construir una aplicación curl en el Ubuntu.
++ 21.ubuntu_curl_image.png - Figura que muestra la imágene Ubuntu-curl en el directório local.
++ 22.curl_ubuntu_ambiente_isolado.png - Figura que muestra como ejecutar la aplicación curl Ubuntu en ambiente aislado.
++ 23.construir_imagem.png - Figura que muestra que imágenes están en el directório local.
++ 24.construir_imagem.png - Figura que muestra como construir una nueva imágene hello-world con la tag v1.
++ 25.login_dockerhub.png - Figura que muestra como hacer login en el sitio Dockerhub via terminal.
++ 26.fazendo_push_imagem.png - Figura que muestra como hacer push de la imágene hello-world:v1 para el sitio Dockerhub via terminal.
++ 27.conferir_dockerhub_push_da_imagem.png - Figura que muestra la imágene hello-world:v1 que ha sido subida para el sitio Dockerhub. 
++ 28.ultima_versao_imagem.png - Figura que muestra como convertir la imágene hello-world:v1 para la ultima versión de la imágene hello-world:latest.
++ 29.fazendo_push_imagem_latest.png - Figura que muestra como hacer el push de la imágene hello-world:latest para el sitio Dockerhub via terminal.
++ 30.conferir_dockerhub_push_image_latest.png - Figura que muestra la imágene hello-world:latest que ha sido subida para el sitio Dockerhub.
