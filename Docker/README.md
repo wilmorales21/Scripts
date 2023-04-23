@@ -80,20 +80,20 @@
 + 11.porta_local_porta_container.png - Figura que muestra como vincular una puerta de la máquina local con la puerta del container Nginx.
 + 12.nginx_navegador.png - Figura que muestra como acceder el servicio Nginx por el browser.
 + 13.removendo_container_nginx.png - Figura que muestra como eliminar los containers en ejecución.
-+ 14.baixar_imagem_mysql_pro_docker.png - Figura que muestra como bajar imágene del MySQL para el ambiente Docker.
++ 14.baixar_imagem_mysql_pro_docker.png - Figura que muestra como bajar imágen del MySQL para el ambiente Docker.
 + 15.criar_container_mysql.png - Figura que muestra como crear container de banco de datos MySQL en el Docker.
 + 16.verificar_conexao_mysql_workbench.png - Figura que sirve para verificar la conección con el MySQL Workbench.
 + 17.verificar_bancodados_mysql_workbench.png - Figura que sirve para verificar en el MySQL Workbench el banco de datos creado por el terminal.
 + 18.parar_container_mysql_wil.png - Figura que muestra como parar el container de banco de datos mysql_wil. 
-+ 19.dockerfile_ubuntu_curl.png - Código en Dockerfile en el Visual Studio que sirve para crear una imágene curl en el Ubuntu.
++ 19.dockerfile_ubuntu_curl.png - Código en Dockerfile en el Visual Studio que sirve para crear una imágen curl en el Ubuntu.
 + 20.dockerfile_ubuntu_curl.png - Figura que muestra como construir una aplicación curl en el Ubuntu.
-+ 21.ubuntu_curl_image.png - Figura que muestra la imágene Ubuntu-curl en el directório local.
++ 21.ubuntu_curl_image.png - Figura que muestra la imágen Ubuntu-curl en el directório local.
 + 22.curl_ubuntu_ambiente_isolado.png - Figura que muestra como ejecutar la aplicación curl Ubuntu en ambiente aislado.
 + 23.construir_imagem.png - Figura que muestra que imágenes están en el directório local.
-+ 24.construir_imagem.png - Figura que muestra como construir una nueva imágene hello-world con la tag v1.
++ 24.construir_imagem.png - Figura que muestra como construir una nueva imágen hello-world con la tag v1.
 + 25.login_dockerhub.png - Figura que muestra como hacer login en el sitio Dockerhub via terminal.
-+ 26.fazendo_push_imagem.png - Figura que muestra como hacer push de la imágene hello-world:v1 para el sitio Dockerhub via terminal.
-+ 27.conferir_dockerhub_push_da_imagem.png - Figura que muestra la imágene hello-world:v1 que ha sido subida para el sitio Dockerhub. 
-+ 28.ultima_versao_imagem.png - Figura que muestra como convertir la imágene hello-world:v1 para la ultima versión de la imágene hello-world:latest.
-+ 29.fazendo_push_imagem_latest.png - Figura que muestra como hacer el push de la imágene hello-world:latest para el sitio Dockerhub via terminal.
-+ 30.conferir_dockerhub_push_image_latest.png - Figura que muestra la imágene hello-world:latest que ha sido subida para el sitio Dockerhub.
++ 26.fazendo_push_imagem.png - Figura que muestra como hacer push de la imágen hello-world:v1 para el sitio Dockerhub via terminal.
++ 27.conferir_dockerhub_push_da_imagem.png - Figura que muestra la imágen hello-world:v1 que ha sido subida para el sitio Dockerhub. 
++ 28.ultima_versao_imagem.png - Figura que muestra como convertir la imágen hello-world:v1 para la ultima versión de la imágen hello-world:latest.
++ 29.fazendo_push_imagem_latest.png - Figura que muestra como hacer el push de la imágen hello-world:latest para el sitio Dockerhub via terminal.
++ 30.conferir_dockerhub_push_image_latest.png - Figura que muestra la imágen hello-world:latest que ha sido subida para el sitio Dockerhub.
