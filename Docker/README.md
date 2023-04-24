@@ -1,6 +1,11 @@
 # Descrição(PT-BR)
+Foram executados alguns comandos básicos de Docker em um terminal local conectando servidor web Nginx, criando um ambiente isolado para rodar o sistema operacional Ubuntu, bem como criando um banco de dados no ambiente MySQL Workbench.
+
 # Description(ENG)
+It were executed some Docker basic commands in a local terminal connecting the Nginx web server, creating an isolated envirinment for running Ubuntu operational system as well as creating a database on MySQL Workbench environment.
+
 # Descripción(ESP)
+Fueran ejecutados algunos comandos básicos de Docker en un terminal local conectando el servicio web Nginx, creando un entorno aislado para ejecutar el sistema operacional Ubuntu, bien como creando un banco de datos en el entorno MySQL Workbench.
 
 ## Conteúdo do repositório(PT-BR)
 + 1.containers_ativos.png - Figura que mostra os containers ativos no diretório local.  
