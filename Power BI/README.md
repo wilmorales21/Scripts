@@ -1,3 +1,3 @@
 Em breve!!!
-Soon!!!
+Coming soon!!!
 Pronto!!!
