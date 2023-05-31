@@ -1,4 +1,4 @@
-
+![logo_data_science1](https://github.com/wilmorales21/Scripts/assets/80546143/7543ed6e-f6f9-4eb7-a995-ef00055e9117)
 ### Descrição(PT-BR)
 Nestes repositórios compartilho alguns códigos que foram escritos para Meteorologia e Ciência de Dados. A ideia é auxiliar o(a) programador(a) a confeccionar o próprio código a partir de exemplos básicos. 
 
