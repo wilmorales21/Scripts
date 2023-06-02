@@ -1,5 +1,6 @@
 ![Wil_Data_Scientist](https://github.com/wilmorales21/Scripts/assets/80546143/b9082847-372d-44c9-9703-b84d8b4ab0de)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Descrição(PT-BR)
 Nestes repositórios compartilho alguns códigos que foram escritos para Meteorologia e Ciência de Dados. A ideia é auxiliar o(a) programador(a) a confeccionar o próprio código a partir de exemplos básicos. 
 
@@ -8,6 +9,8 @@ In these repositories I share some codes that were written for Meteorology and D
 
 ### Descripción(ESP)
 En estos repositorios yo comparto algunos codigos que fueron escritos para Meteorológia y Ciencia de Datos. La ideia es ayudar el programador(a) escribir sus proprios codigos de ejemplos básicos.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Linguagens de programação utilizadas(PT-BR)
 <table bgcolor="LIGHTGREY">
@@ -41,3 +44,5 @@ En estos repositorios yo comparto algunos codigos que fueron escritos para Meteo
   <td>MySQL</td>
  </tr> 
 </table>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
