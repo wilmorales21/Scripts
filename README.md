@@ -1,6 +1,10 @@
-![Wil_Data_Scientist](https://github.com/wilmorales21/Scripts/assets/80546143/b9082847-372d-44c9-9703-b84d8b4ab0de)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<p align="center">
+   <img width="300" height="300" src="src/Wil_Data_Scientist.gif">
+</p>
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Descrição(PT-BR)
 Nestes repositórios compartilho alguns códigos que foram escritos para Meteorologia e Ciência de Dados. A ideia é auxiliar o(a) programador(a) a confeccionar o próprio código a partir de exemplos básicos. 
 
