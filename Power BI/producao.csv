@@ -1,0 +1,100 @@
+Numero Ordem,Operador,Produto,Ocorrência,Data Inicio,Hora Inicio,Data Fim,Hora Fim,Total Horas,Qtd Produzida,Qtd Rejeitada
+1,Thiago Costa,Racing Madness 2009 E169,Preparação de Máquina,08/01/2021,10:56:04,08/01/2021,12:31:36,1.59222222160315,0,0
+1,Andressa Chou,Racing Madness 2009 E169,Controle de Qualidade,09/01/2021,13:58:39,09/01/2021,14:18:26,0.329722222115379,0,0
+1,Thiago Costa,Racing Madness 2009 E169,,05/01/2021,15:27:04,05/01/2021,17:32:41,2.09361111104954,388,0
+2,Thays Castro,Home Theater System 4.1 Channel M412 Silver,Preparação de Máquina,04/01/2021,15:58:28,04/01/2021,16:18:37,0.335833333432674,0,0
+2,Luiza Cabral,Home Theater System 4.1 Channel M412 Silver,Controle de Qualidade,08/01/2021,12:39:10,08/01/2021,12:58:53,0.328611111093778,0,0
+2,Thays Castro,Home Theater System 4.1 Channel M412 Silver,,03/01/2021,17:33:48,03/01/2021,18:24:42,0.848333333444316,14,0
+3,Luiza Cabral,Home Theater System 7.1 Channel M710 Brown,Controle de Qualidade,09/01/2021,07:51:01,09/01/2021,08:10:57,0.332222222350538,0,0
+3,Mariana Miranda,Home Theater System 7.1 Channel M710 Brown,,08/01/2021,10:16:02,08/01/2021,10:31:48,0.262777777737938,40,0
+3,Mariana Miranda,Home Theater System 7.1 Channel M710 Brown,Outros,05/01/2021,10:42:40,05/01/2021,11:12:55,0.504166666651145,0,0
+3,Mariana Miranda,Home Theater System 7.1 Channel M710 Brown,,05/01/2021,15:16:42,05/01/2021,16:32:30,1.26333333336515,40,0
+4,Thays Castro,Racing Madness 2009 E169,Preparação de Máquina,09/01/2021,08:02:59,09/01/2021,23:07:42,15.078611111152,0,0
+4,Luiza Cabral,Racing Madness 2009 E169,Controle de Qualidade,06/01/2021,16:25:32,06/01/2021,03:30:28,11.082222222467,0,0
+4,Thays Castro,Racing Madness 2009 E169,,05/01/2021,14:03:24,05/01/2021,14:54:02,0.843888888834044,247,0
+5,Antonio Manhães,Bicycle Board Games X500,,05/01/2021,13:46:16,05/01/2021,14:07:11,0.34861111122882,209,0
+6,Thays Castro,Zoo Tycoon 2: Extinct Animals M210,Preparação de Máquina,08/01/2021,10:24:32,08/01/2021,10:44:17,0.329166666604578,0,0
+6,Luiza Cabral,Zoo Tycoon 2: Extinct Animals M210,Controle de Qualidade,05/01/2021,09:54:09,05/01/2021,10:14:09,0.333333333372138,0,0
+6,Thays Castro,Zoo Tycoon 2: Extinct Animals M210,,05/01/2021,10:48:26,05/01/2021,14:39:17,3.8475000000908,303,0
+7,Thiago Miura,Home Theater System 7.1 Channel M710 Brown,Preparação de Máquina,04/01/2021,17:19:41,04/01/2021,18:09:29,0.830000000016298,0,0
+7,Luiza Cabral,Home Theater System 7.1 Channel M710 Brown,Controle de Qualidade,06/01/2021,14:59:51,06/01/2021,15:39:44,0.664722222194541,0,0
+7,Thiago Miura,Home Theater System 7.1 Channel M710 Brown,Outros,04/01/2021,15:51:50,04/01/2021,17:02:07,1.17138888890622,0,0
+7,Thiago Miura,Home Theater System 7.1 Channel M710 Brown,,09/01/2021,15:50:33,09/01/2021,17:31:24,1.68083333334653,107,0
+7,Thiago Miura,Home Theater System 7.1 Channel M710 Brown,,04/01/2021,16:31:35,04/01/2021,16:46:45,0.252777777670417,107,0
+8,Thiago Costa,Home Theater System 7.1 Channel M710 Brown,Preparação de Máquina,05/01/2021,09:12:32,05/01/2021,10:37:24,1.41444444452645,0,0
+8,Andressa Chou,Home Theater System 7.1 Channel M710 Brown,Controle de Qualidade,05/01/2021,10:29:00,05/01/2021,10:48:49,0.330277777975425,0,0
+8,Thiago Costa,Home Theater System 7.1 Channel M710 Brown,,03/01/2021,13:34:19,03/01/2021,14:09:30,0.586388888885267,108,0
+9,Antonio Manhães,Combat Flight Simulator 2 M400,,07/01/2021,13:17:11,07/01/2021,13:35:43,0.308888888976071,320,0
+10,Thays Castro,Home Theater System 2.1 Channel M1210 Black,Preparação de Máquina,04/01/2021,09:07:47,04/01/2021,09:27:49,0.333888888882939,0,0
+10,Luiza Cabral,Home Theater System 2.1 Channel M1210 Black,Controle de Qualidade,08/01/2021,11:12:37,08/01/2021,11:29:21,0.278888889122754,0,0
+10,Thays Castro,Home Theater System 2.1 Channel M1210 Black,,05/01/2021,09:50:41,05/01/2021,10:12:59,0.371666666585952,203,0
+11,Thays Castro,Home Theater System 2.1 Channel M1210 Silver,Preparação de Máquina,03/01/2021,13:13:26,03/01/2021,13:34:04,0.34388888895046,0,0
+11,Luiza Cabral,Home Theater System 2.1 Channel M1210 Silver,Controle de Qualidade,05/01/2021,13:45:50,05/01/2021,14:02:34,0.278888888948131,0,0
+12,Thays Castro,Bicycle Board Games X500,Preparação de Máquina,05/01/2021,09:37:18,05/01/2021,09:54:00,0.278333333437331,0,0
+12,Luiza Cabral,Bicycle Board Games X500,Controle de Qualidade,05/01/2021,15:18:43,05/01/2021,15:35:37,0.281666666676756,0,0
+12,Thays Castro,Bicycle Board Games X500,,03/01/2021,14:18:32,03/01/2021,15:39:42,1.35277777776355,355,0
+13,Thays Castro,Age of Mythology: The Titans Expansion 2009 E148,Preparação de Máquina,04/01/2021,10:29:25,04/01/2021,10:50:16,0.347500000032596,0,0
+11,Thays Castro,Home Theater System 2.1 Channel M1210 Silver,,05/01/2021,09:10:31,05/01/2021,09:33:55,0.39000000001397,258,0
+13,Luiza Cabral,Age of Mythology: The Titans Expansion 2009 E148,Controle de Qualidade,06/01/2021,11:56:50,06/01/2021,12:14:59,0.30250000016531,0,0
+13,Thays Castro,Age of Mythology: The Titans Expansion 2009 E148,,08/01/2021,14:49:38,08/01/2021,15:17:50,0.470000000204891,30,0
+14,Caio Moraes,Home Theater System 2.1 Channel E212 Silver,Preparação de Máquina,07/01/2021,08:27:01,07/01/2021,08:56:35,0.492777777719311,0,0
+14,Caio Moraes,Home Theater System 2.1 Channel E212 Silver,Falha Operador,05/01/2021,07:45:16,05/01/2021,10:00:00,2.24555555573897,0,0
+14,Luiza Cabral,Home Theater System 2.1 Channel E212 Silver,Controle de Qualidade,03/01/2021,14:25:52,03/01/2021,14:46:00,0.335555555589963,0,0
+14,Caio Moraes,Home Theater System 2.1 Channel E212 Silver,Falha Operador,05/01/2021,10:11:25,05/01/2021,11:01:27,0.833888888941146,68,9
+14,Caio Moraes,Home Theater System 2.1 Channel E212 Silver,Falha Operador,07/01/2021,07:18:12,07/01/2021,09:02:55,1.74527777783806,68,0
+15,Andressa Chou,Hand Games men M300 Silver,Controle de Qualidade,05/01/2021,09:27:39,05/01/2021,09:47:47,0.335555555589963,0,0
+15,Caio Moraes,Hand Games men M300 Silver,Falha Operador,04/01/2021,15:01:09,04/01/2021,17:40:44,2.6597222223063,275,0
+16,Thays Castro,Wireless Bluetooth Stereo Headphones M402 Red,Preparação de Máquina,04/01/2021,12:42:55,04/01/2021,13:02:53,0.332777777686715,0,0
+16,Luiza Cabral,Wireless Bluetooth Stereo Headphones M402 Red,Controle de Qualidade,05/01/2021,14:48:37,05/01/2021,15:08:39,0.333888889057562,0,0
+16,Thays Castro,Wireless Bluetooth Stereo Headphones M402 Red,,06/01/2021,10:15:19,06/01/2021,10:35:58,0.344166666618548,391,0
+17,Thays Castro,Home Theater System 4.1 Channel M412 Brown,Preparação de Máquina,03/01/2021,16:20:04,03/01/2021,16:40:17,0.336944444628898,0,0
+17,Luiza Cabral,Home Theater System 4.1 Channel M412 Brown,Controle de Qualidade,09/01/2021,07:17:54,09/01/2021,07:37:40,0.32944444444729,0,0
+17,Thays Castro,Home Theater System 4.1 Channel M412 Brown,,04/01/2021,07:11:17,04/01/2021,07:21:51,0.176111111068167,385,0
+18,Thays Castro,Home Theater System 5.1 Channel M512 Silver,Preparação de Máquina,08/01/2021,16:15:45,08/01/2021,16:35:55,0.336111111275386,0,0
+18,Luiza Cabral,Home Theater System 5.1 Channel M512 Silver,Controle de Qualidade,03/01/2021,10:14:53,03/01/2021,10:34:41,0.32999999995809,0,0
+19,Thays Castro,Hand Games for students E400 Red,Preparação de Máquina,04/01/2021,16:19:55,04/01/2021,16:39:43,0.330000000132713,0,0
+18,Thays Castro,Home Theater System 5.1 Channel M512 Silver,,09/01/2021,10:22:13,09/01/2021,10:32:35,0.172777777828742,376,0
+19,Luiza Cabral,Hand Games for students E400 Red,Controle de Qualidade,06/01/2021,07:29:43,06/01/2021,07:49:54,0.336388888943475,0,0
+19,Thays Castro,Hand Games for students E400 Red,,05/01/2021,15:43:38,05/01/2021,19:13:52,3.50388888898306,358,0
+20,Thays Castro,8xDVD E140 Black,Preparação de Máquina,07/01/2021,14:58:51,07/01/2021,15:18:36,0.329166666779201,0,0
+20,Thays Castro,8xDVD E140 Black,,04/01/2021,10:42:32,04/01/2021,11:08:12,0.427777777716983,44,6
+20,Luiza Cabral,8xDVD E140 Black,,04/01/2021,15:32:50,04/01/2021,15:38:39,0.0969444444053806,0,0
+21,Thays Castro,Rise of Nations2009 E152,Preparação de Máquina,09/01/2021,11:38:59,09/01/2021,11:59:16,0.338055555650499,0,0
+21,Luiza Cabral,Rise of Nations2009 E152,Controle de Qualidade,04/01/2021,15:32:59,04/01/2021,15:52:57,0.332777777686715,0,0
+22,Thays Castro,Home Theater System 5.1 Channel M511 Brown,Preparação de Máquina,05/01/2021,10:43:41,05/01/2021,11:03:44,0.334166666551027,0,0
+21,Thays Castro,Rise of Nations2009 E152,,05/01/2021,10:39:04,05/01/2021,11:29:58,0.848333333444316,59,0
+22,Luiza Cabral,Home Theater System 5.1 Channel M511 Brown,Controle de Qualidade,06/01/2021,09:27:30,06/01/2021,09:46:53,0.323055555636529,0,0
+22,Thays Castro,Home Theater System 5.1 Channel M511 Brown,,03/01/2021,08:01:49,03/01/2021,08:17:05,0.254444444377441,52,0
+23,Mariana Baptista,Racing Madness 2009 E169,Preparação de Máquina,07/01/2021,07:39:48,07/01/2021,08:44:58,1.08611111127539,0,0
+23,Luiza Cabral,Racing Madness 2009 E169,Controle de Qualidade,04/01/2021,14:14:12,04/01/2021,14:34:14,0.333888888882939,0,0
+23,Mariana Baptista,Racing Madness 2009 E169,,05/01/2021,15:18:52,05/01/2021,15:54:10,0.58833333326038,141,0
+24,Mariana Baptista,Stereo Bluetooth Headphones New Generation M370 Orange,Preparação de Máquina,07/01/2021,12:25:03,07/01/2021,13:19:49,0.912777777761221,0,0
+24,Andressa Chou,Stereo Bluetooth Headphones New Generation M370 Orange,Controle de Qualidade,05/01/2021,09:31:15,05/01/2021,09:50:55,0.327777777914889,0,0
+24,Mariana Baptista,Stereo Bluetooth Headphones New Generation M370 Orange,,05/01/2021,12:08:30,05/01/2021,12:14:25,0.0986111112870276,345,0
+25,Thays Castro,Rise of Nations E112,Preparação de Máquina,07/01/2021,16:25:49,07/01/2021,16:46:07,0.33833333349321,0,0
+25,Luiza Cabral,Rise of Nations E112,Controle de Qualidade,04/01/2021,14:11:54,04/01/2021,14:28:47,0.281388888834044,0,0
+25,Thays Castro,Rise of Nations E112,,05/01/2021,07:37:12,05/01/2021,08:30:55,0.895277777861338,377,0
+15,Caio Moraes,Hand Games men M300 Silver,Falha Operador,05/01/2021,09:23:11,05/01/2021,12:48:13,3.41722222213866,275,0
+26,Mariana Miranda,2GB Pulse Smart pen M100 White,Preparação de Máquina,03/01/2021,13:48:52,03/01/2021,14:33:33,0.744722222385462,0,0
+23,Thiago Costa,Racing Madness 2009 E169,Falha Operador,03/01/2021,17:03:50,03/01/2021,21:18:47,4.2491666667047,141,0
+27,Thiago Miura,Rise of Nations: Rise of Legends M290,Preparação de Máquina,03/01/2021,11:26:10,03/01/2021,12:11:19,0.752499999885913,0,0
+27,Thiago Miura,Rise of Nations: Rise of Legends M290,,05/01/2021,17:15:39,05/01/2021,18:06:10,0.841944444458932,193,0
+27,Andressa Chou,Rise of Nations: Rise of Legends M290,,07/01/2021,08:21:16,07/01/2021,08:31:31,0.170833333279006,0,0
+27,Thiago Miura,Rise of Nations: Rise of Legends M290,,04/01/2021,17:02:33,04/01/2021,19:02:56,2.00638888886897,193,0
+28,Thays Castro,Zoo Tycoon 2008 E142,Preparação de Máquina,04/01/2021,10:02:30,04/01/2021,10:22:36,0.334999999904539,0,0
+28,Luiza Cabral,Zoo Tycoon 2008 E142,Controle de Qualidade,03/01/2021,08:15:22,03/01/2021,08:32:34,0.286666666797828,0,0
+28,Thays Castro,Zoo Tycoon 2008 E142,,04/01/2021,10:31:26,04/01/2021,10:44:51,0.223611111170612,105,0
+29,Chan Santos,180 CFM Vertical Discharge Fan X450 Blue,Preparação de Máquina,09/01/2021,08:40:42,09/01/2021,09:05:55,0.420277777884621,0,0
+29,Luiza Cabral,180 CFM Vertical Discharge Fan X450 Blue,Controle de Qualidade,05/01/2021,17:59:51,05/01/2021,18:17:26,0.293055555608589,0,0
+29,Chan Santos,180 CFM Vertical Discharge Fan X450 Blue,,08/01/2021,13:44:07,08/01/2021,15:56:51,2.21222222229699,226,0
+30,Thays Castro,Coffee Maker 12C M1000 Grey,Preparação de Máquina,08/01/2021,16:28:08,08/01/2021,16:48:24,0.33777777798241,0,0
+30,Luiza Cabral,Coffee Maker 12C M1000 Grey,Controle de Qualidade,05/01/2021,16:56:38,05/01/2021,17:13:38,0.28333333338378,0,0
+30,Thays Castro,Coffee Maker 12C M1000 Grey,,04/01/2021,12:48:49,04/01/2021,12:57:39,0.147222222061828,33,0
+31,Thays Castro,Rise of Nations: Rise of Legends M290,Preparação de Máquina,03/01/2021,14:23:51,03/01/2021,14:44:01,0.336111111275386,0,0
+31,Luiza Cabral,Rise of Nations: Rise of Legends M290,Controle de Qualidade,03/01/2021,10:28:34,03/01/2021,13:06:22,2.62999999994645,0,0
+31,Thays Castro,Rise of Nations: Rise of Legends M290,,04/01/2021,10:32:27,04/01/2021,12:56:16,2.39694444439374,335,0
+28,Thays Castro,Zoo Tycoon 2008 E142,,04/01/2021,11:48:20,04/01/2021,11:55:44,0.123333333351184,105,0
+29,Chan Santos,180 CFM Vertical Discharge Fan X450 Blue,,03/01/2021,08:12:03,03/01/2021,08:19:25,0.12277777766576,226,0
+32,Thays Castro,Home Theater System 2.1 Channel E1220 Brown,Preparação de Máquina,03/01/2021,17:52:48,03/01/2021,18:12:43,0.331944444333203,0,0
+32,Luiza Cabral,Home Theater System 2.1 Channel E1220 Brown,Controle de Qualidade,04/01/2021,16:32:27,04/01/2021,16:50:18,0.297500000044238,0,0
+33,Thays Castro,Wireless Bluetooth Stereo Headphones M270 Black,Preparação de Máquina,05/01/2021,15:47:40,05/01/2021,16:07:36,0.332222222350538,0,0
