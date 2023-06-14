@@ -16,15 +16,17 @@ En estos repositorios yo comparto algunos codigos que fueron escritos para Meteo
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Linguagens de programação utilizadas(PT-BR)
-<table border="1">
-<tr bgcolor="YELLOW">   
+<p align="center">
+ <table border="1">
+ <tr bgcolor="YELLOW">   
      <th>Fortran</th>
      <th>Python</th>
      <th>Shell</th>
      <th>NCL</th>
      <th>MySQL</th>
  </tr> 
-</table>
+ </table>
+</P>
 
 ### Used programming languages(ENG)
 <table border=1 bgcolor="LIGHTGREY">
