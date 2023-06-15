@@ -8,7 +8,7 @@ It were executed some Docker basic commands in a local terminal connecting the N
 Fueran ejecutados algunos comandos básicos de Docker en un terminal local conectando el servicio web Nginx, creando un entorno aislado para ejecutar el sistema operacional Ubuntu, bien como creando un banco de datos en el entorno MySQL Workbench.
 
 ![19 dockerfile_ubuntu_curl](https://user-images.githubusercontent.com/80546143/234020674-5d0e0daa-9231-42ea-a921-c655e665a2da.png)
-Figura ilustrativa de um código em Dockerfile usando o Visual Studio. This picture shows a Dockerfile code using the Visual Studio. Figura que muestra un código Dockerfile usando el Visual Studio.
+Figura ilustrativa de um código em Dockerfile usando o Visual Studio Code. This picture shows a Dockerfile code using the Visual Studio. Figura que muestra un código Dockerfile usando el Visual Studio.
 
 
 ## Conteúdo do repositório(PT-BR)
