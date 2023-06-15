@@ -16,38 +16,43 @@ En estos repositorios yo comparto algunos codigos que fueron escritos para Meteo
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Linguagens utilizadas(PT-BR)
-<p align="center">
- <table border="1">
- <tr bgcolor="YELLOW">   
-     <th>Fortran</th>
-     <th>Python</th>
-     <th>Shell</th>
-     <th>NCL</th>
-     <th>MySQL</th>
- </tr> 
- </table>
-</P>
+<table border="5" cellpadding="2">
+  <tr> 
+    <tr onMouseover="this.bgColor='#FFE4B5'"onMouseout="this.bgColor='#FFFFFF'">
+      <th>Fortran</th>
+      <th>Python</th>
+      <th>Shell</th>
+      <th>NCL</th>
+      <th>MySQL</th>
+    </tr>
+  </tr> 
+</table>
 
 ### Used languages(ENG)
-<table border=1 bgcolor="LIGHTGREY">
- <tr>
-  <th>Fortran</th>
-  <th>Python</th>
-  <th>Shell</th>
-  <th>NCL</th>
-  <th>MySQL</th>
- </tr> 
+<table border="5" cellpadding="2">
+  <tr> 
+    <tr onMouseover="this.bgColor='#FFE4B5'"onMouseout="this.bgColor='#FFFFFF'">
+      <th>Fortran</th>
+      <th>Python</th>
+      <th>Shell</th>
+      <th>NCL</th>
+      <th>MySQL</th>
+    </tr>
+  </tr> 
 </table>
 
 ### Lenguajes utilizadas(ESP)
-<table border=1 bgcolor="LIGHTGREY">
- <tr>
-  <th>Fortran</th>
-  <th>Python</th>
-  <th>Shell</th>
-  <th>NCL</th>
-  <th>MySQL</th>
- </tr> 
+<table border="5" cellpadding="2">
+  <tr> 
+    <tr onMouseover="this.bgColor='#FFE4B5'"onMouseout="this.bgColor='#FFFFFF'">
+      <th>Fortran</th>
+      <th>Python</th>
+      <th>Shell</th>
+      <th>NCL</th>
+      <th>MySQL</th>
+    </tr>
+  </tr> 
 </table>
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
