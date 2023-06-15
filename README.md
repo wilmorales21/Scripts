@@ -16,15 +16,13 @@ En estos repositorios yo comparto algunos codigos que fueron escritos para Meteo
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Linguagens utilizadas(PT-BR)
-<table border="5" cellpadding="2">
-  <tr> 
-    <tr onMouseover="this.bgColor='#FFE4B5'"onMouseout="this.bgColor='#FFFFFF'">
+<table style="background-color: yellow; color:blue;" border="5">
+  <tr>     
       <th>Fortran</th>
       <th>Python</th>
       <th>Shell</th>
       <th>NCL</th>
       <th>MySQL</th>
-    </tr>
   </tr> 
 </table>
 
