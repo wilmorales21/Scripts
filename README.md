@@ -15,26 +15,26 @@ En estos repositorios yo comparto algunos codigos que fueron escritos para Meteo
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### (PT-BR)
+### PT-BR
 | TECNOLOGIA| APLICAÇÃO|
 | :---: | :---: |
-| Python| Geociência/Ciência de Dados/Estatistica/Web Design|
-| MySQL| Banco de Dados/Ciência de Dados|
-| Power BI| Ciência de Dados|
+| **Python**| Geociência/Ciência de Dados/Estatistica/Web Design|
+| **MySQL**| Banco de Dados/Ciência de Dados|
+| **Power BI**| Ciência de Dados|
 
-### (ENG)
+### ENG
 | TECNOLOGY| APPLICATION|
 | :---: | :---: |
-| Python| Geoscience/Data Science/Statistic/Web Design|
-| MySQL| Database/Data Science|
-| Power BI| Data Science|
+| **Python**| Geoscience/Data Science/Statistic/Web Design|
+| **MySQL**| Database/Data Science|
+| **Power BI**| Data Science|
 
-### (ESP)
+### ESP
 | TECNOLOGÍA| APLICACION|
 | :---: | :---: |
-| Python| Geociencia/Ciencia de los Datos/Estatistica/Web Design|
-| MySQL| Banco de Datos/Ciencia de los Datos|
-| Power BI| Ciencia de los Datos|
+| **Python**| Geociencia/Ciencia de los Datos/Estatistica/Web Design|
+| **MySQL**| Banco de Datos/Ciencia de los Datos|
+| **Power BI**| Ciencia de los Datos|
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
