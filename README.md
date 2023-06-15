@@ -15,7 +15,7 @@ En estos repositorios yo comparto algunos codigos que fueron escritos para Meteo
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Linguagens de programação utilizadas(PT-BR)
+### Linguagens utilizadas(PT-BR)
 <p align="center">
  <table border="1">
  <tr bgcolor="YELLOW">   
@@ -28,7 +28,7 @@ En estos repositorios yo comparto algunos codigos que fueron escritos para Meteo
  </table>
 </P>
 
-### Used programming languages(ENG)
+### Used languages(ENG)
 <table border=1 bgcolor="LIGHTGREY">
  <tr>
   <th>Fortran</th>
@@ -39,7 +39,7 @@ En estos repositorios yo comparto algunos codigos que fueron escritos para Meteo
  </tr> 
 </table>
 
-### Lenguajes de programación utilizadas(ESP)
+### Lenguajes utilizadas(ESP)
 <table border=1 bgcolor="LIGHTGREY">
  <tr>
   <th>Fortran</th>
