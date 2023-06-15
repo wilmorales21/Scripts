@@ -15,38 +15,29 @@ En estos repositorios yo comparto algunos codigos que fueron escritos para Meteo
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Linguagens utilizadas(PT-BR)
+### Linguagens em Destaque(PT-BR)
 <table style="background-color: yellow; color:blue;" border="5">
   <tr>     
-      <th>Fortran</th>
       <th>Python</th>
-      <th>Shell</th>
-      <th>NCL</th>
       <th>MySQL</th>
   </tr> 
 </table>
 
-### Used languages(ENG)
+### Featured Languages(ENG)
 <table border="5" cellpadding="2">
   <tr> 
     <tr onMouseover="this.bgColor='#FFE4B5'"onMouseout="this.bgColor='#FFFFFF'">
-      <th>Fortran</th>
       <th>Python</th>
-      <th>Shell</th>
-      <th>NCL</th>
       <th>MySQL</th>
     </tr>
   </tr> 
 </table>
 
-### Lenguajes utilizadas(ESP)
+### Lenguajes Destacadas(ESP)
 <table border="5" cellpadding="2">
   <tr> 
     <tr onMouseover="this.bgColor='#FFE4B5'"onMouseout="this.bgColor='#FFFFFF'">
-      <th>Fortran</th>
-      <th>Python</th>
-      <th>Shell</th>
-      <th>NCL</th>
+     <th>Python</th>
       <th>MySQL</th>
     </tr>
   </tr> 
