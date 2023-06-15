@@ -15,33 +15,26 @@ En estos repositorios yo comparto algunos codigos que fueron escritos para Meteo
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Linguagens em Destaque(PT-BR)
-<table style="background-color: yellow; color:blue;" border="5">
-  <tr>     
-      <th>Python</th>
-      <th>MySQL</th>
-  </tr> 
-</table>
+### (PT-BR)
+| TECNOLOGIA| APLICAÇÃO|
+| :---: | :---: |
+| Python| Geociência/Ciência de Dados/Estatistica/Web Design|
+| MySQL| Banco de Dados/Ciência de Dados|
+| Power BI| Ciência de Dados|
 
-### Featured Languages(ENG)
-<table border="5" cellpadding="2">
-  <tr> 
-    <tr onMouseover="this.bgColor='#FFE4B5'"onMouseout="this.bgColor='#FFFFFF'">
-      <th>Python</th>
-      <th>MySQL</th>
-    </tr>
-  </tr> 
-</table>
+### (ENG)
+| TECNOLOGY| APPLICATION|
+| :---: | :---: |
+| Python| Geoscience/Data Science/Statistic/Web Design|
+| MySQL| Database/Data Science|
+| Power BI| Data Science|
 
-### Lenguajes Destacadas(ESP)
-<table border="5" cellpadding="2">
-  <tr> 
-    <tr onMouseover="this.bgColor='#FFE4B5'"onMouseout="this.bgColor='#FFFFFF'">
-     <th>Python</th>
-      <th>MySQL</th>
-    </tr>
-  </tr> 
-</table>
+### (ESP)
+| TECNOLOGÍA| APLICACION|
+| :---: | :---: |
+| Python| Geociencia/Ciencia de los Datos/Estatistica/Web Design|
+| MySQL| Banco de Datos/Ciencia de los Datos|
+| Power BI| Ciencia de los Datos|
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
