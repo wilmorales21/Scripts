@@ -106,3 +106,4 @@ Figura ilustrativa de um código em Dockerfile usando o Visual Studio Code. This
 + 28.ultima_versao_imagem.png - Figura que muestra como convertir la imágen hello-world:v1 para la ultima versión de la imágen hello-world:latest.
 + 29.fazendo_push_imagem_latest.png - Figura que muestra como hacer el push de la imágen hello-world:latest para el sitio Dockerhub via terminal.
 + 30.conferir_dockerhub_push_image_latest.png - Figura que muestra la imágen hello-world:latest que ha sido subida para el sitio Dockerhub.
++ 
