@@ -53,3 +53,4 @@ el programa Linx! El código corte.sh es para editar las informaciones de viento
 + synop.txt - Registro de las estaciones sinópticas del Rio Grande do Sul(RS), sur del Brasil.
 + u.txt - Archivo que contiene informacion de viento zonal.
 + vazio.csv - Archivo sin datos.
++ 
