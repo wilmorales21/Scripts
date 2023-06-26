@@ -36,3 +36,4 @@ Con fines ilustrativos, son presentadas algunas figuras plotadas utilizando o Nc
 + estacoes_rs.txt - Conjunto de datos de las estaciones automáticas del Instituto Nacional de Meteorologia(INMET).
 + temp.ncl - Código que plota las informaciones de temperatura instantánea registradas en las estaciones automáticas del Instituto Nacional de Meteorologia(INMET) en el estado del RS, sur del Brasil. 
 + temperaturas.png - Figura generada por el código temp.ncl.
++ 
