@@ -117,4 +117,4 @@ Precipitação média para 15 dias prevista pelo modelo GEFS sobre a Bacia do Ba
 + temperatura_850hPa.png - Figura que ilustra la temperatura del aire en lo nível de pressión de 850hPa en 29/04/2022.
 + temperatura_netcdf.py - Código para plotar la temperatura del aire a partir de datos NetCDF.
 + temperatura_diaria.csv - Datos de temperatura média diaria observada entre los años de 1999 y 2020 en la ciudad de Pelotas-RS,sur del Brasil.
-+ vento_netcdf.py - C
++ vento_netcdf.py - Código plota las líneas de corrientes en 850hPa a partir de los datos Netcdf.
