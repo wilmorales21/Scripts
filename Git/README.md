@@ -45,4 +45,5 @@ Fueron ejecutados algunos comandos basicos del versionamiento de código usando 
 + 8.git_push.png - Figura que muestra como crear un nuevo branch llamado teste remotamente.
 + 10.git_remover.png - Figura que muestra que el archivo dataprep.ipynb(rojo) debe ser commitado para serlo deletado del diretório local.
 + 11.git_gitignore_arquivo.png - Figura que muestra que el git ignorará todos los archivos que están dentro del directório outros.
++ 
 
