@@ -53,3 +53,4 @@ Imagem ilustrativa dos dados da planilha que foram incorporados no Ambiente MySQ
 + media_preco_ano_2018.sql - Código para calcular la media de la columna Preco en el año de 2018 de la tabla informacoes.
 + planilha.csv - Hoja en el formato .CSV que contiene los datos.
 + planilha.png - Hoja de datos en el app LibreOffice.
++ 
