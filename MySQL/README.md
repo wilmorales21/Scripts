@@ -47,6 +47,7 @@ Imagem ilustrativa dos dados da planilha que foram incorporados no Ambiente MySQ
 + gerar_tabela.png - Imagen del entorno MySQL Workbench que muestra en el lado izquierdo la tabla y columnas generadas por el código.
 + gerar_tabela.sql - Código para generar la tabla con las variables almacenadas en columnas.
 + importar_arquivo_csv.png - Imagen del entorno MySQL Workbench que muestra la tabla abajo que fue invocada por el código.
++ 
 + importar_arquivo_csv.sql - Código para importar la hoja en el formato .CSV para el entorno MySQL Workbench.
 + media_preco_ano_2018.png - Figura que muestra el calculo de la media en la columna Preco en el año de 2018 de la tabla informacoes.
 + media_preco_ano_2018.sql - Código para calcular la media de la columna Preco en el año de 2018 de la tabla informacoes.
