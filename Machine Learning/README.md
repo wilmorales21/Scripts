@@ -45,3 +45,4 @@ Machine learning usando o algoritmo de rede neural LSTM - Machine learning using
 + tensorflow.png - Figura generada por lo aprendizaje de maquina utilizando la red neuronal LSTM.
 + catboost.png - Figura generada por lo aprendizaje de máquina utilizando el algoritmo Catboost.
 + variaveis.csv - Archivo de datos meteorológicos observados de la estación automática del Instituto Nacional de Meteorologia(INMET).
++ 
