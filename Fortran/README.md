@@ -55,3 +55,4 @@ El codigo synop.f es para ajustar la pressión reducida al nivel medio del mar, 
 + umidadeespecifica.txt - Archivo con datos de humedad específica.
 + v.txt - Archivo con datos de viento meridional.
 + vento.f - Código para calcular la dirección del viento a partir de los archivos u.txt y v.txt.
++ 
