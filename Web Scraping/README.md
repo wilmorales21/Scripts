@@ -30,3 +30,4 @@ Pesquisa no site do Google.com usando o webdriver do Chrome. Search on Google si
 + produtos.py - Código para extraer informaciones de precios de los productos en el sitio Shopee.com.
 + webscraping_google1.png - Pantalla del sitio Google.com con la busca a partir de un webdriver del Chrome.
 + webscraping_google2.png - Pantalla del sitio Google.com con el resultado de la busca a partir de un webdriver del Chrome.
++ 
