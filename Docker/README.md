@@ -102,6 +102,7 @@ Figura ilustrativa de um código em Dockerfile usando o Visual Studio Code. This
 + 24.construir_imagem.png - Figura que muestra como construir una nueva imágen hello-world con la tag v1.
 + 25.login_dockerhub.png - Figura que muestra como hacer login en el sitio Dockerhub via terminal.
 + 26.fazendo_push_imagem.png - Figura que muestra como hacer push de la imágen hello-world:v1 para el sitio Dockerhub via terminal.
++ 
 + 27.conferir_dockerhub_push_da_imagem.png - Figura que muestra la imágen hello-world:v1 que ha sido subida para el sitio Dockerhub. 
 + 28.ultima_versao_imagem.png - Figura que muestra como convertir la imágen hello-world:v1 para la ultima versión de la imágen hello-world:latest.
 + 29.fazendo_push_imagem_latest.png - Figura que muestra como hacer el push de la imágen hello-world:latest para el sitio Dockerhub via terminal.
