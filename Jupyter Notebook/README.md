@@ -7,6 +7,8 @@ For illustration purposes, it was used the Google Colab to plot temperature from
 # Descripción(ESP)
 Con propósitos de ilustración, fue utilizado el Google Colab para plotar el campo de temperatura a partir de datos in el formato grib2.
 
+![Brasil](https://github.com/wilmorales21/Scripts/assets/80546143/1e87d2ed-1ab3-43a6-a8ed-e7487003bde8)
+
 ## Conteúdo do repositório(PT-BR)
 + meteoro2.ipynb - Código feito no Google Colab para plotar a temperatura a partir de dados no formato grib2.
 
