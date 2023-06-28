@@ -2,7 +2,9 @@
 # Description(ENG)
 # Descripción(ESP)
 ![webscraping_google1](https://github.com/wilmorales21/Scripts/assets/80546143/b97e4eca-0519-4b5b-81b8-514e2bdfaf84)
-Pesquisa no site do Google.com usando o webdriver do Chrome. Search on Google site.com usind the Chrome webdriver.Busca en el sitio del Google.com usando el webdriver del Chrome. 
+Pesquisa no site do Google usando o webdriver do Chrome. Search on Google site usind the Chrome webdriver. Busca en el sitio del Google usando el webdriver del Chrome.
+
+Resultado da pesquisa no site do Google usando o webdriver do Chrome. Search result on Google site using the Chrome webdriver. Resultado de la busca en el sitio del Google utilizando el webdrive del Chrome. 
 
 ## Conteúdo do Repositório(PT-BR)
 + dados_noticias.csv - Planilha gerada para armazenar os dados de noticias extraidas do site Globo.com.  
