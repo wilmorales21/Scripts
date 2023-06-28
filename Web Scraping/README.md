@@ -1,8 +1,8 @@
 # Descrição(PT-BR)
-Foi utilizada a biblioteca BeautifulSoup para coletar informações de notícias no site Globo.com e preço de produtos no site Shopee.com e armazenar em planilhas. Também foi usada a biblioteca Seleniun para acionar o webdriver do Chrome para entrar no site do Google , fazer a pesquisa e clicar.
+Foi utilizada a biblioteca BeautifulSoup para coletar informações de notícias no site Globo.com e preço de produtos no site Shopee.com e armazenar o conteúdo em planilhas. Também foi usada a biblioteca Seleniun para acionar o webdriver do Chrome para entrar no site do Google, fazer a pesquisa e clicar.
 
 # Description(ENG)
-
+It was used the BeautifulSoup library to collect news information in Globo.com site and product prices in Shopee.com site and to store the content in spreadsheets. Also it was used the Seleniun library to trigger the Chrome webdriver to enter in Google site, to make search and to click.
 
 # Descripción(ESP)
 
