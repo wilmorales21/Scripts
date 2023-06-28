@@ -1,48 +1,48 @@
 # Descrição(PT-BR)
-Foram testados três algoritmos distintos de machine learning em dados meteorológicos registrados na estação automática do Instituto Nacional de Meteorologia(INMET), localizada em Alegrete-RS entre os dias 01/01 e 11/02 de 2019. Os algoritmos são os bem conhecidos Random Forest, Catboost e o algoritmo de rede neural LSTM.
+Foram testados algoritmos distintos de Machine Learning e Deep Learning em dados meteorológicos registrados na estação automática do Instituto Nacional de Meteorologia(INMET), localizada em Alegrete-RS entre os dias 01/01 e 11/02 de 2019. Os algoritmos são os bem conhecidos Random Forest, Catboost e o algoritmo de rede neural LSTM.
 
 # Description(ENG)
-Three machine learning algorithms were tested in meteorological datas recorded in the automatic station of the Instituto Nacional de Meteorologia(INMET) located in the city of Alegrete-RS, southern of Brazil, between the days 01/01 and 11/02 in 2019. The algorithms are well-known Random Forest and Catboost and the LSTM neural network.  
+It were tested Machine Learning and Deep Learning algorithms in meteorological datas recorded in the automatic station of the Instituto Nacional de Meteorologia(INMET) located in the city of Alegrete-RS, southern of Brazil, between the days 01/01 and 11/02 in 2019. The algorithms are well-known Random Forest and Catboost and the LSTM neural network.  
 
 # Descripción(ESP)
-Fueron probados tres algoritmos de aprendizaje de máquina en datos meteorológicos registrados en la estación automática del Instituto Nacional de Meteorologia(INMET) situado en la ciudad de Alegrete-RS,sur de Brasil, entre los dias 01/01 y 11/02 de 2019. Los algoritmos son los bien conocidos Random Forest y Catboost y el algoritmo de red neuronal LSTM.
+Fueron probados algoritmos de Machine Learning y Deep Learning in datos meteorológicos registrados en la estación automática del Instituto Nacional de Meteorologia(INMET) situado en la ciudad de Alegrete-RS,sur de Brasil, entre los dias 01/01 y 11/02 de 2019. Los algoritmos son los bien conocidos Random Forest y Catboost y el algoritmo de red neuronal LSTM.
 
 ![randomforest](https://user-images.githubusercontent.com/80546143/187041955-cb336e37-1630-4357-a611-0884acb2fd12.png)
-Machine learning usando o algoritmo Random Forest - Machine learning using Random Forest Algorithm. Observed datas(green line) and forecast(red line) - Aprendizaje de máquina utilizando el algoritmo Random Forest.Datos observados(línea verde) y pronóstico(línea roja). 
+Machine Learning usando o algoritmo Random Forest - Machine learning using Random Forest Algorithm. Observed datas(green line) and forecast(red line) - Aprendizaje de máquina utilizando el algoritmo Random Forest.Datos observados(línea verde) y pronóstico(línea roja). 
 
 ![catboost](https://user-images.githubusercontent.com/80546143/187041866-351a7b2a-6da1-430a-9814-8fd22f79f889.png)
-Machine learning usando o algoritmo Catboost - Machine learning using Catboost algorithm. Observed datas(green line) and forecast(red line) - Aprendizaje de máquina utilizando el algoritmo Catboost. Datos observados(línea verde) y pronóstico(línea roja).
+Machine Learning usando o algoritmo Catboost - Machine learning using Catboost algorithm. Observed datas(green line) and forecast(red line) - Aprendizaje de máquina utilizando el algoritmo Catboost. Datos observados(línea verde) y pronóstico(línea roja).
 
 ![tensorflow](https://user-images.githubusercontent.com/80546143/187074725-adeaf7f4-b4d9-4f93-929e-e9c41989f1cb.png)
-Machine learning usando o algoritmo de rede neural LSTM - Machine learning using the LSTM neural network. Observed datas(green line) and forecast(red line) - Aprendizaje de máquina utilizando el algoritmo de red neuronal LSTM.Datos observados(línea verde) y pronóstico(línea roja).
+Deep Learning usando o algoritmo de rede neural LSTM - Deep Learning using the LSTM neural network. Observed datas(green line) and forecast(red line) - Deep Learning utilizando el algoritmo de red neuronal LSTM.Datos observados(línea verde) y pronóstico(línea roja).
 
 ## Conteúdo do repositório(PT-BR)
-+ randomforest.py - Teste de machine learning usando o algoritmo Random Forest nos dados meteorológicos.
-+ tensorflow.py - Teste de machine learning usando a redeneural LSTM nos dados meteorológicos.
-+ catboost.py - Teste de machine learning usando o algoritmo Catboost nos dados meteorológicos.
++ randomforest.py - Teste de Machine Learning usando o algoritmo Random Forest nos dados meteorológicos.
++ tensorflow.py - Teste de Deep Learning usando a redeneural LSTM nos dados meteorológicos.
++ catboost.py - Teste de Machine Learning usando o algoritmo Catboost nos dados meteorológicos.
 + teste.py - Teste para descobrir quais variáveis são mais similares nos dados meteorológicos, usando o algoritmo ExtraTreesClassifier.
-+ randomforest.png - Figura gerada pelo machine learning usando o algoritmo Random Forest.
-+ tensorflow.png - Figura gerada pelo machine learning usando a rede neural LSTM.
-+ catboost.png - Figura gerada pelo machine learning usando o algoritmo Catboost.
++ randomforest.png - Figura gerada pelo Machine Learning usando o algoritmo Random Forest.
++ tensorflow.png - Figura gerada pelo Deep Learning usando a rede neural LSTM.
++ catboost.png - Figura gerada pelo Machine Learning usando o algoritmo Catboost.
 + variaveis.csv - Arquivo de dados meteorológicos observados da estação automática do Instituto Nacional de Meteorologia(INMET).
 
 ## Repository content(ENG)
-+ randomforest.py - Machine learning test using the Random Forest algorithm in the meteorological datas.
-+ tensorflow.py - Machine learning test using the LSTM neural network in the meteorological datas.
-+ catboost.py - Machine learning test using the Catboost algorithm in the meteorological datas.
++ randomforest.py - Machine Learning test using the Random Forest algorithm in the meteorological datas.
++ tensorflow.py - Deep Learning test using the LSTM neural network in the meteorological datas.
++ catboost.py - Machine Learning test using the Catboost algorithm in the meteorological datas.
 + teste.py - Test to discover which variables are most similars using the ExtraTreesClassifier algorithm.
-+ randomforest.png - Picture generated by the machine learning using the Random Forest algorithm.
-+ tensorflow.png - Picture generated by the machine learning using the LSTM neural network.
-+ catboost.png - Picture generated by the machine learning using the Catboost algorithm.
++ randomforest.png - Picture generated by the Machine Learning using the Random Forest algorithm.
++ tensorflow.png - Picture generated by the Deep Learning using the LSTM neural network.
++ catboost.png - Picture generated by the Machine Learning using the Catboost algorithm.
 + variaveis.csv - Observed meteorological datas file in the automatic station of the Instituto Nacional de Meteorologia(INMET).
 
 ## Contenido del repositorio(ESP)
-+ randomforest.py - Prueba de aprendizaje de máquina utilizando el algoritmo Random Forest en los datos meteorológicos.
-+ tensorflow.py - Prueba de aprendizaje de maquina utilizando la red neuronal LSTM en los datos meteorológicos.
-+ catboost.py - Prueba de aprendizaje de máquina utilizando el algoritmo Catboost en los datos meteorológicos.
++ randomforest.py - Prueba de Machine Learning utilizando el algoritmo Random Forest en los datos meteorológicos.
++ tensorflow.py - Prueba de Deep Learning utilizando la red neuronal LSTM en los datos meteorológicos.
++ catboost.py - Prueba de Machine Learning utilizando el algoritmo Catboost en los datos meteorológicos.
 + teste.py - Prueba para descubrir cuales son las variables más similares en los datos meteorológicos utilizando el algoritmo ExtraTreesClassifier.
-+ randomforest.png - Figura generada por lo aprendizaje de máquina utilizando el algoritmo Random Forest.
-+ tensorflow.png - Figura generada por lo aprendizaje de maquina utilizando la red neuronal LSTM.
-+ catboost.png - Figura generada por lo aprendizaje de máquina utilizando el algoritmo Catboost.
++ randomforest.png - Figura generada por lo Machine Learning utilizando el algoritmo Random Forest.
++ tensorflow.png - Figura generada por el Deep Learning utilizando la red neuronal LSTM.
++ catboost.png - Figura generada por el Machine Learning utilizando el algoritmo Catboost.
 + variaveis.csv - Archivo de datos meteorológicos observados de la estación automática del Instituto Nacional de Meteorologia(INMET).
 + 
