@@ -1,6 +1,12 @@
 # Descrição(PT-BR)
+Foi utilizada a biblioteca BeautifulSoup para coletar informações de notícias no site Globo.com e preço de produtos no site Shopee.com e armazenar em planilhas. Também foi usada a biblioteca Seleniun para acionar o webdriver do Chrome para entrar no site do Google , fazer a pesquisa e clicar.
+
 # Description(ENG)
+
+
 # Descripción(ESP)
+
+
 ![webscraping_google1](https://github.com/wilmorales21/Scripts/assets/80546143/b97e4eca-0519-4b5b-81b8-514e2bdfaf84)
 Pesquisa no site do Google usando o webdriver do Chrome. Search on Google site usind the Chrome webdriver. Busca en el sitio del Google usando el webdriver del Chrome.
 
