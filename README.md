@@ -23,7 +23,7 @@ En estos repositorios yo comparto algunos codigos que fueron escritos para Meteo
 | **Power BI**| Ciência de Dados|
 
 ### ENG
-| TECNOLOGY| APPLICATION|
+| TECHNOLOGY| APPLICATION|
 | :---: | :---: |
 | **Python**| Geoscience/Data Science/Statistic/Web Design|
 | **MySQL**| Database/Data Science|
