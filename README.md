@@ -1,4 +1,4 @@
-[Assista ao Vídeo](https://www.youtube.com/watch?v=cZTN5ozkuiI)
+[![Assista ao Vídeo](https://img.youtube.com/vi/cZTN5ozkuiI/0.jpg)](https://www.youtube.com/watch?v=cZTN5ozkuiI)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
