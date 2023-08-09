@@ -1,4 +1,8 @@
-[![Assista ao Vídeo](https://img.youtube.com/vi/cZTN5ozkuiI/0.jpg)](https://www.youtube.com/watch?v=cZTN5ozkuiI)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=cZTN5ozkuiI">
+    <img src="https://img.youtube.com/vi/cZTN5ozkuiI/0.jpg" alt="Assista ao Vídeo">
+  </a>
+</p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
