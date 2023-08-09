@@ -1,12 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-<video width="560" height="315" controls autoplay>
-  <source src="https://www.youtube.com/watch?v=cZTN5ozkuiI" type="video/mp4">
-  Desculpe, mas o seu navegador não suporta vídeos HTML5.
-</video>
-
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
 <p align="center">
    <img width="300" height="300" src="src/Wil_Data_Scientist.gif">
 </p>
