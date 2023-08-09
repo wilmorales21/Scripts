@@ -1,4 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Video Embed</title>
+</head>
+<body>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cZTN5ozkuiI" frameborder="0" allowfullscreen></iframe>
+</body>
+</html>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
