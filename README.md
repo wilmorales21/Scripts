@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=cZTN5ozkuiI">
+    <img src="https://img.youtube.com/vi/cZTN5ozkuiI/0.jpg" alt="Vídeo de Apresentação">
+  </a>
+</p>
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
