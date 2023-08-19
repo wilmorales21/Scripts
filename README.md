@@ -5,6 +5,15 @@
 </p>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Este projeto é desenvolvido de forma totalmente voluntária. Se isso faz sentido para você, ajude-me a mantê-lo vivo! Considere me pagar um café. ☕
+
+### PIX
+
+xxxxxxxxxx
+
+### 😀 Obrigado pelo apoio!
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Descrição 🇧🇷
 Nestes repositórios compartilho alguns códigos que foram escritos para Meteorologia e Ciência de Dados. A ideia é auxiliar o(a) programador(a) a confeccionar o próprio código a partir de exemplos básicos. 
