@@ -8,7 +8,7 @@
 
 # Olá!
 
-#### Este projeto é desenvolvido de forma totalmente voluntária e não recebe financiamento de nenhum órgão de fomento à pesquisa como bolsa de Mestrado/Doutorado/Pós-Doc/DTI. Se você acha que o conteúdo é relevante e isso faz sentido para você, ajude-me a manter este projeto vivo! É só me pagar um café ☕ e está tudo certo. Beleza?
+#### Este projeto é desenvolvido de forma totalmente voluntária e não recebe financiamento de nenhum órgão de fomento à pesquisa como bolsa de Mestrado/Doutorado/Pós-Doc/DTI. Se você acha que o conteúdo é relevante e isso faz sentido para você, ajude-me a manter este projeto vivo! Me pague um café ☕ e está tudo certo. OK?
 
 #### PIX:
 
