@@ -3,7 +3,7 @@ Foram testados alguns códigos para acessar as APIs de sites governamentais do B
 # Description(ENG)
 It were some codes to access the Brazil government sites API with open data. The goal was to collect and store the most relevant data in Excel spreadsheets.
 # Descripción(ESP)
-Fueron probados algunos códigos para acceder las APIs del sitios governamentales del Brasil con datos abiertos. La meta fue colectar y almacenar los datos más importantes en hojas Excel. 
+Fueron probados algunos códigos para acceder las APIs del sitios del gobierno del Brasil con datos abiertos. La meta fue colectar y almacenar los datos más importantes en hojas Excel. 
 
 ## Conteúdo do Repositório(PT-BR)
 + api_ana.py - Código para acessar a API da Agência Nacional das Águas(ANA).
