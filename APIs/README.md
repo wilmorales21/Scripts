@@ -14,7 +14,7 @@
 + api_covidgov.py - This code serves to access the API of the OpenDataSus site.
 + api_inmet.py - This code serves to access the API of the Instituto Nacional de Meteorologia(INMET).
 + covid_vacinacao.csv - This spreadsheet was generated to store the vaccination data collected from OpenDataSus site API. 
-+ estacao_ana.csv - This spreadsheet was generated to store the hydrological data of the Timóteo pluviometric station collected from Agência Nacional das Águas(ANA) API.
++ estacao_ana.csv - This spreadsheet was generated to store the hydrological data of the Timóteo rain gauge station collected from Agência Nacional das Águas(ANA) API.
 + estacao_inmet.csv - This spreadsheet was generated to store the meteorological data of the Brasília authomatic station collected from Instituto Nacional de Meteorologia(INMET) API.
 ## Contenido del Repositório(ESP)
 + api_ana.py - Código para acceder la API de la Agência Nacional das Águas(ANA).
