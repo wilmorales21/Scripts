@@ -13,7 +13,7 @@
 
 #### PIX:
 
-xxxxxxxxxx
+![QRCode_wil](https://github.com/wilmorales21/Scripts/assets/80546143/c030fa24-d8c2-479e-9730-62daffa45357)
 
 #### Obrigado pelo apoio!👍
 
