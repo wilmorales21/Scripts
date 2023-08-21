@@ -9,7 +9,7 @@
 # Olá!
 
 #### Este projeto é desenvolvido de forma totalmente voluntária e não recebe financiamento como bolsa de Mestrado/Doutorado/Pós-Doc/DTI de nenhum órgão de fomento à pesquisa. Se você acha que o conteúdo é relevante e isso faz sentido para você, ajude-me a manter este projeto vivo! Apoie quem ama fazer ciência no Brasil.
-#### Considere fazer uma doação voluntária. 🙂
+#### Considere fazer uma doação. 🙂
 
 #### PIX:
 
