@@ -27,6 +27,6 @@ Nestes repositórios compartilho alguns códigos que foram escritos para Meteoro
 In these repositories I share some codes that were written for Meteorology and Data Science. The idea is to help the programmers to write his/her own codes from basic exemples.
 
 # Descripción 🇪🇸
-En estos repositorios yo comparto algunos codigos que fueron escritos para Meteorológia y Ciencia de Datos. La ideia es ayudar el programador(a) escribir sus proprios codigos de ejemplos básicos.
+En estos repositorios yo comparto algunos codigos que fueron escritos para Meteorológia y Ciencia de los Datos. La ideia es ayudar el programador(a) escribir sus proprios codigos de ejemplos básicos.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
