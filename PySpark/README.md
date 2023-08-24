@@ -3,7 +3,7 @@
 # Descripción(ESP)
 
 ## Conteúdo do Repositório(PT-BR)
-+ adicionar_coluna.png - Figura que mostra a nova coluna adicionada.
++ adicionar_coluna.png - Figura que mostra a nova coluna adicionada chamada NewQuantity.
 + adicionar_coluna.py - Código para adicionar uma nova coluna chamada NewQuantity que é multiplicada por 2. 
 + agregacao_personalizada.png - Figura que mostra a agregação do preço unitário com valores médios e máximos.
 + agregacao_personalizada.py - Código para agregação personalizada por preço unitário com valor médio e máximo.
