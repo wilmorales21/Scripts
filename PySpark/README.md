@@ -3,8 +3,8 @@
 # Descripción(ESP)
 
 ## Conteúdo do Repositório(PT-BR)
++ adicionar_coluna.png -
 + adicionar_coluna.py -
-+ adicionar_coluna_duplicar.png -
 + agregacao_personalizada.png -
 + agregacao_personalizada.py -
 + agrupar_dados.png -
@@ -26,12 +26,12 @@
 + renomear_coluna.py -
 + selecionar_colunas.png -
 + selecionar_colunas.py -
-+ substituir_valornulo.png -
-+ substituir_valornulo.py -
++ substituir_valor_nulo.png -
++ substituir_valor_nulo.py -
   
 ## Repository Content(ENG)
++ adicionar_coluna.png -
 + adicionar_coluna.py -
-+ adicionar_coluna_duplicar.png -
 + agregacao_personalizada.png -
 + agregacao_personalizada.py -
 + agrupar_dados.png -
@@ -53,12 +53,12 @@
 + renomear_coluna.py -
 + selecionar_colunas.png -
 + selecionar_colunas.py -
-+ substituir_valornulo.png -
-+ substituir_valornulo.py -
++ substituir_valor_nulo.png -
++ substituir_valor_nulo.py -
 
 ## Contenido del Repositório(ESP)
++ adicionar_coluna.png -
 + adicionar_coluna.py -
-+ adicionar_coluna_duplicar.png -
 + agregacao_personalizada.png -
 + agregacao_personalizada.py -
 + agrupar_dados.png -
@@ -80,5 +80,5 @@
 + renomear_coluna.py -
 + selecionar_colunas.png -
 + selecionar_colunas.py -
-+ substituir_valornulo.png -
-+ substituir_valornulo.py -
++ substituir_valor_nulo.png -
++ substituir_valor_nulo.py -
