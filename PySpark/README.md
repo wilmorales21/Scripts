@@ -7,6 +7,9 @@ It were executed some basic commandos used the PySpark framework to handle large
 # Descripción(ESP)
 Fueron ejecutados algunos comandos básicos utilizando el framework PySpark para gran volumes de datos, entorno comum en la área de Big Data.
 
+![substituir_valor_nulo](https://github.com/wilmorales21/Scripts/assets/80546143/7d00c548-4fc4-4a5f-be32-06fcb5e2f65b)
+Ambiente no PySpark que ilustra a substituição de valores nulos na coluna UnityPrice pela média da própria coluna. Environment on PySpark that illustrates the replace of null valuesin the UnityPrice column by the mean of itself column. Entorno en el PySpark que muestra la reemplazo de valores nulos en la columna UnityPrice por la média de la propia columna.   
+
 ## Conteúdo do Repositório(PT-BR)
 + adicionar_coluna.png - Figura que mostra a nova coluna adicionada chamada New_Quantity.
 + adicionar_coluna.py - Código para adicionar uma nova coluna chamada New_Quantity que é multiplicada por 2. 
