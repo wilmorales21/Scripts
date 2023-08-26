@@ -26,8 +26,8 @@
 + renomear_coluna.py - Código para renomear a coluna de UnityPrice para PreçoUnitário.
 + selecionar_colunas.png - Figura que mostra as colunas UnityPrice e Date selecionadas.
 + selecionar_colunas.py - Código para selecionar as colunas UnityPrice e Date.
-+ substituir_valor_nulo.png - Figura que mostra os valores nulos da coluna UnityPrice substituidos pela média da coluna.
-+ substituir_valor_nulo.py - Código para substituir os valores nulos na coluna UnityPrice pela média da coluna.
++ substituir_valor_nulo.png - Figura que mostra os valores nulos da coluna UnityPrice substituidos pela média da própia coluna.
++ substituir_valor_nulo.py - Código para substituir os valores nulos na coluna UnityPrice pela média da própia coluna.
   
 ## Repository Content(ENG)
 + adicionar_coluna.png - This picture shows the new column added call New_Quantity. 
