@@ -30,17 +30,17 @@
 + substituir_valor_nulo.py - Código para substituir os valores nulos na coluna UnityPrice pela média da coluna.
   
 ## Repository Content(ENG)
-+ adicionar_coluna.png -
-+ adicionar_coluna.py -
-+ agregacao_personalizada.png -
-+ agregacao_personalizada.py -
-+ agrupar_dados.png -
-+ agrupar_dados.py -
-+ contar_numeros_registros.png -
-+ contar_numero_registros.py -
-+ dados.csv -
-+ filtrar_dados_complexos.png -
-+ filtrar_dados_complexos.py -
++ adicionar_coluna.png - This picture shows the new column added call New_Quantity. 
++ adicionar_coluna.py - This code was made to add a new column call New_Quantity that it is multiplied by 2.
++ agregacao_personalizada.png - This picture shows the aggregation between UnityPrice, mean and max values. 
++ agregacao_personalizada.py - This code was made to aggregate UnityPrice wtih mean and max values.
++ agrupar_dados.png - This picture shows the data simple grouping to calculate the mean of a column.
++ agrupar_dados.py - This code was made to aggragate the data and to calculate the mean of a column.
++ contar_numeros_registros.png - This picture shows the record number inside PySpark framework.
++ contar_numero_registros.py - This code was made to count the record number inside PySpark framework.
++ dados.csv - Excel spreadsheet with the datas.
++ filtrar_dados_complexos.png - This picture shows how the datas were filtered of complex way.
++ filtrar_dados_complexos.py - This code was made to filter the datas of complex way.
 + filtro.png -
 + filtro.py -
 + framework_pyspark.png -
