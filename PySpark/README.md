@@ -41,20 +41,20 @@
 + dados.csv - Excel spreadsheet with the datas.
 + filtrar_dados_complexos.png - This picture shows how the datas were filtered of complex way.
 + filtrar_dados_complexos.py - This code was made to filter the datas of complex way.
-+ filtro.png -
-+ filtro.py -
-+ framework_pyspark.png -
-+ framework_pyspark.py -
-+ ordem_crescente.png -
-+ ordem_crescente.py -
-+ ordem_decrescente.png -
-+ ordem_decrescente.py -
-+ renomear_coluna.png -
-+ renomear_coluna.py -
-+ selecionar_colunas.png -
-+ selecionar_colunas.py -
-+ substituir_valor_nulo.png -
-+ substituir_valor_nulo.py -
++ filtro.png - This picture shows a date simple filter
++ filtro.py - This code was made to filter the date column.
++ framework_pyspark.png - This picture shows a date simple filter.
++ framework_pyspark.py - This code was made to filter the date column.
++ ordem_crescente.png - This picture shows the UnityPrice column data sorted in ascending order. 
++ ordem_crescente.py - This code was made to sort in ascending order the UnityPrice column data.
++ ordem_decrescente.png - This picture shows the UnityPrice column data sorted in descending order.
++ ordem_decrescente.py - This code was made to sort in descending order the UnityPrice column data.
++ renomear_coluna.png - This picture shows the PySpark framework with PreçoUnitário column renamed.
++ renomear_coluna.py - This code was made to rename the UnityPrice column to PreçoUnitário.
++ selecionar_colunas.png - This picture shows the UnityPrice and Date columns selected.
++ selecionar_colunas.py - This code was made to select the UnityPrice and Date columns.
++ substituir_valor_nulo.png - This picture shows the UnityPrice column null values replaced by the mean of itself column. 
++ substituir_valor_nulo.py - This code was made to replace the null values in the UnityPrice column by the mean of itself column..
 
 ## Contenido del Repositório(ESP)
 + adicionar_coluna.png -
