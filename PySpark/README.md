@@ -57,28 +57,28 @@
 + substituir_valor_nulo.py - This code was made to replace the null values in the UnityPrice column by the mean of itself column..
 
 ## Contenido del Repositório(ESP)
-+ adicionar_coluna.png -
-+ adicionar_coluna.py -
-+ agregacao_personalizada.png -
-+ agregacao_personalizada.py -
-+ agrupar_dados.png -
-+ agrupar_dados.py -
-+ contar_numeros_registros.png -
-+ contar_numero_registros.py -
-+ dados.csv -
-+ filtrar_dados_complexos.png -
-+ filtrar_dados_complexos.py -
-+ filtro.png -
-+ filtro.py -
-+ framework_pyspark.png -
-+ framework_pyspark.py -
-+ ordem_crescente.png -
-+ ordem_crescente.py -
-+ ordem_decrescente.png -
-+ ordem_decrescente.py -
-+ renomear_coluna.png -
-+ renomear_coluna.py -
-+ selecionar_colunas.png -
-+ selecionar_colunas.py -
-+ substituir_valor_nulo.png -
-+ substituir_valor_nulo.py -
++ adicionar_coluna.png - Figura que muestra la nueva columna agregada llamada New_Quantity. 
++ adicionar_coluna.py - Código para agregar  una columna llamada New_Quantity que se multiplica por 2. 
++ agregacao_personalizada.png - Figura que muestra la agregación del precio unitário con valor médio y máximo.
++ agregacao_personalizada.py - Código para agregación personalizada por precio unitário con valor médio de una columna.
++ agrupar_dados.png - Figura que muestra el agrupamiento simple de datos para calcular la média de una columna.
++ agrupar_dados.py - Código para agregar los datos y calcular la média de una columna.
++ contar_numeros_registros.png - Figura que muestra el número de registros adentro del framework PySpark.
++ contar_numero_registros.py - Código para contar números de registros adentro del framework PySpark.
++ dados.csv - Hoja en Excel que contiene los datos.
++ filtrar_dados_complexos.png - Figura que muestra como los datos fueron filtrados de manera compleja.
++ filtrar_dados_complexos.py - Código para filtrar datos de manera compleja.
++ filtro.png - Figura que muestra un filtro simple de fecha.
++ filtro.py - Código para filtrar la columna de fecha.
++ framework_pyspark.png - Figura que muestra el framework del PySpark.
++ framework_pyspark.py - Código para leer los datos de la hoja Excel en el framework del PySpark.
++ ordem_crescente.png - Figura que muestra los datos de la columna UnityPrice ordenados en ordem ascendente.
++ ordem_crescente.py - Código para ordenar en orden ascendente los datos de la columna UnityPrice.
++ ordem_decrescente.png - Figura que muestra los datos de la columna UnityPrice ordenados en ordem descendente.
++ ordem_decrescente.py - Código para ordenar en  ordem descendente los datos de la columna UnityPrice.
++ renomear_coluna.png - Figura que muestra el framework del PySpark con la columna PreçoUnitário renombrado.
++ renomear_coluna.py - Código para renombrar  la columna de UnityPrice par PreçoUnitário.
++ selecionar_colunas.png - Figura que muestra las columnas UnityPrice y Date seleccionadas.
++ selecionar_colunas.py - Código para seleccionar las columnas UnityPrice y Date.
++ substituir_valor_nulo.png - Figura que muestra los valores nulos de la columna UnityPrice reemplazados por la média de la propia columna.
++ substituir_valor_nulo.py - Código para reemplazar los valores nulos en la columna UnityPrice por la média de la propia columna.
