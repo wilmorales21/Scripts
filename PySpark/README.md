@@ -1,6 +1,11 @@
 # Descrição(PT-BR)
+Foram executados alguns comandos básicos utilizado o framework PySpark para tratar grandes volumes de dados, ambiente comum na área de Big Data. 
+
 # Description(ENG)
+It were executed some basic commandos used the PySpark framework to handle large volumes of data, common environment on Big Data area. 
+
 # Descripción(ESP)
+Fueron ejecutados algunos comandos básicos utilizando el framework PySpark para gran volumes de datos, entorno comum en la área de Big Data.
 
 ## Conteúdo do Repositório(PT-BR)
 + adicionar_coluna.png - Figura que mostra a nova coluna adicionada chamada New_Quantity.
