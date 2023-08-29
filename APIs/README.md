@@ -6,7 +6,7 @@ It were some codes to access the Brazil government sites API with open data. The
 Fueron probados algunos códigos para acceder las APIs del sitios del gobierno del Brasil con datos abiertos. La meta fue colectar y almacenar los datos más importantes en hojas Excel. 
 
 ![planilha_estacao_ana](https://github.com/wilmorales21/Scripts/assets/80546143/c9297809-acb8-425a-bd1e-6868b5e0f7e8)
-Planilha Excel gerada após acessar a API da Agência Nacional das Águas(ANA) e salvar os dados da estação pluviométrica de Timóteo-MG. Excel spreadsheet generated after to access the Agência Nacional das Águas(ANA) API and to save the data of the Timóteo-MG rain gauge station. Hoja Excel generada despues accessar la API de la Agência Nacional das Águas(ANA) y salvar los datos de la estación pluviométrica de Timóteo-MG.
+Planilha Excel gerada após acessar a API da Agência Nacional das Águas(ANA) e salvar os dados da estação pluviométrica de Timóteo-MG. Excel spreadsheet generated after to access the Agência Nacional das Águas(ANA) API and to save the data of the Timóteo-MG rain gauge station. Hoja Excel generada despues acceder la API de la Agência Nacional das Águas(ANA) y salvar los datos de la estación pluviométrica de Timóteo-MG.
 
 ## Conteúdo do Repositório(PT-BR)
 + api_ana.py - Código para acessar a API da Agência Nacional das Águas(ANA).
