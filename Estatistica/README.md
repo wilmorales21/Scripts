@@ -15,5 +15,52 @@ Figura que ilustra o Teste T-Student para as variáveis A e B. This picture show
 Figura que ilustra o gráfico Boxplot para as variáveis A e B. This picture shows the Boxplot chart to A and B variables. Figura que muestra el Boxplot para las variables A y B.
 
 ## Conteúdo do Repositório(PT-BR)
++ boxplot.png - 
++ boxplot.py - 
++ correlacao_simples.png - 
++ correlacao_simples.py - 
++ dados.csv - 
++ dispersao_residuos_x_previsao.png - 
++ estatistica_basica.py - 
++ histograma_residuos.png - 
++ modelo_regressao.py - 
++ qqplot_variavela.png - 
++ qqplot_variavelb.png - 
++ regressao_estatistica.csv - 
++ residuos_x_observacoes.png - 
++ teste_tstudent.png - 
++ teste_tstudent.py -
+   
 ## Repository Content(ENG)
++ boxplot.png - 
++ boxplot.py - 
++ correlacao_simples.png - 
++ correlacao_simples.py - 
++ dados.csv - 
++ dispersao_residuos_x_previsao.png - 
++ estatistica_basica.py - 
++ histograma_residuos.png - 
++ modelo_regressao.py - 
++ qqplot_variavela.png - 
++ qqplot_variavelb.png - 
++ regressao_estatistica.csv - 
++ residuos_x_observacoes.png - 
++ teste_tstudent.png - 
++ teste_tstudent.py -
+
 ## Contenido del Repositório(ESP)
++ boxplot.png - 
++ boxplot.py - 
++ correlacao_simples.png - 
++ correlacao_simples.py - 
++ dados.csv - 
++ dispersao_residuos_x_previsao.png - 
++ estatistica_basica.py - 
++ histograma_residuos.png - 
++ modelo_regressao.py - 
++ qqplot_variavela.png - 
++ qqplot_variavelb.png - 
++ regressao_estatistica.csv - 
++ residuos_x_observacoes.png - 
++ teste_tstudent.png - 
++ teste_tstudent.py -
