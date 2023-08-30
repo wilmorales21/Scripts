@@ -15,21 +15,21 @@ Figura que ilustra o Teste T-Student para as variáveis A e B. This picture show
 Figura que ilustra o gráfico Boxplot para as variáveis A e B. This picture shows the Boxplot chart to A and B variables. Figura que muestra el Boxplot para las variables A y B.
 
 ## Conteúdo do Repositório(PT-BR)
-+ boxplot.png - 
-+ boxplot.py - 
-+ correlacao_simples.png - 
-+ correlacao_simples.py - 
-+ dados.csv - 
-+ dispersao_residuos_x_previsao.png - 
-+ estatistica_basica.py - 
-+ histograma_residuos.png - 
-+ modelo_regressao.py - 
-+ qqplot_variavela.png - 
-+ qqplot_variavelb.png - 
-+ regressao_estatistica.csv - 
-+ residuos_x_observacoes.png - 
-+ teste_tstudent.png - 
-+ teste_tstudent.py -
++ boxplot.png - Figura que mostra outliers das variáveis A e B com o gráfico Boxplot.
++ boxplot.py - Código para gerar o gráfico Boxplot das variáveris A e B para analisar outliers.
++ correlacao_simples.png - Figura que mostra um gráfico de dispersão simples da Correlação de Pearson entre as variáveis A e B. 
++ correlacao_simples.py - Código para gerar gráfico de dispersão simples da Correlação de Pearson entre as variáveis A e B.
++ dados.csv - Arquivo que armazena os dados grupoa e grupob.
++ dispersao_residuos_x_previsao.png - Figura que mostra o gráfico de dispersão entre as variáveis resíduos e previsão.
++ estatistica_basica.py - Código para executar comandos básicos de Estatística.
++ histograma_residuos.png - Figura que mostra o histograma da variável residual.
++ modelo_regressao.py - Código que aplica um modelo de regressão linear estatístico para fazer previsão.
++ qqplot_variavela.png - Figura que compara a variável A com um distribuição teórica normal.
++ qqplot_variavelb.png - Figura que compara a variável B com uma distribuiçã teórica normal.
++ regressao_estatistica.csv - Planilha Excel gerada pelo modelo de regressão estatística que reuni as variáveis de entrada, saída e de previsão.  
++ residuos_x_observacoes.png - Figura que mostra o gráfico de dispersão entre as variáveis resíduos e observações.
++ teste_tstudent.png - Figura que mostra o gráfico em forma de sino do teste t-Student entre as variáveis A e B.
++ teste_tstudent.py - Código para executar o teste de hipótese t-Student entre as variáveis A e B.
    
 ## Repository Content(ENG)
 + boxplot.png - 
