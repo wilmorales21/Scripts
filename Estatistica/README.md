@@ -2,9 +2,8 @@
 # Description(ENG)
 # Description(ESP)
 
-![correlacao_simples](https://github.com/wilmorales21/Scripts/assets/80546143/422d642c-ed1e-432d-807b-1f6d785706cf)
 
-Figura que ilustra o gráfico de dispersão simples pela correlação de Pearson para as variáveis A e B. This picture shows the simple scatter chart by the Pearson Correlation to A and B variables. Figura que muestra el gráfico de dispersión simple por la Correlación de Pearson para las variables A y B. 
+Figura que ilustra o gráfico de dispersão da regressão linear e correlação de Pearson para as variáveis A e B. This picture shows the simple scatter chart of the linear regression and Pearson Correlation to A and B variables. Figura que muestra el gráfico de dispersión de regressión linear y Correlación de Pearson para las variables A y B. 
 
 ![teste_tstudent](https://github.com/wilmorales21/Scripts/assets/80546143/b219458b-aa3a-4915-b221-fc77fa86b830)
 
