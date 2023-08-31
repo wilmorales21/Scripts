@@ -16,8 +16,8 @@ Figura que ilustra o gráfico Boxplot para as variáveis A e B. This picture sho
 ## Conteúdo do Repositório(PT-BR)
 + boxplot.png - Figura que mostra outliers das variáveis A e B com o gráfico Boxplot.
 + boxplot.py - Código para gerar o gráfico Boxplot das variáveris A e B para analisar outliers.
-+ correlacao_simples.png - Figura que mostra um gráfico de dispersão simples da Correlação de Pearson entre as variáveis A e B. 
-+ correlacao_simples.py - Código para gerar gráfico de dispersão simples da Correlação de Pearson entre as variáveis A e B.
++ correlacao_pearson.png - Figura que mostra um gráfico de dispersão simples da Correlação de Pearson entre as variáveis A e B. 
++ correlacao_pearson.py - Código para gerar gráfico de dispersão simples da Correlação de Pearson entre as variáveis A e B.
 + dados.csv - Arquivo que armazena os dados grupoa e grupob.
 + dispersao_residuos_x_previsao.png - Figura que mostra o gráfico de dispersão entre as variáveis resíduos e previsão.
 + estatistica_basica.py - Código para executar comandos básicos de Estatística.
@@ -33,8 +33,8 @@ Figura que ilustra o gráfico Boxplot para as variáveis A e B. This picture sho
 ## Repository Content(ENG)
 + boxplot.png - 
 + boxplot.py - 
-+ correlacao_simples.png - 
-+ correlacao_simples.py - 
++ correlacao_pearson.png - 
++ correlacao_pearson.py - 
 + dados.csv - 
 + dispersao_residuos_x_previsao.png - 
 + estatistica_basica.py - 
@@ -50,8 +50,8 @@ Figura que ilustra o gráfico Boxplot para as variáveis A e B. This picture sho
 ## Contenido del Repositório(ESP)
 + boxplot.png - 
 + boxplot.py - 
-+ correlacao_simples.png - 
-+ correlacao_simples.py - 
++ correlacao_pearson.png - 
++ correlacao_pearson.py - 
 + dados.csv - 
 + dispersao_residuos_x_previsao.png - 
 + estatistica_basica.py - 
