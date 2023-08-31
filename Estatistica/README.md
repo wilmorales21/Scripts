@@ -7,7 +7,7 @@ Figura que ilustra o gráfico de dispersão da Regressão Linear e Correlação 
 
 ![teste_tstudent](https://github.com/wilmorales21/Scripts/assets/80546143/b219458b-aa3a-4915-b221-fc77fa86b830)
 
-Figura que ilustra o Teste de Hipótese t-Student para as variáveis A e B. This picture shows the t-Student Hypothesis Test to A and B variables. Figura que muestra la Prueba de hipotesis t-Student para las variables A y B.
+Figura que ilustra o Teste de Hipótese t-Student para as variáveis A e B. This picture shows the t-Student Hypothesis Test to A and B variables. Figura que muestra la Prueba de Hipotesis t-Student para las variables A y B.
 
 ![boxplot](https://github.com/wilmorales21/Scripts/assets/80546143/e3d6718a-275b-4d14-b164-d4ddeb1314d3)
 
@@ -27,8 +27,8 @@ Figura que ilustra o gráfico Boxplot para as variáveis A e B. This picture sho
 + qqplot_variavelb.png - Figura que compara a variável B com uma distribuiçã teórica normal.
 + regressao_estatistica.csv - Planilha Excel gerada pelo modelo de regressão estatística que reuni as variáveis de entrada, saída e de previsão.  
 + residuos_x_observacoes.png - Figura que mostra o gráfico de dispersão entre as variáveis resíduos e observações.
-+ teste_tstudent.png - Figura que mostra o gráfico em forma de sino do teste t-Student entre as variáveis A e B.
-+ teste_tstudent.py - Código para executar o teste de hipótese t-Student entre as variáveis A e B.
++ teste_tstudent.png - Figura que mostra o gráfico em forma de sino do Teste de Hipótese t-Student entre as variáveis A e B.
++ teste_tstudent.py - Código para executar o Teste de Hipótese t-Student entre as variáveis A e B.
    
 ## Repository Content(ENG)
 + boxplot.png - This picture shows the outliers from A and B variables by the Boxplot chart.
