@@ -3,7 +3,7 @@
 # Description(ESP)
 ![correlacao_pearson](https://github.com/wilmorales21/Scripts/assets/80546143/7b66ebff-b877-4250-8f7c-59f185879cef)
 
-Figura que ilustra o gráfico de dispersão da regressão linear e correlação de Pearson para as variáveis A e B. This picture shows the simple scatter chart of the linear regression and Pearson Correlation to A and B variables. Figura que muestra el gráfico de dispersión de regressión linear y Correlación de Pearson para las variables A y B. 
+Figura que ilustra o gráfico de dispersão da Regressão Linear e Correlação de Pearson para as variáveis A e B. This picture shows the simple scatter chart of the Linear Regression and Pearson Correlation to A and B variables. Figura que muestra el gráfico de dispersión de Regresión linear y Correlación de Pearson para las variables A y B. 
 
 ![teste_tstudent](https://github.com/wilmorales21/Scripts/assets/80546143/b219458b-aa3a-4915-b221-fc77fa86b830)
 
@@ -16,8 +16,8 @@ Figura que ilustra o gráfico Boxplot para as variáveis A e B. This picture sho
 ## Conteúdo do Repositório(PT-BR)
 + boxplot.png - Figura que mostra outliers das variáveis A e B com o gráfico Boxplot.
 + boxplot.py - Código para gerar o gráfico Boxplot das variáveris A e B para analisar outliers.
-+ correlacao_pearson.png - Figura que mostra um gráfico de dispersão simples da Correlação de Pearson entre as variáveis A e B. 
-+ correlacao_pearson.py - Código para gerar gráfico de dispersão simples da Correlação de Pearson entre as variáveis A e B.
++ correlacao_pearson.png - Figura que mostra um gráfico de dispersão da Regressão Linear e Correlação de Pearson entre as variáveis A e B. 
++ correlacao_pearson.py - Código para gerar gráfico de dispersão da Regressão Linear e Correlação de Pearson entre as variáveis A e B.
 + dados.csv - Arquivo que armazena os dados grupoa e grupob.
 + dispersao_residuos_x_previsao.png - Figura que mostra o gráfico de dispersão entre as variáveis resíduos e previsão.
 + estatistica_basica.py - Código para executar comandos básicos de Estatística.
