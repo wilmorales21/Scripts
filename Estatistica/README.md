@@ -5,7 +5,7 @@
 
 Figura que ilustra o gráfico de dispersão da Regressão Linear e Correlação de Pearson para as variáveis A e B. This picture shows the simple scatter chart of the Linear Regression and Pearson Correlation to A and B variables. Figura que muestra el gráfico de dispersión de Regresión linear y Correlación de Pearson para las variables A y B. 
 
-![teste_tstudent](https://github.com/wilmorales21/Scripts/assets/80546143/b219458b-aa3a-4915-b221-fc77fa86b830)
+
 
 Figura que ilustra o Teste de Hipótese t-Student para as variáveis A e B. This picture shows the t-Student Hypothesis Test to A and B variables. Figura que muestra la Prueba de Hipotesis t-Student para las variables A y B.
 
