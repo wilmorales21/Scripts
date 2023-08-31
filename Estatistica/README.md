@@ -1,7 +1,7 @@
 # Descrição(PT-BR)
 # Description(ENG)
 # Description(ESP)
-
+![correlacao_pearson](https://github.com/wilmorales21/Scripts/assets/80546143/7b66ebff-b877-4250-8f7c-59f185879cef)
 
 Figura que ilustra o gráfico de dispersão da regressão linear e correlação de Pearson para as variáveis A e B. This picture shows the simple scatter chart of the linear regression and Pearson Correlation to A and B variables. Figura que muestra el gráfico de dispersión de regressión linear y Correlación de Pearson para las variables A y B. 
 
