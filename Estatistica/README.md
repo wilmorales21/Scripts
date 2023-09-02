@@ -1,5 +1,5 @@
 # Descrição(PT-BR)
-A partir do aquivo dados.csv foram executados comandos básicos como média, desvio-padrão, variância e co-variãncia. Além disso, buscou-se ilustrar os testes mais importantes abordados na Estatística como Correlação de Pearson, Teste de Hipótese t-Student, Bloxplot para analisar outliers e Q-Q Plot para analisar a normalidade dos dados. Por último, também foi implementado um modelo de regressão linear simples que fez a previsão da variável dependente e gerou um histograma e analisou a dispersão entre resíduos, observações e previsões.  
+A partir do aquivo dados.csv foram executados comandos básicos como média, desvio-padrão, variância e co-variância. Além disso, buscou-se ilustrar os testes mais importantes abordados na Estatística como Correlação de Pearson, Teste de Hipótese t-Student, Bloxplot para analisar outliers e Q-Q Plot para analisar a normalidade dos dados. Por último, também foi implementado um modelo de regressão linear simples que fez a previsão da variável dependente e gerou um histograma e analisou a dispersão entre resíduos, observações e previsões.  
 
 # Description(ENG)
 # Description(ESP)
