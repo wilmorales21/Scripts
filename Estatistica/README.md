@@ -1,4 +1,6 @@
 # Descrição(PT-BR)
+A partir de um pequeno conjunto de dados .CSV, foram executados comandos básicos como média, desvio-padrão, variância e co-variãncia. Além disso, buscou-se ilustrar os testes mais importantes na Estatística como Correlação de Pearson, Teste de Hipótese t-Student, Bloxplot para analisar outliers e Q-Q Plot para analisar a normalidade dos dados. Por último também foi implementado um modelo de regressão linear simples que fez a previsão da variável dependente e gerou um histograma e analisou a dispersão entre resíduos, observações e previsões.  
+
 # Description(ENG)
 # Description(ESP)
 ![correlacao_pearson](https://github.com/wilmorales21/Scripts/assets/80546143/7b66ebff-b877-4250-8f7c-59f185879cef)
