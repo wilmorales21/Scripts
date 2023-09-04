@@ -1,9 +1,9 @@
 # Descrição(PT-BR)
-Foram testados alguns códigos para acessar as APIs de sites governamentais do Brasil com dados abertos. O objetivo foi coletar e armazenar os dados mais relevantes em planilhas Excel.   
+Foram testados alguns códigos para acessar as APIs de sites governamentais do Brasil, que disponibilizam os dados publicamente, como Instituto Nacional de Meteorologia(INMET), Agência Nacional das Águas(ANA) e OpenDataSUS. O objetivo foi coletar e armazenar os dados mais relevantes em planilhas Excel.   
 # Description(ENG)
-It were some codes to access the Brazil government sites API with open data. The goal was to collect and store the most relevant data in Excel spreadsheets.
+It were some codes to access the Brazil government sites API, that data publicly available, as Instituto Nacional de Meteorologia(INMET), Agência Nacional das Águas(ANA) e OpenDataSUS. The goal was to collect and store the most relevant data in Excel spreadsheets.
 # Descripción(ESP)
-Fueron probados algunos códigos para acceder las APIs del sitios del gobierno del Brasil con datos abiertos. La meta fue colectar y almacenar los datos más importantes en hojas Excel. 
+Fueron probados algunos códigos para acceder las APIs del sitios del gobierno del Brasil, que ponen los datos a disposición del público, como Instituto Nacional de Meteorologia(INMET), Agência Nacional das Águas(ANA) e OpenDataSUS. La meta fue colectar y almacenar los datos más importantes en hojas Excel. 
 
 ![planilha_estacao_ana](https://github.com/wilmorales21/Scripts/assets/80546143/c9297809-acb8-425a-bd1e-6868b5e0f7e8)
 Planilha Excel gerada após acessar a API da Agência Nacional das Águas(ANA) e salvar os dados da estação pluviométrica de Timóteo-MG. Excel spreadsheet generated after to access the Agência Nacional das Águas(ANA) API and to save the data of the Timóteo-MG rain gauge station. Hoja Excel generada despues acceder la API de la Agência Nacional das Águas(ANA) y salvar los datos de la estación pluviométrica de Timóteo-MG.
