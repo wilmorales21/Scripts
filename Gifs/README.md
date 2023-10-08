@@ -15,6 +15,6 @@
 -----------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
-  <img src="https://github.com/wilmorales21/Scripts/assets/80546143/308953e3-a1c6-43c7-9aad-4a343da69e44" alt="previsão-do-tempo">
+  <img src="https://github.com/wilmorales21/Scripts/assets/80546143/bfe8b3aa-4c95-4f98-989e-01f643915ef9" alt="previsao-tempo">
 </p>
 
