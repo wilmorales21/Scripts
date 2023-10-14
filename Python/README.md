@@ -16,69 +16,51 @@ todos los otros años por el código correlacao.py. Fue plotado el gráfico de d
 Sur(ENOS) entre los años de 2000 y 2021 por el código enso.py a partir del archivo de datos enso.csv. Fueram plotadas la temperatura del aire en lo nível de pressión de 850hPa por el código codigo_netcdf.py y las líneas de corriente en lo nível de pressión de 850hPa por el código vento_netcdf.py ambos a partir do arquivo variaveis_meteorologica.nc que no están en esto repositório. Por ultimo, fue plotado un meteograma con temperatura, humedad relativa y precipitación de la estación automática del INMET in Alegrete por el código meteograma.py a partir del archivo Variaveis.csv. Fué plotada la precipitación média prevista por el modelo GEFS en la cuenca del Bajo Iguaçú a partir de los datos de la geometría de la cuenca del archivo baixo_iguacu.shp y del archivo precip-total_GEFSav_glob_20221212T00.nc que no está en esto repositório. 
 
 <p align="center">   
-   <img src="https://github.com/wilmorales21/Scripts/assets/    " alt="media-movel" height="400">
+   <img src="https://github.com/wilmorales21/Scripts/assets/80546143/128465ad-78ef-4cf9-822a-863ecc6a8e48" alt="media-movel" height="450">
 </p>
 
-
-![Media_movel_temperatura](https://user-images.githubusercontent.com/80546143/167489446-c5f62fd5-a867-439f-af57-249b6b6b042d.png)
 Média móvel de 30 dias da temperatura média diária da cidade de Pelotas entre 1999 e 2020. Anos com correlação de Pearson acima de 0.70(colorido) e demais anos(cinza) - 30 days moving average of daily air temperature in the city of Pelotas-RS, southern of Brazil, between 1999 and 2020. Years with Pearson correlation above 0.70(colors) and other years(grey) - Média móvil de la temperatura del aire diaria en la ciudad de Pelotas-RS, sur del Brasil, entre los años de 1999 y 2020.Años con correlación de Pearson arriba de 0.70(colores) y otros años(gris).
 
 <p align="center">   
-   <img src="https://github.com/wilmorales21/Scripts/assets/   " alt="precipitacao" height="400">
+   <img src="https://github.com/wilmorales21/Scripts/assets/80546143/73fca8d6-7cb1-4b59-ad64-f407e67e3d0d" alt="precipitacao" height="450">
 </p>
 
-
-![precipitacao](https://user-images.githubusercontent.com/80546143/182872159-2e28daec-6de8-4a1d-8c34-8c544b3cbafe.png)
 Gráfico de barras de precipitação mensal dos anos com correlação de Pearson acima de 0.70 - Bar graphic of monthly precipitation of the years with Pearson correlation above 0.70 - Gráfico de barras de precipitación mensual de los años con correlación de Pearson arriba 0.70. 
 
 <p align="center">   
-   <img src="https://github.com/wilmorales21/Scripts/assets/   " alt="dispersao" height="400">
+   <img src="https://github.com/wilmorales21/Scripts/assets/80546143/5270ba1a-70c4-4753-81a9-5d6f8dce2929" alt="dispersao" height="400">
 </p>
 
-
-![dispersao2011-2020](https://user-images.githubusercontent.com/80546143/169409989-76c26573-50dc-4de2-af5e-f727ea429b61.png)
 Gráfico de dispersão simples da temperatura média diária entre os anos de 2020 e 2011, onde a correlação de Pearson foi de 0.74 - Simple scatter plot of
 daily average temperature between the years 2020 and 2011, where the Pearson correlation was 0.74 - Gráfico de dispersión simples de la temperatura média diária entre los años de 2020 y 2011, donde la correlación de Pearson fue de 0.74.
 
 <p align="center">   
-   <img src="https://github.com/wilmorales21/Scripts/assets/   " alt="enos" height="400">
+   <img src="https://github.com/wilmorales21/Scripts/assets/80546143/ad50689e-ba1f-4c42-b838-504bcd20d5ad" alt="enos" height="450">
 </p>
 
-
-![enos](https://user-images.githubusercontent.com/80546143/167686071-50e6877d-5234-432f-aecc-6f97d66a802c.png)
 Evolução mensal do índice de El Niño Oscilação Sul(ENOS).Anos com El Niño(vermelho), anos com La Niña(azul) e anos de neutralidade(branco) - Monthly evolution of the El Niño Southern Oscillation(ENSO) index. Years of El Niño(red), years of La Niña(blue) and years of neutrality(white)- Evolución mensual del índice de El Niño Oscilación Sur(ENOS).Años de El Niño(rojo), años de La Niña(azul) y años de neutralidad(blanco).
 
 <p align="center">   
-   <img src="https://github.com/wilmorales21/Scripts/assets/   " alt="meteograma" height="400">
+   <img src="https://github.com/wilmorales21/Scripts/assets/80546143/7b250520-523f-467a-b7e1-034b567f139a" alt="meteograma" height="500">
 </p>
-
-
-![meteograma](https://user-images.githubusercontent.com/80546143/185434499-0d52b169-a11a-45ba-ae09-c84190553f58.png)
 
 Meteograma de temperaturas máximas e mínimas em conjunto da umidade relativa máxima e mínima com precipitação da estação do INMET em Alegrete entre 01/01 e 07/01 de 2019 - Meteogram of maximum and minimum temperatures together maximum and minimum relative humidity with precipitation from the INMET station on Alegrete between 01/01 and 07/01 of 2019 - Meteograma de temperaturas máximas y mínimas en conjunto de la humidad relativa máxima y mínima con precipitación de la estación del INMET in Alegrete entre 01/01 y 07/01 de 2019. 
 
 <p align="center">   
-   <img src="https://github.com/wilmorales21/Scripts/assets/   " alt="temperatura-850hpa" height="400">
+   <img src="https://github.com/wilmorales21/Scripts/assets/80546143/3f57907b-52a1-472d-96d7-d2ddd12166c3" alt="temperatura-850hpa" height="500">
 </p>
-
-
-![temperatura_850hPa](https://user-images.githubusercontent.com/80546143/180651437-b940d6e8-6a62-4604-9957-8ed74e156c45.png)
 
 Temperatura do ar no nível de pressão de 850hPa em 29/04/2022 - Air temperature in 850hPa level pressure on 29/04/2022 - Temperatura del aire en lo nível de pressión de 850hPa en 29/04/2022.
 
 <p align="center">   
-   <img src="https://github.com/wilmorales21/Scripts/assets/   " alt="linhas-corrente-850hpa" height="400">
+   <img src="https://github.com/wilmorales21/Scripts/assets/80546143/43fe4012-49a8-43dd-aa5d-46e9c24d48ee" alt="linhas-corrente-850hpa" height="500">
 </p>
-
-![linhas_de_corrente_850hpa](https://user-images.githubusercontent.com/80546143/182679579-ab42c074-dc1d-4c1b-9764-769fa15dd330.png)
 
 Linhas de corrente no nível de pressão de 850hPa em 29/04/2022 - Streamlines in 850hPa level pressure on 29/04/2022 - Líneas de corriente en lo nível de pressión de 850hPa en 29/04/2022. 
 
 <p align="center">   
-   <img src="https://github.com/wilmorales21/Scripts/assets/   " alt="chuva-prevista-bacia-iguacu" height="400">
+   <img src="https://github.com/wilmorales21/Scripts/assets/80546143/7a05df3d-25a1-4079-a63c-7685a8a85613" alt="chuva-prevista-bacia-iguacu" height="500">
 </p>
-
-![precipitacao_media_prevista](https://user-images.githubusercontent.com/80546143/208449921-1d12a092-fade-40c7-96e6-8f9cf7c6e9aa.png)
 
 Precipitação média para 15 dias prevista pelo modelo GEFS sobre a Bacia do Baixo Iguaçú.
 
