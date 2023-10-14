@@ -14,7 +14,7 @@ Fueron probados algoritmos de Machine Learning y Deep Learning in datos meteorol
 Machine Learning usando o algoritmo Random Forest - Machine learning using Random Forest Algorithm. Observed datas(green line) and forecast(red line) - Aprendizaje de máquina utilizando el algoritmo Random Forest.Datos observados(línea verde) y pronóstico(línea roja). 
 
 <p align="center">   
-   <img src="https://github.com/wilmorales21/Scripts/assets/80546143/187041866-351a7b2a-6da1-430a-9814-8fd22f79f889" alt="catboost" height="400">
+   <img src="https://github.com/wilmorales21/Scripts/assets/80546143/74a70f4b-e87f-4817-85b9-77626dcc761f" alt="catboost" height="400">
 </p>
 
 Machine Learning usando o algoritmo Catboost - Machine learning using Catboost algorithm. Observed datas(green line) and forecast(red line) - Aprendizaje de máquina utilizando el algoritmo Catboost. Datos observados(línea verde) y pronóstico(línea roja).
