@@ -8,7 +8,7 @@ It were tested Machine Learning and Deep Learning algorithms in meteorological d
 Fueron probados algoritmos de Machine Learning y Deep Learning in datos meteorológicos registrados en la estación automática del Instituto Nacional de Meteorologia(INMET) situado en la ciudad de Alegrete-RS,sur de Brasil, entre los dias 01/01 y 11/02 de 2019. Los algoritmos son los bien conocidos Random Forest y Catboost y el algoritmo de red neuronal LSTM.
 
 <p align="center">   
-   <img src="https://github.com/wilmorales21/Scripts/assets/80546143/187041955-cb336e37-1630-4357-a611-0884acb2fd12" alt="random-forest" height="400">
+   <img src="https://github.com/wilmorales21/Scripts/assets/80546143/12b741ae-7c13-4970-bd97-600faf155131" alt="random-forest" height="400">
 </p>
 
 Machine Learning usando o algoritmo Random Forest - Machine learning using Random Forest Algorithm. Observed datas(green line) and forecast(red line) - Aprendizaje de máquina utilizando el algoritmo Random Forest.Datos observados(línea verde) y pronóstico(línea roja). 
