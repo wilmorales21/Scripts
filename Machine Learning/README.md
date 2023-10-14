@@ -20,7 +20,7 @@ Machine Learning usando o algoritmo Random Forest - Machine learning using Rando
 Machine Learning usando o algoritmo Catboost - Machine learning using Catboost algorithm. Observed datas(green line) and forecast(red line) - Aprendizaje de máquina utilizando el algoritmo Catboost. Datos observados(línea verde) y pronóstico(línea roja).
 
 <p align="center">   
-   <img src="https://github.com/wilmorales21/Scripts/assets/80546143/187074725-adeaf7f4-b4d9-4f93-929e-e9c41989f1cb" alt="rede-neural" height="400">
+   <img src="https://github.com/wilmorales21/Scripts/assets/80546143/2e684241-9b8f-49aa-8b44-f91bc703f7de" alt="rede-neural" height="400">
 </p>
 
 Deep Learning usando o algoritmo de rede neural LSTM - Deep Learning using the LSTM neural network. Observed datas(green line) and forecast(red line) - Deep Learning utilizando el algoritmo de red neuronal LSTM.Datos observados(línea verde) y pronóstico(línea roja).
