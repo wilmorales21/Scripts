@@ -7,6 +7,5 @@
 </p>
 
 <p align="center">   
-   <img src="https://github.com/wilmorales21/Scripts/assets/...." alt="Futebol2" height="400">
+   <img src="https://github.com/wilmorales21/Scripts/assets/(https://github.com/wilmorales21/Scripts/assets/80546143/c9c9ce21-c513-47df-a3e4-6e4d1d438823)" alt="Futebol2" height="400">
 </p>
-
