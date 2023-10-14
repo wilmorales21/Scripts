@@ -7,13 +7,22 @@ It were tested Machine Learning and Deep Learning algorithms in meteorological d
 # Descripción(ESP)
 Fueron probados algoritmos de Machine Learning y Deep Learning in datos meteorológicos registrados en la estación automática del Instituto Nacional de Meteorologia(INMET) situado en la ciudad de Alegrete-RS,sur de Brasil, entre los dias 01/01 y 11/02 de 2019. Los algoritmos son los bien conocidos Random Forest y Catboost y el algoritmo de red neuronal LSTM.
 
-![randomforest](https://user-images.githubusercontent.com/80546143/187041955-cb336e37-1630-4357-a611-0884acb2fd12.png)
+<p align="center">   
+   <img src="https://github.com/wilmorales21/Scripts/assets/80546143/187041955-cb336e37-1630-4357-a611-0884acb2fd12" alt="random-forest" height="400">
+</p>
+
 Machine Learning usando o algoritmo Random Forest - Machine learning using Random Forest Algorithm. Observed datas(green line) and forecast(red line) - Aprendizaje de máquina utilizando el algoritmo Random Forest.Datos observados(línea verde) y pronóstico(línea roja). 
 
-![catboost](https://user-images.githubusercontent.com/80546143/187041866-351a7b2a-6da1-430a-9814-8fd22f79f889.png)
+<p align="center">   
+   <img src="https://github.com/wilmorales21/Scripts/assets/80546143/187041866-351a7b2a-6da1-430a-9814-8fd22f79f889" alt="catboost" height="400">
+</p>
+
 Machine Learning usando o algoritmo Catboost - Machine learning using Catboost algorithm. Observed datas(green line) and forecast(red line) - Aprendizaje de máquina utilizando el algoritmo Catboost. Datos observados(línea verde) y pronóstico(línea roja).
 
-![tensorflow](https://user-images.githubusercontent.com/80546143/187074725-adeaf7f4-b4d9-4f93-929e-e9c41989f1cb.png)
+<p align="center">   
+   <img src="https://github.com/wilmorales21/Scripts/assets/80546143/187074725-adeaf7f4-b4d9-4f93-929e-e9c41989f1cb" alt="rede-neural" height="400">
+</p>
+
 Deep Learning usando o algoritmo de rede neural LSTM - Deep Learning using the LSTM neural network. Observed datas(green line) and forecast(red line) - Deep Learning utilizando el algoritmo de red neuronal LSTM.Datos observados(línea verde) y pronóstico(línea roja).
 
 ## Conteúdo do repositório(PT-BR)
