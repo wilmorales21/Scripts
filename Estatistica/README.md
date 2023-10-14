@@ -7,15 +7,21 @@ From dados.csv file it were executed basic commands as mean, standard deviation,
 # Descripción(ESP)
 A partir del archivo dados.csv fueron ejecutados commandos basicos como media, desviación estándar, varianza y covarianza. Además se buscó ilustrar las pruebas más importantes abordada en la Estadistica como Correlación de Pearson, Prueba de Hipotesis t-Student, Boxplot para analizar outliers y Q-Q Plot para analizar la normalidad de los datos. Por ultimo, también se implementó un modelo de regressión linear simple que hizo la predicción de la variable dependente, generando un histograma y análisis de la dispersión entre residuos, observaciones y predicciones.
 
-![correlacao_pearson](https://github.com/wilmorales21/Scripts/assets/80546143/7b66ebff-b877-4250-8f7c-59f185879cef)
+<p align="center">
+  <img src="https://github.com/wilmorales21/Scripts/assets/80546143/7b66ebff-b877-4250-8f7c-59f185879cef" alt="inclinacao-curva" height="450">
+</p>
 
 Figura que ilustra o gráfico de dispersão da Regressão Linear e Correlação de Pearson para as variáveis A e B. This picture shows the simple scatter chart of the Linear Regression and Pearson Correlation to A and B variables. Figura que muestra el gráfico de dispersión de Regresión linear y Correlación de Pearson para las variables A y B. 
 
-![teste_tstudent](https://github.com/wilmorales21/Scripts/assets/80546143/3c1a5be4-1da7-40e3-9cfd-d52e1a50d4ed)
+<p align="center">
+  <img src="https://github.com/wilmorales21/Scripts/assets/80546143/3c1a5be4-1da7-40e3-9cfd-d52e1a50d4ed" alt="inclinacao-curva" height="450">
+</p>
 
 Figura que ilustra o Teste de Hipótese t-Student para as variáveis A e B. This picture shows the t-Student Hypothesis Test to A and B variables. Figura que muestra la Prueba de Hipotesis t-Student para las variables A y B.
 
-![boxplot](https://github.com/wilmorales21/Scripts/assets/80546143/e3d6718a-275b-4d14-b164-d4ddeb1314d3)
+<p align="center">
+  <img src="https://github.com/wilmorales21/Scripts/assets/80546143/e3d6718a-275b-4d14-b164-d4ddeb1314d3" alt="inclinacao-curva" height="450">
+</p>
 
 Figura que ilustra o gráfico Boxplot para as variáveis A e B. This picture shows the Boxplot chart to A and B variables. Figura que muestra el Boxplot para las variables A y B.
 
