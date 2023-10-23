@@ -15,9 +15,9 @@
 </p>
 
 <p align="center">
-   <img src="https://github.com/wilmorales21/Scripts/assets/80546143/f843a4f5-891e-4f62-8e60-520ed12e2797" alt="gremio" height="450">
+   <img src="https://github.com/wilmorales21/Scripts/assets/80546143/f843a4f5-891e-4f62-8e60-520ed12e2797" alt="gremio" height="430" width="570">
 </p>
 
 <p align="center">
-   <img src="https://github.com/wilmorales21/Scripts/assets/80546143/c02f3172-0612-4363-9413-65b47a55d8c5" alt="barça" height="450">
+   <img src="https://github.com/wilmorales21/Scripts/assets/80546143/c02f3172-0612-4363-9413-65b47a55d8c5" alt="barça" height="430" width="570">
 </p>
