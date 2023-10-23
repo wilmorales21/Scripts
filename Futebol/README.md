@@ -11,5 +11,5 @@
 </p>
 
 <p align="center">
-   <img src="https://github.com/wilmorales21/Scripts/assets/80546143/51338aa9-cb6f-4501-a8f8-d44955dd239e" alt="mapa-termico" height="450">
+   <img src="https://github.com/wilmorales21/Scripts/assets/80546143/95c224c7-3326-4c43-9d87-193fff25f415" alt="mapa-termico" height="450">
 </p>
