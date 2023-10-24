@@ -13,7 +13,9 @@
 
 #### PIX:
 
-![QRCode_wil](https://github.com/wilmorales21/Scripts/assets/80546143/c030fa24-d8c2-479e-9730-62daffa45357)
+<p align="center">   
+   <img src="https://github.com/wilmorales21/Scripts/assets/80546143/c030fa24-d8c2-479e-9730-62daffa45357" alt="qr-code" height="250">
+</p>
 
 #### Obrigado pelo apoio!👍
 
