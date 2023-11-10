@@ -31,11 +31,8 @@
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-
-
-
 <p align="center">   
-   <img src="https://github.com/wilmorales21/Scripts/assets/   " alt="qr-code" height="390" width="700">
+   <img src="https://github.com/wilmorales21/Scripts/assets/80546143/60e4dafd-c79b-4a4c-95fb-892bf851ac91" alt="qr-code" height="390" width="700">
 </p>
 
 
