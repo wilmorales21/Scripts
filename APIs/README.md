@@ -1,5 +1,5 @@
 # Descrição(PT-BR)
-Foram testados alguns códigos para acessar as APIs de sites governamentais do Brasil, que disponibilizam os dados publicamente, como Instituto Nacional de Meteorologia(INMET), Agência Nacional das Águas(ANA) e OpenDataSUS. O objetivo foi coletar e armazenar os dados mais relevantes em planilhas Excel.   
+Foram testados alguns códigos para acessar as APIs de sites governamentais do Brasil, que disponibilizam os dados publicamente, como Instituto Nacional de Meteorologia(INMET), Agência Nacional das Águas(ANA) e OpenDataSUS. O objetivo foi coletar e armazenar os dados mais relevantes em planilhas Excel.    
 # Description(ENG)
 It were some codes to access the Brazil government sites API, that data publicly available, as Instituto Nacional de Meteorologia(INMET), Agência Nacional das Águas(ANA) and OpenDataSUS. The goal was to collect and store the most relevant data in Excel spreadsheets.
 # Descripción(ESP)
