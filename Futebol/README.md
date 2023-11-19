@@ -15,8 +15,10 @@
 </p>
 
 <p align="center">
-   <img src="https://github.com/wilmorales21/Scripts/assets/80546143/f843a4f5-891e-4f62-8e60-520ed12e2797" alt="gremio" height="430" width="560">
+   <img src="https://github.com/wilmorales21/Scripts/assets/80546143/c9e1c6a4-6f06-4e28-828a-eaabbe440a2d" alt="gremio">
 </p>
+
+
 
 <p align="center">
    <img src="https://github.com/wilmorales21/Scripts/assets/80546143/c02f3172-0612-4363-9413-65b47a55d8c5" alt="barça" height="430" width="560">
