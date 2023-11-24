@@ -4,6 +4,6 @@
 </p>
 
 <p align="center">   
-   <img src="https://github.com/wilmorales21/Scripts/assets/80546143/85c5d998-05d7-4eae-a151-2232d451d8e6" alt="covid" height="500" width="700">
+   <img src="https://github.com/wilmorales21/Scripts/assets/  " alt="covid" height="500" width="700">
 </p>
 
