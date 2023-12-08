@@ -30,5 +30,14 @@
    <img src="https://github.com/wilmorales21/Scripts/assets/80546143/60e4dafd-c79b-4a4c-95fb-892bf851ac91" alt="qr-code" height="390" width="650">
 </p>
 
+------------------------------------------------------------------------------------------------------------------------------
 
+<p align="center">   
+   <img src="https://github.com/wilmorales21/Scripts/assets/80546143/f309a9cf-f802-4bda-95a1-3bb33b9b953c" alt="estacoes" height="450">
+</p>
 
+------------------------------------------------------------------------------------------------------------------------------
+
+<p align="center">   
+   <img src="https://github.com/wilmorales21/Scripts/assets/80546143/82e4d4fc-1635-4efe-a482-172857b3ecaf" alt="sondagem" height="600">
+</p>
