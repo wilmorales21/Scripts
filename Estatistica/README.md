@@ -14,7 +14,7 @@ A partir del archivo dados.csv fueron ejecutados commandos basicos como media, d
 Figura que ilustra o gráfico de dispersão da Regressão Linear e Correlação de Pearson para as variáveis A e B. This picture shows the simple scatter chart of the Linear Regression and Pearson Correlation to A and B variables. Figura que muestra el gráfico de dispersión de Regresión linear y Correlación de Pearson para las variables A y B. 
 
 <p align="center">
-  <img src="https://github.com/wilmorales21/Scripts/assets/ " alt=" " height="450">
+  <img src="https://github.com/wilmorales21/Scripts/assets/80546143/db111500-e46d-4d7b-8fb2-4bbe3eb66ab0" alt="teste_tstudent" height="450">
 </p>
 
 Figura que ilustra o Teste de Hipótese t-Student para as variáveis A e B. This picture shows the t-Student Hypothesis Test to A and B variables. Figura que muestra la Prueba de Hipotesis t-Student para las variables A y B.
