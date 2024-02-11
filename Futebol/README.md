@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-   <img src="https://github.com/wilmorales21/Scripts/assets/ " alt="passe_de_bola" height="450">
+   <img src="https://github.com/wilmorales21/Scripts/assets/80546143/8f215297-370d-4ae1-9278-20a5f4e767db" alt="passe_de_bola" height="450">
 </p>
 
 <p align="center">
