@@ -12,12 +12,12 @@
 
 ## Recursos Hídricos(Mai/2025)
 * Carga horária: 20h
-* Descrição: Inplementar o desenvolvimento socio-ambiental associado à gestão em situações de escassez.
+* Descrição: Implementar o desenvolvimento socio-ambiental associado à gestão hídrica em situações de escassez.
 * Instituição: Escola Nacional de Administração Pública(ENAP)
 
 ## Hidrologia Básica (Mai/2025)
 * Carga horária: 20h
-* Descrição: Introdução aos conceitos que definem bacias hidrográficas e o registro de dados pluviométricos e fluviométricos.
+* Descrição: Introdução aos conceitos que definem bacias hidrográficas, bem como coleta e registro de dados pluviométricos e fluviométricos.
 * Instituição: Escola Nacional de Administração Pública(ENAP)
 
 ## Estatística: Conceitos e representações (Jun/2025)
