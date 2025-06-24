@@ -8,7 +8,7 @@
 ## AtmosMarine Academy (Abr/2024)
 * Carga horária: 40h
 * Descrição: Aplicar técnicas de Data Science e Estatística voltadas para a resolução de problemas da geociência, treinando os algoritmos do software Sophia.
-* Instituição: AtmosMareine
+* Instituição: AtmosMarine
 
 ## Capacitação para uso da Interface de Divulgação de Alertas Públicos(IDAP) (Fev/2025)
 * Carga horária: 30h
