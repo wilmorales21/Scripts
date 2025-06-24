@@ -12,8 +12,8 @@
 
 ## Capacitação para uso da Interface de Divulgação de Alertas Públicos(IDAP) (Fev/2025)
 * Carga horária: 30h
-*Descrição: Apresentar a plataforma de Interface de Divulgação de Alertas Públicos(IDAP) como ferramenta para a emissão de alertas relacionados a riscos e desastres que podem ocorrer no país.
-*Instituição: Escola Nacional de Administração Pública(ENAP)
+* Descrição: Apresentar a plataforma de Interface de Divulgação de Alertas Públicos(IDAP) como ferramenta para a emissão de alertas relacionados a riscos e desastres que podem ocorrer no país.
+* Instituição: Escola Nacional de Administração Pública(ENAP)
 
 ## Proteção e Defesa Civil: Atuação no Âmbito Municipal (Mar/2025)
 * Carga horária: 30h
