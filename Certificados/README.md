@@ -64,4 +64,8 @@
 * Carga horária: 20h
 * Descrição: Calcular e Interpretar média, moda e mediana a partir de dados coletados.
 * Instituição: Instituto Federal Sul-Riograndense(IFSUL)
- 
+
+## Estatística (Jun/2025)
+ * Carga horária: 20h
+ * Descrição: Apresentar conceitos essenciais para avaliação socio-econômica de projetos, com o objetivo de desenvolver competências para compreensão de implicações sociais, econômicas e ambientais ao longo de projetos, servindo como subsidio à tomada de decisões.
+ * Instituição: Escola Nacional de Administração Pública(ENAP)
