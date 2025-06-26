@@ -69,3 +69,10 @@
  * Carga horária: 20h
  * Descrição: Apresentar conceitos essenciais para avaliação socio-econômica de projetos, com o objetivo de desenvolver competências para compreensão de implicações sociais, econômicas e ambientais ao longo de projetos, servindo como subsidio à tomada de decisões.
  * Instituição: Escola Nacional de Administração Pública(ENAP)
+
+## Introdução à Ciência de Dados: Estatística Essencial(Jun/2025)
+* Carga horária: 6h
+* Descrição: Apresentar conceitos essenciais de estatística aplicados à Ciência de Dados, combinando teoria e prática, focando na construção de modelos pra tomada de decisões.
+* Instituição: Escola Nacional de Administração Pública(ENAP)
+
+
