@@ -75,4 +75,10 @@
 * Descrição: Apresentar conceitos essenciais de estatística aplicados à Ciência de Dados, combinando teoria e prática, focando na construção de modelos pra tomada de decisões.
 * Instituição: Escola Nacional de Administração Pública(ENAP)
 
+## Introdução à Ciência de Dados: Modelos de Regressão(Jun/2025)
+* Carga horária: 4h
+* Descrição: Aapresenta os conceitos básicos em relação a modelos de regressão linear e não-linear, combinando teoria e prática, focando na construção de modelos pra tomada de decisões. 
+* Instituição: Escola Nacional de Administração Pública(ENAP)
+
+
 
