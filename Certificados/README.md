@@ -80,5 +80,21 @@
 * Descrição: Apresentar os conceitos básicos sobre modelos de regressão linear e não-linear, combinando teoria e prática e auxiliar na tomada de decisões. 
 * Instituição: Escola Nacional de Administração Pública(ENAP)
 
+## Banco de Dados: Fundamentos(Jul/2025)
+* Carga horária: 20h
+* Descrição: Apresentar conceitos básicos de banco de dados, incluindo a modelagem relacional e normalização.
+* Instituição: Instituto Federal Sul-Riograndense(IFSUL)
+
+## Introdução à Ciência de Dados: Modelos de agrupamento(Jul/2025)
+* Carga horária: 4h
+* Descrição: Apresentar os conceitos básicos de Ciência de Dados, especialmente sobre agrupamentos de dados como o
+algorítmo K-means, focando na construção de modelos para tomada de decisões.
+* Instituição: Escola Nacional de Administração Pública(ENAP)
+
+## Introdução à Ciência de Dados: Tratamento de Dados(Jul/2025)
+* Carga horária: 4h
+* Descrição: Apresentar os conceitos básicos de Ciência de Dados relacionados à definição de padrões frequentes, regras de associação e suas aplicações, focando na construção de modelos para tomada de decisões.
+* Instituição: Escola Nacional de Administração Pública(ENAP)
+
 
 
