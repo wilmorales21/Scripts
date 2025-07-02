@@ -85,7 +85,7 @@
 * Descrição: Apresentar conceitos básicos de banco de dados, incluindo a modelagem relacional e normalização.
 * Instituição: Instituto Federal Sul-Riograndense(IFSUL)
 
-## Introdução à Ciência de Dados: Modelos de agrupamento(Jul/2025)
+## Introdução à Ciência de Dados: Modelos de Agrupamento(Jul/2025)
 * Carga horária: 4h
 * Descrição: Apresentar os conceitos básicos de Ciência de Dados, especialmente sobre agrupamentos de dados como o
 algorítmo K-means, focando na construção de modelos para tomada de decisões.
