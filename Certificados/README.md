@@ -96,5 +96,8 @@ algorítmo K-means, focando na construção de modelos para tomada de decisões.
 * Descrição: Apresentar os conceitos básicos de Ciência de Dados relacionados à definição de padrões frequentes, regras de associação e suas aplicações, focando na construção de modelos para tomada de decisões.
 * Instituição: Escola Nacional de Administração Pública(ENAP)
 
-
+## Energias Renováveis: Termodinâmicas e Tipos(Jul/2025)
+* Carga horária: 20h
+* Descrição: Apresentar conceitos de termodinâmica e energias eólica, solar, hidráulica, geotérmica, bioenergias e de hidrogênio.
+* Instituição: Instituto Federal Sul-Riograndense(IFSUL)
 
