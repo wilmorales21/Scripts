@@ -104,7 +104,7 @@ algorítmo K-means, focando na construção de modelos para tomada de decisões.
 ## Inteligência Artificial I - Conhecendo as Redes Neurais Artificiais(Jul/2025)
 * Carga horária: 40h
 * Descrição: Apresentar conceitos de IA e os fundamentos de redes neurais artificiais(RNAs) do tipo Perceptron de camadas simples, RNAs do tipo Adaline e RNAs do tipo Multilayer Perceptron.
-* Instituição: Instituto Federal Sul-Riograndense(IFSUL)
+* Instituição: Instituto Federal Triângulo Mineiro
 
 
 
