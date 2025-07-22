@@ -1,10 +1,14 @@
 #                                                       CERTIFICADOS
 
+## Cartografia Ambiental(Jul/2025)
+* Carga horária: 20h
+* Descrição: Apresentar as projeções cartográficas de relevo e suas escalas inerentes, bem como interpretação de imagens digitais.  
+*  Instituição: Instituto Federal Sul-Riograndense(IFSUL)
 
 ## Manejo de Pragas no Cafeeiro(Jul/2025)
 * Carga horária: 20h
 * Descrição: Apresentar as características e métodos de controles de pragas, bem como as pragas no cafeeiro.
-* Instituto: Instituto Federal Sul-Riograndense(IFSUL)
+* Instituição: Instituto Federal Sul-Riograndense(IFSUL)
 
 ## Doenças e Plantas Invasoras no Cafeeiro(Jul/2025)
 * Carga horária: 20h
