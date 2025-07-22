@@ -106,6 +106,12 @@ algorítmo K-means, focando na construção de modelos para tomada de decisões.
 * Descrição: Apresentar conceitos de IA e os fundamentos de redes neurais artificiais(RNAs) do tipo Perceptron de camadas simples, RNAs do tipo Adaline e RNAs do tipo Multilayer Perceptron.
 * Instituição: Instituto Federal Triângulo Mineiro
 
+## Manejo de Pragas no Cafeeiro(Jul/2025)
+* Carga horária: 20h
+* Descrição: Apresentar as características e métodos de controles de pragas, bem como as pragas no cafeeiro.
+* Instituto: Instituto Federal Sul-Riograndense(IFSUL)
 
-
-
+## Doenças e Plantas Invasoras no Cafeeiro(Jul/2025)
+* Carga horária: 20h
+* Descrição: Introduzir o conhecimento sobre as doenças no cafeeiro, tipos de plantas invasoras e técnicas de manejo integrado.
+* Instituição: Instituto Federal Sul-Riograndense(IFSUL)
