@@ -1,5 +1,10 @@
 #                                                       CERTIFICADOS
 
+## Oceanografia e Meteorologia Pesqueira(Jul/2025)
+* Carga horária: 20h 
+* Descrição: Apresentar a dinâmica das interações oceano-atmosfera pertinentes à atividade pesqueira. 
+* Instituição: Instituto Federal Sul-Riograndense(IFSUL) 
+
 ## Gerenciamento de Recursos Hídricos(Jul/2025)
 * Carga horária: 20h
 * Descrição: Apresentar o conceito de Ciclo Hidrológico, bem como os problemas relacionados com a contaminação e o gerenciamento das águas pelos órgãos responsáveis.
