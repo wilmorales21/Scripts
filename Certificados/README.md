@@ -1,5 +1,10 @@
 #                                                       CERTIFICADOS
 
+## Gerenciamento de Recursos Hídricos(Jul/2025)
+* Carga horária: 20h
+* Descrição: Apresentar o conceito de Ciclo Hidrológico, bem como os problemas relacionados com a contaminação e o gerenciamento das águas pelos órgãos responsáveis.
+* Instituição: Instituto Federal Sul-Riograndense(IFSUL)
+
 ## Estrutura de Dados(Jul/2025)
 * Carga horária: 20h
 * Descrição: Apresentar os conceitos básicos de listas, elementos, nós, pilhas e filas, fundamentais para a organização de dados.
