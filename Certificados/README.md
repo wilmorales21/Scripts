@@ -1,5 +1,11 @@
 #                                                       CERTIFICADOS
 
+## Estrutura de Dados(Jul/2025)
+* Carga horária: 20h
+* Descrição: Apresentar os conceitos básicos de listas, elementos, nós, pilhas e filas, fundamentais para a organização de dados.
+* Instituição: Instituto Federal Sul-Riograndense(IFSUL)
+
+
 ## Cartografia Ambiental(Jul/2025)
 * Carga horária: 20h
 * Descrição: Apresentar as projeções cartográficas de relevo e suas escalas inerentes, bem como interpretação de imagens digitais.  
