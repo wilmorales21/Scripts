@@ -1,5 +1,15 @@
 #                                                       CERTIFICADOS
 
+## Introdução à Ciência de Dados: Conjuntos Frequentes(Jul/2025)
+* Carga horária: 4h
+* Descrição: Apresentar conceitos básicos relacionados à definição de padrões frequentes, regras de associação e suas aplicações, mediante uma aproximação entre a teoria e práticas consideradas como necessárias para a formação de um cientista de dados.
+* Instituição: Escola Nacional de Administração Pública(ENAP)  
+
+##  Introdução à Ciência de Dados: Modelos de Classificação(Jul/2025)
+* Carga horária: 8h
+* Descrição: Apresentar conceitos e os modelos de classificação, combinando teoria e práticas necessárias para a tomada de decisões.
+* Instituição: Escola Nacional de Administração Pública(ENAP) 
+
 ## Oceanografia e Meteorologia Pesqueira(Jul/2025)
 * Carga horária: 20h 
 * Descrição: Apresentar a dinâmica das interações oceano-atmosfera pertinentes à atividade pesqueira. 
@@ -14,7 +24,6 @@
 * Carga horária: 20h
 * Descrição: Apresentar os conceitos básicos de listas, elementos, nós, pilhas e filas, fundamentais para a organização de dados.
 * Instituição: Instituto Federal Sul-Riograndense(IFSUL)
-
 
 ## Cartografia Ambiental(Jul/2025)
 * Carga horária: 20h
