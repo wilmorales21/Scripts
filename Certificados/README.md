@@ -1,5 +1,30 @@
 #                                                       CERTIFICADOS
 
+## Análise de Negócios no Desenvolvimento de Soluções Baseadas em Dados(Ago/2025)
+* Carga horária: 25h
+* Descrição: Identificar problemas, mapear necessidades e utilizar dados para embasar decisões estratégicas, ampliando sua capacidade de análise e solução de problemas em diferentes contextos
+* Instituição: Escola Nacional de Administração Pública(ENAP)
+
+## Visualização de Dados Aplicada à Transformação Digital(Ago/2025)
+* Carga horária: 25h
+* Descrição: Apresentar maneiras dinâmicas para a visualização de dados em ambientes organizacionais, guiando gestores na tomada de decisão.
+* Instituição: Escola Nacional de Administração Pública(ENAP)
+
+## Análise de Dados como Suporte à Tomada de Decisão(Ago/2025)
+* Carga horária: 25h
+* Descrição: Abordar a importância da utilização de dados analíticos pelos gestores e servidores públicos tomadores de decisão, bem como a forma de obtenção e utilização de dados estratégicos.
+* Instituição: Escola Nacional de Administração Pública(ENAP)
+
+## Frutíferas de Clima Tropical e Subtropical(Jul/2025)
+* Carga horária: 20h
+* Descrição: Apresentar os conceitos básicos de cultura e cultivo de frutíferas tropicais e subtropicais.
+* Instituto: Instituto Federal Sul-Riograndense(IFSUL)
+
+## Fruticultura e Empreendedorismo(Jul/2025)
+* Carga horária: 20h
+* Descrição: Apresentar técnicas eficientes nas decisões e eficazes na implantação da fruticultura como atividade geradora de trabalho, renda, autonomia e desenvolvimento.
+* Instituto: Instituto Federal Sul-Riograndense(IFSUL)
+
 ## Introdução à Ciência de Dados: Conjuntos Frequentes(Jul/2025)
 * Carga horária: 4h
 * Descrição: Apresentar conceitos básicos relacionados à definição de padrões frequentes, regras de associação e suas aplicações, mediante uma aproximação entre a teoria e práticas consideradas como necessárias para a formação de um cientista de dados.
